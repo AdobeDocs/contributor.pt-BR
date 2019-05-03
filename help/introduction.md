@@ -1,32 +1,29 @@
 ---
 title: Guia do colaborador para a documentação da Adobe
-seo-title: Visão geral do guia de colaborador da documentação técnica da Adobe Experience
-  Cloud
-description: O guia descreve como você pode contribuir com sugestões e adições para
-  o site da documentação da Adobe.
-seo-description: O guia descreve como você pode contribuir para a documentação técnica
-  da [!UICONTROL Adobe Experience Cloud].
-translation-type: tm+mt
+seo-title: Visão geral do guia do colaborador para a documentação técnica da Adobe Experience Cloud
+description: O guia descreve como você pode contribuir com sugestões e adições para o site da documentação da Adobe.
+seo-description: O guia descreve como você pode contribuir para a documentação técnica da [!UICONTROL Adobe Experience Cloud].
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
 
 
-# Visão geral do Guia de colaborador para a documentação da Adobe
+# Visão geral do guia do colaborador para a documentação da Adobe
 
 ## O que é a Documentação colaborativa
 
-Durante 2019, toda a documentação técnica e conteúdo de capacitação da Adobe Experience Cloud está sendo transferida para uma nova plataforma, com base em princípios de código aberto, utilizando as soluções Github, Markdown e Adobe Experience Cloud, incluindo o Adobe Experience Manager, Analytics, Launch e Target.
+Durante o ano de 2019, todo o conteúdo de documentação técnica e de capacitação da Adobe Experience Cloud está sendo transferido para uma nova plataforma, com base em princípios de código aberto, utilizando as soluções GitHub, Markdown e Adobe Experience Cloud, incluindo o Adobe Experience Manager, Analytics, Launch e Target.
 
-Este modelo de código aberto melhora a qualidade do conteúdo e a comunicação entre clientes, equipes de documentação e equipes de produtos. Em todas as páginas, agora você pode classificar a utilidade do conteúdo, os problemas de log e até mesmo contribuir com sugestões de conteúdo como solicitações de Git (prs). As equipes de documentação da Adobe monitoram as contribuições e os problemas diariamente, além de fazerem atualizações, transiaques e ajustes, conforme necessário.
+Este modelo de código aberto melhora a qualidade do conteúdo e a comunicação entre clientes, equipes de documentação e equipes de produtos. Em todas as páginas, agora você pode classificar a utilidade do conteúdo, registrar problemas e até mesmo contribuir com sugestões de conteúdo como solicitações de Git (PRs). As equipes de documentação da Adobe monitoram as contribuições e os problemas diariamente, além de fazerem atualizações e ajustes, conforme necessário.
 
 ## Trabalhar com documentação colaborativa
 
-Como usuário desse material - independentemente de se você for um funcionário, parceiro, cliente ou até mesmo clientes potenciais - você tem a opção de contribuir para essa documentação de várias maneiras simples;
+Como usuário desse material, independentemente de se você for um funcionário, parceiro, cliente ou até mesmo um cliente potencial, você tem a opção de contribuir para essa documentação de várias maneiras simples:
 
-* classificar a ajuda da página
+* classificar o nível de ajuda da página
 * registrar um problema em relação a uma página específica
-* até mesmo enviar uma edição rápida para a criação de artigos inteiros, concluir com ativos e amostras de código
+* enviar uma edição rápida para a criação de artigos inteiros, completa com ativos e amostras de código
 
 Este guia descreve tudo o que você precisa saber para interagir e contribuir com esse conjunto de materiais.
 
@@ -41,10 +38,10 @@ Este guia descreve tudo o que você precisa saber para interagir e contribuir co
 
 Fazer edições rápidas é uma boa maneira de corrigir pequenos erros e omissões nos documentos. Se um artigo exibir um botão Edit (Editar) como mostrado abaixo, você poderá fazer uma correção rápida. Ao editar o documento, você envia uma solicitação de pull (PR) para enviar a correção/sugestão para nós e poderemos vetar, aprovar e publicar a sugestão.
 
-1. Se for aceitável, assine o [Contrato de licença de colaborador (CLA)](http://opensource.adobe.com/cla.html) .
+1. Assine o [Contrato de licença de colaborador (CLA)](http://opensource.adobe.com/cla.html) se for aceitável.
 
-   Você só precisa enviar uma Adobe CLA uma vez.
-1. Clique em ** na coluna à direita para ir para o arquivo de origem do Markdown no GitHub.`Edit this page`**
+   É necessário enviar um CLA da Adobe somente uma vez.
+1. Clique em **`Edit this page`** na coluna à direita para ir para o arquivo de origem do Markdown no GitHub.
 1. Clique no ícone de lápis para editar o artigo.
 
    > [!NOTE]
@@ -57,7 +54,7 @@ Fazer edições rápidas é uma boa maneira de corrigir pequenos erros e omissõ
 
    ![como propor sua alteração](assets/submit-pull-request.png)
 
-   >[!NOTE] Se você receber uma mensagem de erro de validação sobre como assinar um Contrato de Licença de Colaborador (CLA), clique **em Detalhes** para abrir o contrato de licença. Assine o contrato, se for aceitável. Em seguida, feche e abra a solicitação de extração e prossiga.
+   >[!NOTE] Se você receber uma mensagem de erro de validação sobre a assinatura de um Contrato de Licença de Colaborador (CLA), clique em **Detalhes** para abrir o contrato de licença. Assine o contrato, se for aceitável. Em seguida, feche e abra a solicitação de extração e prossiga.
 
 Isso é tudo. Obrigado! Os membros da equipe de documentação analisarão e mesclarão sua solicitação de pull.
 
@@ -78,7 +75,7 @@ Outra maneira fácil de nos informar sobre um problema de conteúdo é usar a op
 
    ![](assets/git_issue_example.png)
 
-Enviar um problema notificará diretamente a equipe de conteúdo da página que será capaz de agir. Quando atualizarmos o conteúdo, você será informado na interface do GitHub Issues e notificado por e-mail quando o problema for atualizado ou encerrado.
+O envio de um problema notificará diretamente a equipe de conteúdo da página que poderá tomar uma ação. Quando atualizarmos o conteúdo, você será informado na interface do GitHub Issues e notificado por e-mail quando o problema for atualizado ou encerrado.
 
 ## Compreender as permissões do GitHub
 

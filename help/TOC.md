@@ -11,8 +11,8 @@ getting-started-title: Experience League
 getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: Tutoriais
 tutorials-url: https://helpx.adobe.com/br/experience-cloud/tutorials.html
-test-meta: testando
-translation-type: tm+mt
+test-meta: teste
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
@@ -32,6 +32,6 @@ source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
    + [Orientação geral de escrita](writing-essentials/general-writing-guidance.md)
    + [Vinculação](writing-essentials/linking.md)
 + [Recursos de aprendizado de Git e GitHub](resources.md)
-+  Conduta e contribuições{#conduct-contributions}
++ Conduta e contribuições {#conduct-contributions}
    + [Código de conduta](conduct/code-of-conduct.md)
    + [Visão geral das contribuições](conduct/contributing.md)

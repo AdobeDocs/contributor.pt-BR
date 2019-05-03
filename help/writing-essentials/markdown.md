@@ -1,12 +1,10 @@
 ---
-lastModified: 2018-06-28T00:00:00Z
+lastModified: '2018-06-28'
 title: Como usar o Markdown para escrever a documentação
 seo-title: Como usar o Markdown para escrever a documentação da Adobe
-description: este artigo fornece informações básicas e de referência sobre a linguagem
-  do Markdown usada para escrever artigos.
-seo-description: este artigo fornece informações básicas e de referência sobre a linguagem
-  do Markdown usada para escrever artigos para a documentação da Adobe.
-translation-type: tm+mt
+description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos.
+seo-description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos para a documentação da Adobe.
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
@@ -15,7 +13,7 @@ source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 Os artigos técnicos da Adobe são escritos em uma linguagem de marcação simples chamada [Markdown](https://daringfireball.net/projects/markdown/), que facilita a leitura e o aprendizado.
 
-Como estamos armazenando o conteúdo dos documentos da Adobe no GitHub, uma versão do Markdown chamada [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) pode ser usada, a qual oferece funcionalidade adicional para as necessidades comuns de formatação. Além disso, a Adobe estendeu o Markdown de algumas maneiras para oferecer suporte a determinados recursos relacionados a ajuda, como notas, dicas e vídeos incorporados.
+Como estamos armazenando o conteúdo da documentação da Adobe no GitHub, uma versão do Markdown chamada [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) pode ser usada, a qual oferece funcionalidade adicional para as necessidades comuns de formatação. Além disso, a Adobe estendeu o Markdown de algumas maneiras para oferecer suporte a determinados recursos relacionados a ajuda, como notas, dicas e vídeos incorporados.
 
 ## Noções básicas sobre o Markdown
 
@@ -150,8 +148,8 @@ Tabelas simples funcionam adequadamente no Markdown. No entanto, as tabelas que 
 Para obter mais informações sobre como criar tabelas, consulte:
 
 - [Como organizar informações com tabelas do GitHub](https://help.github.com/articles/organizing-information-with-tables/)
-- O aplicativo web [Gerador de tabelas do Markdown](https://www.tablesgenerator.com/markdown_tables)
-- [Converter tabelas HTML para Markdown](https://jmalarcon.github.io/markdowntables/)
+- O aplicativo web [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
+- [Converter tabelas HTML em Markdown](https://jmalarcon.github.io/markdowntables/)
 
 ### Links
 
@@ -337,7 +335,7 @@ Para elementos na interface do usuário e nos menus de uma solução, usamos a e
 
 **Exemplo:**
 
-Em [!DNL Adobe Target] você, você pode criar seus testes diretamente em uma página [!DNL Target]habilitada para -ativada.
+No [!DNL Adobe Target], você pode criar testes diretamente em uma página habilitada para [!DNL Target].
 
 **Fonte:**
 
@@ -347,7 +345,7 @@ In [!DNL Adobe Target] you can create your tests directly on a [!DNL Target]-ena
 
 **Exemplo**
 
-Use o [!UICONTROL Visual Experience Composer] in [!DNL Target] para criar seu teste diretamente em uma página.
+Use o [!UICONTROL Visual Experience Composer] no [!DNL Target] para criar seu teste diretamente em uma página.
 
 **Fonte:**
 
@@ -378,7 +376,7 @@ Se você copiar o texto em um editor do Markdown, poderá conter apóstrofos ou 
 Estas são as codificações das versões "inteligentes" dessas marcas de pontuação:
 
 - Aspas à esquerda (abertura): `&#8220;`
-- Aspas à direita: `&#8221;`
+- Aspas à direita (fechamento): `&#8221;`
 - Aspas simples (fechamento) ou apóstrofe: `&#8217;`
 - Aspas simples (abertura) aspas simples (raramente usadas): `&#8216;`
 
@@ -397,4 +395,4 @@ Por exemplo, codifique `<script name>` como `&lt;script name&gt;`
 ### Recursos do Markdown
 
 - [Introdução ao Markdown](https://daringfireball.net/projects/markdown/syntax)
-- [Fundamentos do Markdown do GitHub](https://help.github.com/articles/markdown-basics/)
+- [Noções básicas do Markdown do GitHub](https://help.github.com/articles/markdown-basics/)

@@ -1,21 +1,18 @@
 ---
-lastModified: 2018-10-15T00:00:00Z
+lastModified: '2018-10-15'
 title: Etapas de configuração de conta do GitHub
-seo-title: Etapas de configuração da conta Github para a documentação da Adobe Experience
-  Cloud
-description: Siga o processo de configuração de contas para o GitHub, necessário para
-  contribuir com o conteúdo na documentação da Adobe.
-seo-description: Siga o processo de configuração de contas para o GitHub, necessário
-  para contribuir com o conteúdo na documentação da Adobe.
+seo-title: Etapas de configuração de conta do GitHub para a documentação da Adobe Experience Cloud
+description: Siga o processo de configuração de contas para o GitHub, necessário para contribuir com o conteúdo na documentação da Adobe.
+seo-description: Siga o processo de configuração de contas para o GitHub, necessário para contribuir com o conteúdo na documentação da Adobe.
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
 
 # Configuração de conta do GitHub
 
-## Configurar uma conta github
+## Configurar uma conta do GitHub
 
 Para contribuir com alterações ou adições à documentação da Adobe (ou de outras organizações) no GitHub, você precisa configurar sua própria conta GitHub. É fácil.
 
@@ -25,13 +22,13 @@ Para contribuir com alterações ou adições à documentação da Adobe (ou de 
 
 Identifique quaisquer afiliações no seu perfil do GitHub. A identificação nos ajuda a construir um perfil completo de todas as suas atividades.
 
-## Assinar o Contrato de Licença de Colaborador (CLA)
+## Assinar o Contrato de Licença do Colaborador (CLA)
 
 Todas as contribuições de terceiros para esse projeto devem ser acompanhadas por um Contrato de Licença de Colaborador
 assinado. Esse contrato fornece à Adobe permissão para redistribuir suas contribuições
 como parte do projeto.
 
-1. Se for aceitável, assine o [Contrato de licença de colaborador (CLA)](http://opensource.adobe.com/cla.html) .
+1. Assine o [Contrato de licença de colaborador (CLA)](http://opensource.adobe.com/cla.html) se for aceitável.
 
 ## Funcionários da Adobe
 

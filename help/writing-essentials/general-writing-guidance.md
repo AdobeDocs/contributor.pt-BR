@@ -1,12 +1,10 @@
 ---
-lastModified: 2018-06-28T00:00:00Z
+lastModified: '2018-06-28'
 title: Orientação de escrita para a documentação da Adobe
 seo-title: Orientação de escrita para a documentação da Adobe
-description: este artigo inclui orientações essenciais para contribuir com a documentação
-  da Adobe.
-seo-description: este artigo inclui orientações essenciais para contribuir com a documentação
-  da Adobe.
-translation-type: tm+mt
+description: este artigo inclui orientações essenciais para contribuir com a documentação da Adobe.
+seo-description: este artigo inclui orientações essenciais para contribuir com a documentação da Adobe.
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---

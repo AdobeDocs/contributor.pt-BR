@@ -1,13 +1,10 @@
 ---
-lastModified: 2018-06-28T00:00:00Z
+lastModified: '2018-06-28'
 title: Fluxo de trabalho de contribuição do GitHub para grandes alterações
-seo-title: Fluxo de trabalho de contribuição do GitHub para grandes alterações na
-  documentação da Adobe
-description: este artigo mostra como usar o fluxo de trabalho de colaborador "principal"
-  para fazer contribuições à documentação da Adobe.
-seo-description: este artigo mostra como usar o fluxo de trabalho de colaborador "principal"
-  para fazer contribuições à documentação da Adobe.
-translation-type: tm+mt
+seo-title: Fluxo de trabalho de contribuição do GitHub para grandes alterações na documentação da Adobe
+description: este artigo mostra como usar o fluxo de trabalho de colaborador "principal" para fazer contribuições à documentação da Adobe.
+seo-description: este artigo mostra como usar o fluxo de trabalho de colaborador "principal" para fazer contribuições à documentação da Adobe.
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
@@ -61,7 +58,7 @@ A próxima etapa é criar uma nova ramificação de trabalho no repositório loc
 
 Você envia as alterações propostas agrupando-as em uma nova solicitação de pull (PR) que é adicionada à fila de PRs do repositório de destino. As solicitações de pull possibilitam o modelo de colaboração do GitHub, solicitando que as alterações feitas em sua ramificação de trabalho sejam extraídas e mescladas com outra ramificação. Na maioria dos casos, essa outra ramificação é a ramificação padrão/mestre no repositório principal.
 
-### Validação 
+### Validação
 
 Antes da solicitação de pull ser mesclada à ramificação de destino, pode ser necessário passar por um ou mais processos de validação de PR. Os processos de validação podem variar dependendo do escopo das alterações propostas e das regras do repositório de destino. Depois de enviar a solicitação de pull, o conteúdo é revisado e, se e quando apropriado, mesclado com o repositório principal.
 

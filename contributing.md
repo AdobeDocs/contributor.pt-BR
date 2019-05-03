@@ -1,6 +1,6 @@
 ---
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
-translation-type: tm+mt
+translation-type: ht
 
 ---
 # Contribuição
@@ -15,9 +15,9 @@ Esse projeto segue o [código de conduta](code-of-conduct.md) da Adobe. Ao parti
 deve seguir esse código. Denuncie qualquer comportamento inaceitável para 
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
-## Documentação do Guia do Colaborador
+## Documentação do Guia do colaborador
 
-Consulte o Guia [](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)de Colaborador.
+Consulte o [Guia do colaborador](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
 
 ## Dúvidas?
 
@@ -55,4 +55,4 @@ entre em contato com os responsáveis existentes para conversar sobre isso.
 
 ## Problemas de segurança
 
-Problemas de segurança não devem ser relatados neste rastreador de problemas. Em vez disso, [envie o problema para nossos especialistas em segurança](https://helpx.adobe.com/security/alertus.html)
+Problemas de segurança não devem ser relatados neste rastreador de problemas. Em vez disso, [envie o problema para nossos especialistas em segurança](https://helpx.adobe.com/br/security/alertus.html)

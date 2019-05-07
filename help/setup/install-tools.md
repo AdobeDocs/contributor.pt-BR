@@ -5,7 +5,7 @@ seo-title: Instalar ferramentas de criação do Git e GitHub para a documentaç�
 description: Este artigo ajuda você a baixar e instalar as ferramentas do cliente necessárias para Git/GitHub e para editar arquivos Markdown.
 seo-description: Este artigo ajuda você a baixar e instalar as ferramentas do cliente necessárias para Git/GitHub e para editar arquivos Markdown para a documentação da Adobe.
 translation-type: ht
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+source-git-commit: c52ce435e8bbd6a4666cf9b5f46ccfc8b12c170f
 
 ---
 

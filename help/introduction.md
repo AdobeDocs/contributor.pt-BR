@@ -4,7 +4,7 @@ seo-title: Visão geral do guia do colaborador para a documentação técnica da
 description: O guia descreve como você pode contribuir com sugestões e adições para o site da documentação da Adobe.
 seo-description: O guia descreve como você pode contribuir para a documentação técnica da [!UICONTROL Adobe Experience Cloud].
 translation-type: ht
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+source-git-commit: cda3618353a35ebb7dd73a64777ca1c788f5b72b
 
 ---
 

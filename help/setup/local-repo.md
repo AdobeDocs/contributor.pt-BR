@@ -4,7 +4,7 @@ seo-title: Configurar o repositório Git localmente para a documentação da Ado
 description: Este artigo fornece orientação para criar seu repositório Git local e contribuir com a documentação da Adobe, incluindo o processo de bifurcamento e clonagem.
 seo-description: Este artigo fornece orientação para criar seu repositório Git local e contribuir com a documentação da Adobe, incluindo o processo de bifurcamento e clonagem.
 translation-type: ht
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+source-git-commit: 223b40e1903c5de90dee90a138967efb02237a42
 
 ---
 

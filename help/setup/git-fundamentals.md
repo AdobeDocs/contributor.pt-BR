@@ -4,7 +4,7 @@ seo-title: Fundamentos da documentação do Git e do GitHub
 description: Este artigo mostra uma visão geral do repositório Git, do repositório GitHub, como o conteúdo é organizado e as convenções de nomenclatura usadas para a documentação da Adobe.
 seo-description: este artigo mostra uma visão geral do repositório Git, do repositório GitHub, como o conteúdo é organizado e as convenções de nomenclatura usadas para a documentação da Adobe.
 translation-type: ht
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+source-git-commit: 223b40e1903c5de90dee90a138967efb02237a42
 
 ---
 

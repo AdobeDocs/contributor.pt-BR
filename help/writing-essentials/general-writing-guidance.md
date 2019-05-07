@@ -5,7 +5,7 @@ seo-title: Orientação de escrita para a documentação da Adobe
 description: este artigo inclui orientações essenciais para contribuir com a documentação da Adobe.
 seo-description: este artigo inclui orientações essenciais para contribuir com a documentação da Adobe.
 translation-type: ht
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+source-git-commit: 1c289ce5a8fdceb7187676e48511c560a69d69c9
 
 ---
 

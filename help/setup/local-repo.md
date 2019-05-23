@@ -3,10 +3,11 @@ title: Configurar o repositório Git localmente
 seo-title: Configurar o repositório Git localmente para a documentação da Adobe
 description: Este artigo fornece orientação para criar seu repositório Git local e contribuir com a documentação da Adobe, incluindo o processo de bifurcamento e clonagem.
 seo-description: Este artigo fornece orientação para criar seu repositório Git local e contribuir com a documentação da Adobe, incluindo o processo de bifurcamento e clonagem.
-translation-type: ht
-source-git-commit: 223b40e1903c5de90dee90a138967efb02237a42
+translation-type: tm+mt
+source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
+
 
 # Configurar o repositório Git localmente para a documentação
 
@@ -27,7 +28,7 @@ Para contribuir com a documentação da Adobe, você pode bifurcar o repositóri
 
 ## Determine o repositório
 
-Você bifurca o repositório apropriado em sua própria conta GitHub para obter permissões de leitura/gravação e armazenar as alterações propostas. [!UICONTROL Adobe Experience Cloud] a documentação encontra-se em vários repositórios diferentes em [github.com](https://www.github.com/adobedocs).
+Você bifurca o repositório apropriado em sua própria conta GitHub para obter permissões de leitura/gravação e armazenar as alterações propostas. [!UICONTROL Adobe Experience Cloud] a documentação está em vários repositórios diferentes em [github.com](https://www.github.com/adobedocs).
 
 1. Se não tiver certeza de qual repositório usar, acesse o artigo usando seu navegador da web. Selecione o link **Edit** (ícone de lápis) no canto superior direito do artigo. (Caso não veja um link Edit, o conteúdo ainda não está disponível no GitHub.)
 

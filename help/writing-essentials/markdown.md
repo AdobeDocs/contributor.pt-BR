@@ -4,16 +4,17 @@ title: Como usar o Markdown para escrever a documentação
 seo-title: Como usar o Markdown para escrever a documentação da Adobe
 description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos.
 seo-description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos para a documentação da Adobe.
-translation-type: ht
-source-git-commit: cda3618353a35ebb7dd73a64777ca1c788f5b72b
+translation-type: tm+mt
+source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
+
 
 # Como usar o Markdown para escrever a documentação técnica
 
 Os artigos técnicos da Adobe são escritos em uma linguagem de marcação simples chamada [Markdown](https://daringfireball.net/projects/markdown/), que facilita a leitura e o aprendizado.
 
-Como estamos armazenando o conteúdo da documentação da Adobe no GitHub, uma versão do Markdown chamada [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) pode ser usada, a qual oferece funcionalidade adicional para as necessidades comuns de formatação. Além disso, a Adobe estendeu o Markdown de algumas maneiras para oferecer suporte a determinados recursos relacionados a ajuda, como notas, dicas e vídeos incorporados.
+Como estamos armazenando o conteúdo dos documentos da Adobe no GitHub, uma versão do Markdown chamada [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) pode ser usada, a qual oferece funcionalidade adicional para as necessidades comuns de formatação. Além disso, a Adobe estendeu o Markdown de algumas maneiras para oferecer suporte a determinados recursos relacionados a ajuda, como notas, dicas e vídeos incorporados.
 
 ## Noções básicas sobre o Markdown
 
@@ -148,8 +149,8 @@ Tabelas simples funcionam adequadamente no Markdown. No entanto, as tabelas que 
 Para obter mais informações sobre como criar tabelas, consulte:
 
 - [Como organizar informações com tabelas do GitHub](https://help.github.com/articles/organizing-information-with-tables/)
-- O aplicativo web [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
-- [Converter tabelas HTML em Markdown](https://jmalarcon.github.io/markdowntables/)
+- O aplicativo web [Gerador de tabelas do Markdown](https://www.tablesgenerator.com/markdown_tables)
+- [Converter tabelas HTML para Markdown](https://jmalarcon.github.io/markdowntables/)
 
 ### Links
 
@@ -187,7 +188,7 @@ Exibido:
 
 O Markdown oferece suporte à adição em linha de blocos de código em uma sentença e como um bloco “cercado” separado entre sentenças. Para obter detalhes, consulte o [suporte nativo do Markdown para blocos de código](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Use acentos graves ( \` ) para criar estilos de código em linha em um parágrafo. Para criar um bloco de código de várias linhas específico, adicione três acentos graves (\`\`\`) antes e depois do bloco de código (chamado de “bloco de código cercado” no Markdown e apenas um componente de "bloco de código" no AEM). Para blocos de código cercados, adicione o texto do código depois do primeiro conjunto de acentos graves para que o Markdown aponte a sintaxe de código correta. Exemplo: \`\`\`javascript
+Use acentos graves ( \` ) para criar estilos de código em linha em um parágrafo. Para criar um bloco de código de várias linhas específico, adicione três acentos graves (\`\`\`) antes e depois do bloco de código (chamado de “bloco de código cercado” no Markdown e apenas um componente de &quot;bloco de código&quot; no AEM). Para blocos de código cercados, adicione o texto do código depois do primeiro conjunto de acentos graves para que o Markdown aponte a sintaxe de código correta. Exemplo: \`\`\`javascript
 
 Exemplos:
 
@@ -215,11 +216,11 @@ function test() {
  console.log("notice the blank line before this function?");
 ```
 
-É possível especificar propriedades para os blocos de código para desativar os números de linha (ativado por padrão) ou adicionar uma quebra de linha (desativado por padrão). Use {line-numbers="no"} e {line-wrap="yes"}. Essas propriedades são extensões personalizadas do Markdown.
+É possível especificar propriedades para os blocos de código para desativar os números de linha (ativado por padrão) ou adicionar uma quebra de linha (desativado por padrão). Use {line-numbers=&quot;no&quot;} e {line-wrap=&quot;yes&quot;}. Essas propriedades são extensões personalizadas do Markdown.
 
-\`\`\`javascript {line-numbers="no"}
+\`\`\`javascript {line-numbers=&quot;no&quot;}
 function test() {
-console.log("observou a linha em branco antes desta função?");
+console.log(&quot;observou a linha em branco antes desta função?&quot;);
 \`\`\`
 
 ### Listas de definições
@@ -258,7 +259,7 @@ Os artigos da Adobe usam o Markdown padrão para a maioria das formatações, co
 - Não traduzir
 - Propriedades de componente, como atribuir uma ID de cabeçalho diferente a um cabeçalho
 
-Use a aspa de bloco ( > ) do Markdown no início de cada linha para unir um componente estendido, como uma nota. Se você precisar usar subcomponentes dentro de componentes, adicione um nível extra de aspas de bloco (>  >) nessa seção de subcomponente. Por exemplo, uma OBSERVAÇÃO em uma seção DONOTLOCALIZE deve começar com >    >.
+Use a aspa de bloco ( &gt; ) do Markdown no início de cada linha para unir um componente estendido, como uma nota. Se você precisar usar subcomponentes dentro de componentes, adicione um nível extra de aspas de bloco (&gt;  &gt;) nessa seção de subcomponente. Por exemplo, uma OBSERVAÇÃO em uma seção DONOTLOCALIZE deve começar com &gt;    &gt;.
 
 Alguns elementos comuns do Markdown, como cabeçalhos e blocos de código, incluem propriedades estendidas. Se você precisar alterar as propriedades padrão, adicione os parâmetros em chaves francesas /{ /} depois do componente. As propriedades estendidas estão descritas em contexto.
 
@@ -308,7 +309,7 @@ Exibido:
 
 ### Mais artigos como este
 
-O componente "Mais artigos como este" no AEM aparece no fim de um artigo. Ele exibe links relacionados. Quando o artigo é renderizado, ele pode ser formatado como um cabeçalho de nível 2 (##) sem ser adicionado ao mini-TOC.
+O componente &quot;Mais artigos como este&quot; no AEM aparece no fim de um artigo. Ele exibe links relacionados. Quando o artigo é renderizado, ele pode ser formatado como um cabeçalho de nível 2 (##) sem ser adicionado ao mini-TOC.
 
 <!--
 ```markdown
@@ -371,9 +372,9 @@ Nossa prática recomendada é usar hifens (-) em vez de sublinhados (_) nos nome
 
 ### Apóstrofos e aspas
 
-Se você copiar o texto em um editor do Markdown, poderá conter apóstrofos ou aspas "inteligentes" (curvos). Eles precisam ser codificados ou alterados para apóstrofos ou aspas básicos. Caso contrário, você terá caracteres estranhos como este quando o arquivo for publicado: Itâ€™s
+Se você copiar o texto em um editor do Markdown, poderá conter apóstrofos ou aspas &quot;inteligentes&quot; (curvos). Eles precisam ser codificados ou alterados para apóstrofos ou aspas básicos. Caso contrário, você terá caracteres estranhos como este quando o arquivo for publicado: Itâ€™s
 
-Estas são as codificações das versões "inteligentes" dessas marcas de pontuação:
+Estas são as codificações das versões &quot;inteligentes&quot; dessas marcas de pontuação:
 
 - Aspas à esquerda (abertura): `&#8220;`
 - Aspas à direita (fechamento): `&#8221;`
@@ -388,11 +389,11 @@ Por exemplo, codifique `<script name>` como `&lt;script name&gt;`
 
 ### “E” comercial em títulos
 
-“E” comercial (&) não é permitido em títulos. Use "e" ou a codificação `&amp;`.
+“E” comercial (&amp;) não é permitido em títulos. Use &quot;e&quot; ou a codificação `&amp;`.
 
 ## Consulte também
 
 ### Recursos do Markdown
 
 - [Introdução ao Markdown](https://daringfireball.net/projects/markdown/syntax)
-- [Noções básicas do Markdown do GitHub](https://help.github.com/articles/markdown-basics/)
+- [Fundamentos do Markdown do GitHub](https://help.github.com/articles/markdown-basics/)

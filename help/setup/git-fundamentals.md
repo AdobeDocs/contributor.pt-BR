@@ -3,10 +3,11 @@ title: Fundamentos da documentação do Git e do GitHub
 seo-title: Fundamentos da documentação do Git e do GitHub
 description: Este artigo mostra uma visão geral do repositório Git, do repositório GitHub, como o conteúdo é organizado e as convenções de nomenclatura usadas para a documentação da Adobe.
 seo-description: este artigo mostra uma visão geral do repositório Git, do repositório GitHub, como o conteúdo é organizado e as convenções de nomenclatura usadas para a documentação da Adobe.
-translation-type: ht
-source-git-commit: 223b40e1903c5de90dee90a138967efb02237a42
+translation-type: tm+mt
+source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
+
 
 # Fundamentos da documentação do Git e do GitHub
 
@@ -18,7 +19,7 @@ Como um colaborador de conteúdo para a documentação da Adobe, você pode inte
 
 O Git é um sistema de controle de versão aberto que permite colaboração. Vários colaboradores podem trabalhar nos arquivos dos *repositórios*.
 
-O GitHub é um serviço de hospedagem baseado na web para repositórios Git, como aqueles usados para armazenar conteúdo do[docs.adobe.com](https://docs.adobe.com). Para qualquer projeto, o GitHub hospeda o repositório principal, do qual os colaboradores podem fazer cópias para seu próprio trabalho.
+GitHub é um serviço de hospedagem baseado na web para repositórios Git, como aqueles usados para armazenar conteúdo [docs.adobe.com](https://docs.adobe.com). Para qualquer projeto, o GitHub hospeda o repositório principal, do qual os colaboradores podem fazer cópias para seu próprio trabalho.
 
 ## Git
 
@@ -27,7 +28,7 @@ O Git apresenta um fluxo de trabalho de contribuição e uma terminologia exclus
 O Git também usa uma estrutura em camadas para armazenar e gerenciar o conteúdo de um projeto:
 
 - *Repositório*: também conhecido como *repo*, esta é a unidade mais elevada de armazenamento. Um repositório contém uma ou mais ramificações.
-- *Ramificação*: todos os repositórios contêm uma ramificação padrão (em geral, chamada de "mestre") e uma ou mais ramificações destinadas a serem mescladas à ramificação mestre. A ramificação mestre serve como a versão atual e a fonte da qual o conteúdo é publicado. É a ramificação principal da qual todas as outras ramificações no repositório são criadas.
+- *Ramificação*: todos os repositórios contêm uma ramificação padrão (em geral, chamada de &quot;mestre&quot;) e uma ou mais ramificações destinadas a serem mescladas à ramificação mestre. A ramificação mestre serve como a versão atual e a fonte da qual o conteúdo é publicado. É a ramificação principal da qual todas as outras ramificações no repositório são criadas.
 
 Os colaboradores interagem com o Git para atualizar e manipular repositórios nos níveis locais e do GitHub:
 

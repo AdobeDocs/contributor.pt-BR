@@ -4,10 +4,11 @@ title: Instalar ferramentas de criação
 seo-title: Instalar ferramentas de criação do Git e GitHub para a documentação da Adobe
 description: Este artigo ajuda você a baixar e instalar as ferramentas do cliente necessárias para Git/GitHub e para editar arquivos Markdown.
 seo-description: Este artigo ajuda você a baixar e instalar as ferramentas do cliente necessárias para Git/GitHub e para editar arquivos Markdown para a documentação da Adobe.
-translation-type: ht
-source-git-commit: c52ce435e8bbd6a4666cf9b5f46ccfc8b12c170f
+translation-type: tm+mt
+source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
+
 
 # Instalar ferramentas de criação
 
@@ -20,19 +21,19 @@ source-git-commit: c52ce435e8bbd6a4666cf9b5f46ccfc8b12c170f
 
 ## Instalar as ferramentas do cliente Git
 
-Para obter uma ferramenta de interface gráfica que ajuda a sincronizar os arquivos locais com os arquivos do servidor, baixe o [GitHub Desktop](https://desktop.github.com/). Outras opções populares incluem [página de Clientes de GUI disponíveis do Software Freedom Conservancy](https://git-scm.com/downloads/guis) ou [Microsoft Visual Studio Code](https://www.visualstudio.com/products/code-vs.aspx).
+Para obter uma ferramenta de interface gráfica que ajuda a sincronizar os arquivos locais com os arquivos do servidor, baixe o [GitHub Desktop](https://desktop.github.com/). Outras opções populares incluem a [página de clientes GUI disponíveis do Software Freedom Conservancy](https://git-scm.com/downloads/guis) ou o [Microsoft Visual Studio Code](https://www.visualstudio.com/products/code-vs.aspx).
 
 Se preferir uma interface de linha de comando (CLI) a uma interface gráfica (GUI), instale a versão mais recente das [ferramentas de cliente Git do Software Freedom Conservancy](https://git-scm.com/downloads). A instalação inclui o sistema de controle de versão Git e o Git Bash, o aplicativo de linha de comando que pode ser usado para interagir com o repositório Git local.
 
 Os recursos de aprendizado do Git estão disponíveis aqui:
 
-* [Noções básicas do Git](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
-* [Saber mais sobre o Git e o GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
+* [Conceitos básicos sobre o Git](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+* [Saiba mais sobre Git e GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 * [Terminologia do Git](https://help.github.com/articles/github-glossary)
 
 ## Entender os editores do Markdown
 
-O Markdown é uma linguagem de marcação simples e fácil de ler e aprender. Assim, tornou-se rapidamente um padrão do setor. Para escrever artigos no Markdown, recomendamos que você primeiro baixe e instale um editor de Markdown. Dentre as opções populares, estão [Visual Studio Code](https://code.visualstudio.com/), [Adobe Brackets](https://brackets.io) e [Atom](https://atom.io).
+O Markdown é uma linguagem de marcação simples e fácil de ler e aprender. Assim, tornou-se rapidamente um padrão do setor. Para escrever artigos no Markdown, recomendamos que você primeiro baixe e instale um editor de Markdown. As opções populares incluem [Visual Studio Code](https://code.visualstudio.com/), [Adobe Brackets](https://brackets.io) e [Atom](https://atom.io).
 
 O texto do Markdown é salvo em arquivos com extensão .md.
 

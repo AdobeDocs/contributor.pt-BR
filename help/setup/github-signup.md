@@ -5,7 +5,7 @@ seo-title: Etapas de configuração de conta do GitHub para a documentação da 
 description: Siga o processo de configuração de contas para o GitHub, necessário para contribuir com o conteúdo na documentação da Adobe.
 seo-description: Siga o processo de configuração de contas para o GitHub, necessário para contribuir com o conteúdo na documentação da Adobe.
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
@@ -29,7 +29,7 @@ Todas as contribuições de terceiros para esse projeto devem ser acompanhadas p
 assinado. Esse contrato fornece à Adobe permissão para redistribuir suas contribuições
 como parte do projeto.
 
-1. Se for aceitável, assine o [Contrato de licença de colaborador (CLA)](http://opensource.adobe.com/cla.html) .
+1. Assine o [Contrato de licença de colaborador (CLA)](http://opensource.adobe.com/cla.html) se for aceitável.
 
 ## Funcionários da Adobe
 

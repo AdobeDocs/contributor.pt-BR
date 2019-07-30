@@ -4,7 +4,7 @@ title: Como usar o Markdown para escrever a documentação
 seo-title: Como usar o Markdown para escrever a documentação da Adobe
 description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos.
 seo-description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos para a documentação da Adobe.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
@@ -14,7 +14,7 @@ source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 Os artigos técnicos da Adobe são escritos em uma linguagem de marcação simples chamada [Markdown](https://daringfireball.net/projects/markdown/), que facilita a leitura e o aprendizado.
 
-Como estamos armazenando o conteúdo dos documentos da Adobe no GitHub, uma versão do Markdown chamada [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) pode ser usada, a qual oferece funcionalidade adicional para as necessidades comuns de formatação. Além disso, a Adobe estendeu o Markdown de algumas maneiras para oferecer suporte a determinados recursos relacionados a ajuda, como notas, dicas e vídeos incorporados.
+Como estamos armazenando o conteúdo da documentação da Adobe no GitHub, uma versão do Markdown chamada [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) pode ser usada, a qual oferece funcionalidade adicional para as necessidades comuns de formatação. Além disso, a Adobe estendeu o Markdown de algumas maneiras para oferecer suporte a determinados recursos relacionados a ajuda, como notas, dicas e vídeos incorporados.
 
 ## Noções básicas sobre o Markdown
 
@@ -149,8 +149,8 @@ Tabelas simples funcionam adequadamente no Markdown. No entanto, as tabelas que 
 Para obter mais informações sobre como criar tabelas, consulte:
 
 - [Como organizar informações com tabelas do GitHub](https://help.github.com/articles/organizing-information-with-tables/)
-- O aplicativo web [Gerador de tabelas do Markdown](https://www.tablesgenerator.com/markdown_tables)
-- [Converter tabelas HTML para Markdown](https://jmalarcon.github.io/markdowntables/)
+- O aplicativo web [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
+- [Converter tabelas HTML em Markdown](https://jmalarcon.github.io/markdowntables/)
 
 ### Links
 
@@ -332,7 +332,7 @@ Palavras, frases e outros elementos precisam ser declarados para nossos sistemas
 
 Para palavras ou frases que não devem ser traduzidas, use a extensão do `[!DNL]` para envolver a palavra ou a seção.
 
-Para elementos na interface do usuário e nos menus de uma solução, usamos a extensão do `[!UICONTROL]`.
+Para elementos na interface do usuário e nos menus de uma solução, usamos a extensão do ``.
 
 **Exemplo:**
 
@@ -396,4 +396,4 @@ Por exemplo, codifique `<script name>` como `&lt;script name&gt;`
 ### Recursos do Markdown
 
 - [Introdução ao Markdown](https://daringfireball.net/projects/markdown/syntax)
-- [Fundamentos do Markdown do GitHub](https://help.github.com/articles/markdown-basics/)
+- [Noções básicas do Markdown do GitHub](https://help.github.com/articles/markdown-basics/)

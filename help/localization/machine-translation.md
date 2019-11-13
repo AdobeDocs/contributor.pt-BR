@@ -29,27 +29,27 @@ Você pode exibir a documentação de produto da Adobe Experience Cloud na maior
 
    ![Página traduzida](assets/french.png)
 
-   Nos casos em que sua versão de idioma ainda não está disponível, a Adobe pode traduzir automaticamente seu conteúdo. Adobe's automatic translation service displays a message at the top of the page in a blue field:
+   Nos casos em que sua versão de idioma ainda não está disponível, a Adobe pode traduzir automaticamente seu conteúdo. O serviço de tradução automática da Adobe exibe uma mensagem na parte superior da página em um campo azul:
 
-   ![Translation message](assets/machine-translation-message.png)
+   ![Mensagem de tradução](assets/machine-translation-message.png)
 
-   The content may be rendered in your language automatically, or you can click a link to trigger the translation. (Esse cenário pode ocorrer quando você clica no hiperlink para retornar para a origem inglesa da página traduzida. Fornece a opção de exibir a página traduzida sob demanda.) Você pode voltar a qualquer momento para a fonte inglesa.
+   O conteúdo pode ser renderizado automaticamente em seu idioma ou você pode clicar em um link para acionar a tradução. (Esse cenário pode ocorrer quando você clica no hiperlink para retornar para a origem inglesa da página traduzida. Fornece a opção de exibir a página traduzida sob demanda.) Você pode voltar a qualquer momento para a fonte inglesa.
 
-   Ocasionalmente, o conteúdo de origem em inglês pode ter sido atualizado e publicado recentemente antes da conclusão das traduções. Upon clicking on your language in the dropdown menu, you will see a notification — in the light-blue horizontal bar at the top of the page — informing that the page was automatically translated from the previous version, with updated content to be available soon. Você terá a opção de exibir o conteúdo de origem mais recente em inglês em uma nova janela do navegador, se preferir.
+   Ocasionalmente, o conteúdo de origem em inglês pode ter sido atualizado e publicado recentemente antes da conclusão das traduções. Ao clicar no seu idioma no menu suspenso, você verá uma notificação — na barra horizontal azul-clara na parte superior da página — informando que a página foi traduzida automaticamente da versão anterior, com o conteúdo atualizado disponível em breve. Você terá a opção de exibir o conteúdo de origem mais recente em inglês em uma nova janela do navegador, se preferir.
 
 ## Por que usar a tradução automática
 
-Adobe takes advantage of automatic translation capabilities to publish product support content in various languages, as close to content creation time as possible. Como o conteúdo de suporte é essencial para o uso do produto, priorizamos a tradução do conteúdo por profissionais qualificados, mas também podemos optar pela tradução automática, onde a velocidade e a urgência são mais importantes.
+A Adobe aproveita os recursos de tradução automática para publicar o conteúdo de suporte do produto em vários idiomas, o mais próximo possível do tempo de criação do conteúdo. Como o conteúdo de suporte é essencial para o uso do produto, priorizamos a tradução do conteúdo por profissionais qualificados, mas também podemos optar pela tradução automática, onde a velocidade e a urgência são mais importantes.
 
-A tradução automática é onipresente na Internet e seu uso é geralmente aceito como uma poderosa ferramenta de coleta de informações. Foi amplamente adotado para o conteúdo da base de conhecimento, onde pode haver pouca ou nenhuma intervenção humana. Although there have been major technological breakthroughs in recent years, automatically-generated translations may contain occasional inaccuracies and errors in language and meaning.
+A tradução automática é onipresente na Internet e seu uso é geralmente aceito como uma poderosa ferramenta de coleta de informações. Foi amplamente adotado para o conteúdo da base de conhecimento, onde pode haver pouca ou nenhuma intervenção humana. Embora se tenham registrado grandes avanços tecnológicos nos últimos anos, as traduções geradas automaticamente podem conter imprecisões e erros ocasionais de linguagem e significado.
 
-### Automatic Translation via the Browser
+### Tradução automática pelo navegador
 
-If you have set your browser preferences to automatically translate any page into your language, be aware that the resulting translations will differ from those obtained through the Adobe page. That is because the service offered by the browser may be stock translations, while the Adobe translations will have been customized to adhere to Adobe style guidelines and terminology. To obtain optimal automatic translation results, we recommend that you either disable the browser option for this specific site in your browser preferences, or click Never translate when it displays.****
+Se você tiver definido as preferências do navegador para traduzir automaticamente qualquer página no seu idioma, esteja ciente de que as traduções resultantes serão diferentes das obtidas na página da Adobe. Isso ocorre porque o serviço oferecido pelo navegador pode ser traduções de ações, enquanto as traduções da Adobe foram personalizadas para seguir as diretrizes e a terminologia do estilo da Adobe. Para obter os melhores resultados de conversão automática, recomendamos que você desative a opção de navegador para este site específico nas preferências do navegador ou clique em **Nunca traduzir** quando for exibido.
 
 ### Problemas conhecidos
 
-You might occasionally experience issues with the automatic translation output, such as incomplete translations, corrupted characters or page layout issues. These are caused by any of the various authoring, publishing, or translation technology tools Adobe uses. Faremos todos os esforços para listar os problemas conhecidos abaixo.
+Você pode ocasionalmente enfrentar problemas com a saída de tradução automática, como traduções incompletas, caracteres corrompidos ou problemas de layout de página. Esses problemas são causados por qualquer uma das várias ferramentas de criação, publicação ou tradução utilizadas pela Adobe. Faremos todos os esforços para listar os problemas conhecidos abaixo.
 
 | **ID DO PROBLEMA** | **DESCRIÇÃO** | **STATUS** |
 |--------------|-------------------------------------------------------------------------------------|------------|

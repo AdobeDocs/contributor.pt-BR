@@ -3,7 +3,7 @@ title: Guia do colaborador para a documentação da Adobe
 seo-title: Visão geral do guia do colaborador para a documentação técnica da Adobe Experience Cloud
 description: O guia descreve como você pode contribuir com sugestões e adições para o site da documentação da Adobe.
 seo-description: O guia descreve como você pode contribuir para a documentação técnica da [!UICONTROL Adobe Experience Cloud].
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3a769e92e724694b17c5412303d533c7402f5cd0
 
 ---
@@ -38,7 +38,7 @@ Este guia descreve tudo o que você precisa saber para interagir e contribuir co
 
 Fazer edições rápidas é uma boa maneira de corrigir pequenos erros e omissões nos documentos. Se um artigo exibir um botão Edit (Editar) como mostrado abaixo, você poderá fazer uma correção rápida. Ao editar o documento, você envia uma solicitação de pull (PR) para enviar a correção/sugestão para nós e poderemos vetar, aprovar e publicar a sugestão.
 
-1. Sign the [Contributor License Agreement (CLA)](http://opensource.adobe.com/cla.html) if acceptible.
+1. Assine o [Contrato de licença de colaborador (CLA)](http://opensource.adobe.com/cla.html) se for aceitável.
 
    É necessário enviar um CLA da Adobe somente uma vez.
 1. Clique em **`Edit this page`** na coluna à direita para ir para o arquivo de origem do Markdown no GitHub.

@@ -3,7 +3,7 @@ title: Suporte de idioma para a documentação do produto Adobe Experience Cloud
 seo-title: Suporte de idioma para a documentação do produto Adobe Experience Cloud
 description: O guia descreve como você pode contribuir com sugestões e adições para o site da documentação da Adobe.
 seo-description: O guia descreve como você pode contribuir para a documentação técnica da [!UICONTROL Adobe Experience Cloud].
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 9db7dd1fb9b22bc35f887d0441a1837813efc9cc
 
 ---
@@ -17,9 +17,9 @@ A Adobe reconhece que você precisa de documentação do produto, ajuda e conte�
 
 Você pode visualizar a documentação do produto Adobe Experience Cloud na maioria dos idiomas.
 
-1. Navegue até a documentação [de](https://helpx.adobe.com/support/experience-cloud.html)produto da Experience Cloud.
+1. Navegue até a [documentação do produto](https://helpx.adobe.com/br/support/experience-cloud.html) da Experience Cloud.
 
-1. Navegue para localizar uma página de ajuda (por exemplo, [Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html)).
+1. Navegue para localizar uma página de ajuda (por exemplo, [Analytics](https://docs.adobe.com/content/help/pt-BR/analytics/landing/home.html)).
 
 1. Clique no Seletor de idioma (ícone do mundo) e escolha um idioma.
 
@@ -70,8 +70,8 @@ do usuário nessas páginas.
 
 ![Melhore esta página](assets/feedback.png)
 
-### Isenção de responsabilidade de tradução
+### Isenção de responsabilidade da tradução
 
-A Adobe usa um programa de tradução automática para traduzir o texto em vários idiomas diferentes. Esteja ciente de que as traduções computadorizadas são traduções literais e podem conter erros. A Adobe não garante a precisão, a confiabilidade ou a atualidade das traduções fornecidas. A Adobe não será responsável por quaisquer perdas ou danos incorridos devido à confiança na precisão ou confiabilidade das informações traduzidas. Se houver diferenças entre o inglês e outro idioma, a versão em inglês será controlada.
+A Adobe usa um programa de tradução automática para traduzir o texto para vários idiomas diferentes. Esteja ciente de que as traduções computadorizadas são traduções literais e podem conter erros. A Adobe não garante a precisão, a confiabilidade ou a atualidade das traduções fornecidas. A Adobe não será responsável por quaisquer perdas ou danos incorridos devido à confiança na precisão ou confiabilidade das informações traduzidas. Se houver diferenças entre o inglês e outro idioma, a versão em inglês é a que vale.
 
-Se você quiser relatar um erro de tradução ou inexatidão, recomendamos que entre em contato conosco.
+Se você quiser relatar um erro de tradução ou uma imprecisão, recomendamos que entre em contato conosco.

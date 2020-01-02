@@ -1,11 +1,11 @@
 ---
-lastModified: '2018-06-28'
+lastModified: 2018-06-28T00:00:00Z
 title: Como usar o Markdown para escrever a documentação
 seo-title: Como usar o Markdown para escrever a documentação da Adobe
 description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos.
 seo-description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos para a documentação da Adobe.
-translation-type: ht
-source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
+translation-type: tm+mt
+source-git-commit: 883f9d7a9a232fdb69db09d5e9409575c7f3bdd0
 
 ---
 
@@ -14,7 +14,7 @@ source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 Os artigos técnicos da Adobe são escritos em uma linguagem de marcação simples chamada [Markdown](https://daringfireball.net/projects/markdown/), que facilita a leitura e o aprendizado.
 
-Como estamos armazenando o conteúdo da documentação da Adobe no GitHub, uma versão do Markdown chamada [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) pode ser usada, a qual oferece funcionalidade adicional para as necessidades comuns de formatação. Além disso, a Adobe estendeu o Markdown de algumas maneiras para oferecer suporte a determinados recursos relacionados a ajuda, como notas, dicas e vídeos incorporados.
+Como estamos armazenando o conteúdo dos documentos da Adobe no GitHub, uma versão do Markdown chamada [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) pode ser usada, a qual oferece funcionalidade adicional para as necessidades comuns de formatação. Além disso, a Adobe estendeu o Markdown de algumas maneiras para oferecer suporte a determinados recursos relacionados a ajuda, como notas, dicas e vídeos incorporados.
 
 ## Noções básicas sobre o Markdown
 
@@ -58,7 +58,7 @@ This is not \*italicized\* type.
 
 ### Listas numeradas e listas de itens
 
-Para criar listas numeradas, inicie uma linha com 1. ou 1), mas não use ambos os formatos na mesma lista, senão você iniciará uma nova lista. Você não precisa especificar os números. O GitHub faz isso para você.
+To create numbered lists, begin a line with `1.` or `1)`, but don&#39;t use both formats within the same list. Você não precisa especificar os números. O GitHub faz isso para você.
 
 ```markdown
 1. This is step 1.
@@ -73,20 +73,20 @@ Exibido:
 1. Esta é a terceira etapa.
 
 <!-- markdownlint-disable MD037 -->
-Para criar listas de itens, comece uma linha com \* ou - ou +, mas não misture os formatos em uma mesma lista. (Se você misturar os formatos, como \* e \+, iniciará uma nova lista.)
+Para criar listas de itens, comece uma linha com \* ou - ou +, mas não misture os formatos em uma mesma lista. (Não misture formatos de marcadores, como \* e \+, dentro do mesmo documento.)
 <!-- markdownlint-disable MD037 -->
 
 ```markdown
-- First item in an unordered list.
-- Another item.
-- Here we go again.
+* First item in an unordered list.
+* Another item.
+* Here we go again.
 ```
 
 Exibido:
 
-- O primeiro item em uma lista não ordenada.
-- Outro item.
-- Mais um.
+* O primeiro item em uma lista não ordenada.
+* Outro item.
+* Mais um.
 
 Também é possível incorporar listas em listas e adicionar conteúdo entre itens de lista.
 
@@ -97,9 +97,9 @@ Também é possível incorporar listas em listas e adicionar conteúdo entre ite
    ![screen](assets/no-localize/adobe_standard_logo.png)
 1. Make sure that your table looks like this: 
 
-    | Hello | World |
-    |---|---|
-    | How | are you? |  
+   | Hello | World |
+   |---|---|
+   | How | are you? |  
 1. This is the fourth step.
 
    >[!NOTE]
@@ -132,25 +132,25 @@ As tabelas não fazem parte da especificação principal do Markdown, mas a Adob
 
 ```markdown
 | Header | Another header | Yet another header |
-|------------|:---------------:|-----------------------:|
-| row 1 | centered column 2 | right-aligned column 3 |
+|--- |--- |--- |
+| row 1 | column 2 | column 3 |
 | row 2 | row 2 column 2 | row 2 column 3 |
 ```
 
 Exibido:
 
 | Cabeçalho | Outro cabeçalho | Mais um cabeçalho |
-|------------|:---------------:|-----------------------:|
-| linha 1 | coluna centralizada 2 | coluna alinhada à direita 3 |
+|--- |--- |--- |
+| linha 1 | coluna 2 | coluna 3 |
 | linha 2 | linha 2 coluna 2 | linha 2 coluna 3 |
 
 Tabelas simples funcionam adequadamente no Markdown. No entanto, as tabelas que incluem vários parágrafos ou listas dentro de uma célula são difíceis de trabalhar. Para tal conteúdo, recomendamos usar um formato diferente, como cabeçalhos e texto.
 
 Para obter mais informações sobre como criar tabelas, consulte:
 
-- [Como organizar informações com tabelas do GitHub](https://help.github.com/articles/organizing-information-with-tables/)
-- O aplicativo web [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
-- [Converter tabelas HTML em Markdown](https://jmalarcon.github.io/markdowntables/)
+* [Como organizar informações com tabelas do GitHub](https://help.github.com/articles/organizing-information-with-tables/)
+* O aplicativo web [Gerador de tabelas do Markdown](https://www.tablesgenerator.com/markdown_tables)
+* [Converter tabelas HTML para Markdown](https://jmalarcon.github.io/markdowntables/)
 
 ### Links
 
@@ -159,12 +159,12 @@ A sintaxe do Markdown para um link em linha consiste na parte `[link text]`, que
 `[link text](file-name.md)`
 
 ```markdown
-[Adobe](https://www.adobe.com) or <https://www.adobe.com>
+[Adobe](https://www.adobe.com)
 ```
 
 Exibido:
 
-[Adobe](https://www.adobe.com) ou <https://www.adobe.com>
+[Adobe](https://www.adobe.com)
 
 Para links para artigos (referências cruzadas) no repositório, use links relativos. Você pode usar todos os operandos de links relativos, como ./ (diretório atual), ../ (voltar um diretório) e ../../ (voltar dois diretórios).
 
@@ -254,12 +254,12 @@ Comentários (observações) não aparecem nos artigos de ajuda voltados ao púb
 
 Os artigos da Adobe usam o Markdown padrão para a maioria das formatações, como parágrafos, links, listas e cabeçalhos. Para obter uma formatação mais avançada, os artigos podem usar recursos estendidos do Markdown, como:
 
-- Blocos de notas
-- Vídeos incorporados
-- Não traduzir
-- Propriedades de componente, como atribuir uma ID de cabeçalho diferente a um cabeçalho
+* Blocos de notas
+* Vídeos incorporados
+* Não traduzir
+* Propriedades de componente, como atribuir uma ID de cabeçalho diferente a um cabeçalho
 
-Use a aspa de bloco ( &gt; ) do Markdown no início de cada linha para unir um componente estendido, como uma nota. Se você precisar usar subcomponentes dentro de componentes, adicione um nível extra de aspas de bloco (&gt;  &gt;) nessa seção de subcomponente. Por exemplo, uma OBSERVAÇÃO em uma seção DONOTLOCALIZE deve começar com &gt;    &gt;.
+Use a aspa de bloco ( > ) do Markdown no início de cada linha para unir um componente estendido, como uma nota. Se você precisar usar subcomponentes dentro de componentes, adicione um nível extra de aspas de bloco (>  >) nessa seção de subcomponente. Por exemplo, uma OBSERVAÇÃO em uma seção DONOTLOCALIZE deve começar com >    >.
 
 Alguns elementos comuns do Markdown, como cabeçalhos e blocos de código, incluem propriedades estendidas. Se você precisar alterar as propriedades padrão, adicione os parâmetros em chaves francesas /{ /} depois do componente. As propriedades estendidas estão descritas em contexto.
 
@@ -267,10 +267,10 @@ Alguns elementos comuns do Markdown, como cabeçalhos e blocos de código, inclu
 
 É possível escolher entre quatro tipos de blocos de notas para chamar a atenção para um conteúdo específico:
 
-- `[!NOTE]`
-- `[!CAUTION]`
-- `[!TIP]`
-- `[!IMPORTANT]`
+* `[!NOTE]`
+* `[!CAUTION]`
+* `[!TIP]`
+* `[!IMPORTANT]`
 
 Em geral, os blocos de notas devem ser usados com moderação, pois podem causar problemas. Embora também sejam compatíveis com blocos de código, imagens, listas e links, tente manter os blocos de notas simples e diretos.
 
@@ -311,19 +311,18 @@ Exibido:
 
 O componente &quot;Mais artigos como este&quot; no AEM aparece no fim de um artigo. Ele exibe links relacionados. Quando o artigo é renderizado, ele pode ser formatado como um cabeçalho de nível 2 (##) sem ser adicionado ao mini-TOC.
 
-<!--
 ```markdown
->[!MORE]
+>[!MORELIKETHIS]
 >* [Article 1](https://helpx.adobe.com/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/support/audience-manager.html){target="new-window"}
+>* [Article 2](https://helpx.adobe.com/support/audience-manager.html)
 ```
 
-Displayed:
+Exibido:
 
->[!MORE]
->* [Article 1](https://helpx.adobe.com/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/support/audience-manager.html){target="new-window"}
--->
+>[!MORELIKETHIS]
+>* [Artigo 1º](https://helpx.adobe.com/support/analytics.html)
+>* [Artigo 2º](https://helpx.adobe.com/support/audience-manager.html)
+
 
 ### DNL - Não traduzir - e UICONTROL
 
@@ -361,13 +360,13 @@ Use the [!UICONTROL Visual Experience Composer] in [!DNL Target] to create your 
 O texto alternativo que contém sublinhados não será renderizado corretamente. Por exemplo, em vez de usar isso:
 
 ```markdown
-![Settings_Step_2] (/assets/settings_step_2.png)
+![Settings_Step_2](/assets/settings_step_2.png)
 ```
 
 Nossa prática recomendada é usar hifens (-) em vez de sublinhados (_) nos nomes de arquivo.
 
 ```markdown
-![Settings-Step-2] (/assets/settings-step-2.png)
+![Settings-Step-2](/assets/settings-step-2.png)
 ```
 
 ### Apóstrofos e aspas
@@ -376,10 +375,10 @@ Se você copiar o texto em um editor do Markdown, poderá conter apóstrofos ou 
 
 Estas são as codificações das versões &quot;inteligentes&quot; dessas marcas de pontuação:
 
-- Aspas à esquerda (abertura): `&#8220;`
-- Aspas à direita (fechamento): `&#8221;`
-- Aspas simples (fechamento) ou apóstrofe: `&#8217;`
-- Aspas simples (abertura) aspas simples (raramente usadas): `&#8216;`
+* Aspas à esquerda (abertura): `&#8220;`
+* Aspas à direita (fechamento): `&#8221;`
+* Aspas simples (fechamento) ou apóstrofe: `&#8217;`
+* Aspas simples (abertura) aspas simples (raramente usadas): `&#8216;`
 
 ### Colchetes
 
@@ -395,5 +394,5 @@ Por exemplo, codifique `<script name>` como `&lt;script name&gt;`
 
 ### Recursos do Markdown
 
-- [Introdução ao Markdown](https://daringfireball.net/projects/markdown/syntax)
-- [Noções básicas do Markdown do GitHub](https://help.github.com/articles/markdown-basics/)
+* [Introdução ao Markdown](https://daringfireball.net/projects/markdown/syntax)
+* [Fundamentos do Markdown do GitHub](https://help.github.com/articles/markdown-basics/)

@@ -3,7 +3,7 @@ title: Guia do colaborador para a documentação da Adobe
 seo-title: Visão geral do guia do colaborador para a documentação técnica da Adobe Experience Cloud
 description: O guia descreve como você pode contribuir com sugestões e adições para o site da documentação da Adobe.
 seo-description: O guia descreve como você pode contribuir para a documentação técnica da [!UICONTROL Adobe Experience Cloud].
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: afcd9363375adbc21a0e9a027d3f5ce59e08cd70
 
 ---
@@ -38,10 +38,10 @@ Este guia descreve tudo o que você precisa saber para interagir e contribuir co
 
 Fazer edições rápidas é uma boa maneira de corrigir pequenos erros e omissões nos documentos. Se um artigo exibir um botão Edit (Editar) como mostrado abaixo, você poderá fazer uma correção rápida. Ao editar o documento, você envia uma solicitação de pull (PR) para enviar a correção/sugestão para nós e poderemos vetar, aprovar e publicar a sugestão.
 
-1. Sign the [Contributor License Agreement (CLA)](http://opensource.adobe.com/cla.html) if acceptable.
+1. Assine o [Contrato de licença de colaborador (CLA)](http://opensource.adobe.com/cla.html) se for aceitável.
 
-   É necessário enviar um CLA da Adobe somente uma vez.
-1. Clique em **`Edit this page`**na coluna à direita para ir para o arquivo de origem do Markdown no GitHub.
+   É necessário enviar somente um CLA da Adobe uma vez.
+1. Clique em **`Edit this page`** na coluna à direita para ir para o arquivo de origem do Markdown no GitHub.
 1. Clique no ícone de lápis para editar o artigo.
 
    > [!NOTE]
@@ -54,7 +54,7 @@ Fazer edições rápidas é uma boa maneira de corrigir pequenos erros e omissõ
 
    ![como propor sua alteração](assets/submit-pull-request.png)
 
-   >[!NOTE] Se você receber uma mensagem de erro de validação sobre a assinatura de um Contrato de Licença de Colaborador (CLA), clique em **Detalhes** para abrir o contrato de licença. Assine o contrato, se possível. Em seguida, feche e abra a solicitação de extração e prossiga.
+   >[!NOTE] Se você receber uma mensagem de erro de validação em relação à assinatura de um Contrato de licença de colaborador (CLA), clique em **Detalhes** para abrir o contrato de licença. Assine o contrato, se for aceitável. Em seguida, feche e abra a solicitação de extração e prossiga.
 
 Isso é tudo. Obrigado! Os membros da equipe de documentação analisarão e mesclarão sua solicitação de pull.
 

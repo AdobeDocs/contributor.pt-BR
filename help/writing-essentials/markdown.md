@@ -4,7 +4,7 @@ title: Como usar o Markdown para escrever a documentação
 seo-title: Como usar o Markdown para escrever a documentação da Adobe
 description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos.
 seo-description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos para a documentação da Adobe.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 883f9d7a9a232fdb69db09d5e9409575c7f3bdd0
 
 ---
@@ -58,7 +58,7 @@ This is not \*italicized\* type.
 
 ### Listas numeradas e listas de itens
 
-To create numbered lists, begin a line with `1.` or `1)`, but don&#39;t use both formats within the same list. Você não precisa especificar os números. O GitHub faz isso para você.
+Para criar listas numeradas, comece uma linha com `1.` ou `1)`, mas não use ambos os formatos dentro da mesma lista. Você não precisa especificar os números. O GitHub faz isso para você.
 
 ```markdown
 1. This is step 1.
@@ -149,7 +149,7 @@ Tabelas simples funcionam adequadamente no Markdown. No entanto, as tabelas que 
 Para obter mais informações sobre como criar tabelas, consulte:
 
 * [Como organizar informações com tabelas do GitHub](https://help.github.com/articles/organizing-information-with-tables/)
-* O aplicativo web [Gerador de tabelas do Markdown](https://www.tablesgenerator.com/markdown_tables)
+* O aplicativo web [Gerador de tabelas para Markdown](https://www.tablesgenerator.com/markdown_tables)
 * [Converter tabelas HTML para Markdown](https://jmalarcon.github.io/markdowntables/)
 
 ### Links
@@ -320,8 +320,8 @@ O componente &quot;Mais artigos como este&quot; no AEM aparece no fim de um arti
 Exibido:
 
 >[!MORELIKETHIS]
->* [Artigo 1º](https://helpx.adobe.com/support/analytics.html)
->* [Artigo 2º](https://helpx.adobe.com/support/audience-manager.html)
+>* [Artigo 1](https://helpx.adobe.com/br/support/analytics.html)
+>* [Artigo 2](https://helpx.adobe.com/br/support/audience-manager.html)
 
 
 ### DNL - Não traduzir - e UICONTROL
@@ -331,7 +331,7 @@ Palavras, frases e outros elementos precisam ser declarados para nossos sistemas
 
 Para palavras ou frases que não devem ser traduzidas, use a extensão do `[!DNL]` para envolver a palavra ou a seção.
 
-Para elementos na interface do usuário e nos menus de uma solução, usamos a extensão do ``.
+Para elementos na interface do usuário e nos menus de uma solução, usamos a extensão do ``.
 
 **Exemplo:**
 

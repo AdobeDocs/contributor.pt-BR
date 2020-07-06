@@ -1,11 +1,14 @@
 ---
-lastModified: '2018-06-28'
+lastModified: 2018-06-28T00:00:00Z
 title: Fluxo de trabalho de contribuição do GitHub para grandes alterações
 seo-title: Fluxo de trabalho de contribuição do GitHub para grandes alterações na documentação da Adobe
 description: este artigo mostra como usar o fluxo de trabalho de colaborador "principal" para fazer contribuições à documentação da Adobe.
 seo-description: este artigo mostra como usar o fluxo de trabalho de colaborador "principal" para fazer contribuições à documentação da Adobe.
-translation-type: ht
-source-git-commit: cb9e20da64bb04a2b1765338b237825cae7aabeb
+translation-type: tm+mt
+source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
+workflow-type: tm+mt
+source-wordcount: '1006'
+ht-degree: 99%
 
 ---
 
@@ -29,10 +32,10 @@ Antes de começar, vamos rever alguns dos termos do Git/GitHub usados neste flux
 
 | Nome | Descrição |
 |-----------|-------------|
-| bifurcação | Normalmente usado como um substantivo ao se referir a uma cópia de um repositório GitHub principal. Na prática, uma bifurcação é apenas outro repositório. Mas é especial, uma vez que o GitHub mantém uma conexão bidirecional com o repositório principal/pai. Às vezes, é usado como verbo, como em "Você deve bifurcar o repositório primeiro". |
-| remoto | Uma conexão nomeada com um repositório remoto, como o repositório remoto de "origem" ou "upstream". O Git refere-se a esses repositórios como remotos, pois são usados para fazer referência a um repositório hospedado em outro computador. Nesse fluxo de trabalho, um repositório remoto sempre é um repositório GitHub. |
-| origem | O nome atribuído à conexão entre o repositório local e o repositório do qual ele foi clonado. Nesse fluxo de trabalho, a origem representa a conexão com a bifurcação. Às vezes, ela é usada como um moniker do próprio repositório de origem, como em "Lembre-se de enviar as alterações para a origem". |
-| upstream | Assim como o repositório remoto de origem, o repositório upstream é uma conexão nomeada com outro repositório. Nesse fluxo de trabalho, o repositório upstream representa a conexão entre o repositório local e o repositório principal, do qual a bifurcação foi criada. Às vezes, é usado como um moniker para o próprio repositório upstream, como em "Lembre-se de extrair as alterações do upstream". |
+| bifurcação | Normalmente usado como um substantivo ao se referir a uma cópia de um repositório GitHub principal. Na prática, uma bifurcação é apenas outro repositório. Mas é especial, uma vez que o GitHub mantém uma conexão bidirecional com o repositório principal/pai. Às vezes, é usado como verbo, como em &quot;Você deve bifurcar o repositório primeiro&quot;. |
+| remoto | Uma conexão nomeada com um repositório remoto, como o repositório remoto de &quot;origem&quot; ou &quot;upstream&quot;. O Git refere-se a esses repositórios como remotos, pois são usados para fazer referência a um repositório hospedado em outro computador. Nesse fluxo de trabalho, um repositório remoto sempre é um repositório GitHub. |
+| origem | O nome atribuído à conexão entre o repositório local e o repositório do qual ele foi clonado. Nesse fluxo de trabalho, a origem representa a conexão com a bifurcação. Às vezes, ela é usada como um moniker do próprio repositório de origem, como em &quot;Lembre-se de enviar as alterações para a origem&quot;. |
+| upstream | Assim como o repositório remoto de origem, o repositório upstream é uma conexão nomeada com outro repositório. Nesse fluxo de trabalho, o repositório upstream representa a conexão entre o repositório local e o repositório principal, do qual a bifurcação foi criada. Às vezes, é usado como um moniker para o próprio repositório upstream, como em &quot;Lembre-se de extrair as alterações do upstream&quot;. |
 
 Se você não estiver familiarizado com os conceitos do Git e do GitHub, como um repositório ou ramificação, revise primeiro os [fundamentos de Git e GitHub](git-fundamentals.md).
 
@@ -50,6 +53,7 @@ Lembre-se dos [fundamentos de Git e GitHub](git-fundamentals.md) que um reposit�
 Ao isolar as alterações relacionadas em uma ramificação específica, é possível controlar e introduzir as alterações de maneira independente, direcionando-as para um momento de lançamento específico no ciclo de publicação. Na verdade, dependendo do tipo de trabalho, você pode ter várias ramificações funcionais no seu repositório. Não é incomum trabalhar em várias ramificações ao mesmo tempo, cada uma representando um projeto diferente.
 
 >[!NOTE]
+>
 >Fazer as alterações na ramificação mestre não *é uma boa prática*. Imagine que você use a ramificação mestre para inserir um conjunto de alterações em uma versão de recurso programada. Você conclui as alterações e aguarda a liberação delas. Em seguida, você recebe uma solicitação urgente para corrigir algo; assim, você faz a alteração em um arquivo na ramificação mestre e a publica. Neste exemplo, você publica inadvertidamente a correção *e* as alterações que estavam aguardando liberação em uma data específica.
 
 A próxima etapa é criar uma nova ramificação de trabalho no repositório local para capturar as alterações propostas. Cada cliente Git é diferente. Consulte a ajuda do seu cliente preferido. Você pode ver uma visão geral do processo no Guia do GitHub no [fluxo do GitHub](https://guides.github.com/introduction/flow/).

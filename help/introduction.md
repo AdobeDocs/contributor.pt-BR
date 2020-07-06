@@ -3,8 +3,11 @@ title: Guia do colaborador para a documentação da Adobe
 seo-title: Visão geral do guia do colaborador para a documentação técnica da Adobe Experience Cloud
 description: O guia descreve como você pode contribuir com sugestões e adições para o site da documentação da Adobe.
 seo-description: O guia descreve como você pode contribuir para a documentação técnica da [!UICONTROL Adobe Experience Cloud].
-translation-type: ht
-source-git-commit: afcd9363375adbc21a0e9a027d3f5ce59e08cd70
+translation-type: tm+mt
+source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
+workflow-type: tm+mt
+source-wordcount: '840'
+ht-degree: 100%
 
 ---
 
@@ -44,8 +47,9 @@ Fazer edições rápidas é uma boa maneira de corrigir pequenos erros e omissõ
 1. Clique em **`Edit this page`** na coluna à direita para ir para o arquivo de origem do Markdown no GitHub.
 1. Clique no ícone de lápis para editar o artigo.
 
-   > [!NOTE]
-   > Se o ícone de lápis estiver esmaecido, será necessário fazer logon na sua conta GitHub ou criar uma nova conta.
+   >[!NOTE]
+   >
+   >Se o ícone de lápis estiver esmaecido, será necessário fazer logon na sua conta GitHub ou criar uma nova conta.
 
    ![Localização do ícone de lápis](assets/edit-icon.png)
 
@@ -54,7 +58,9 @@ Fazer edições rápidas é uma boa maneira de corrigir pequenos erros e omissõ
 
    ![como propor sua alteração](assets/submit-pull-request.png)
 
-   >[!NOTE] Se você receber uma mensagem de erro de validação em relação à assinatura de um Contrato de licença de colaborador (CLA), clique em **Detalhes** para abrir o contrato de licença. Assine o contrato, se for aceitável. Em seguida, feche e abra a solicitação de extração e prossiga.
+   >[!NOTE]
+   >
+   >Se você receber uma mensagem de erro de validação em relação à assinatura de um Contrato de licença de colaborador (CLA), clique em **Detalhes** para abrir o contrato de licença. Assine o contrato, se for aceitável. Em seguida, feche e abra a solicitação de extração e prossiga.
 
 Isso é tudo. Obrigado! Os membros da equipe de documentação analisarão e mesclarão sua solicitação de pull.
 
@@ -66,8 +72,9 @@ Outra maneira fácil de nos informar sobre um problema de conteúdo é usar a op
 
    ![](assets/git_log_issue.png)
 
-   > [!NOTE]
-   > Você precisará fazer logon na sua conta GitHub ou criar uma nova conta para registrar um problema.
+   >[!NOTE]
+   >
+   >Você precisará fazer logon na sua conta GitHub ou criar uma nova conta para registrar um problema.
 
    Clicar neste link permitirá registrar um tíquete rápido conosco, usando a interface do GitHub Issue.
 

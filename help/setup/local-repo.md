@@ -4,7 +4,7 @@ seo-title: Configurar o repositório Git localmente para a documentação da Ado
 description: Este artigo fornece orientação para criar seu repositório Git local e contribuir com a documentação da Adobe, incluindo o processo de bifurcamento e clonagem.
 seo-description: Este artigo fornece orientação para criar seu repositório Git local e contribuir com a documentação da Adobe, incluindo o processo de bifurcamento e clonagem.
 translation-type: tm+mt
-source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
+source-git-commit: d69ca7ee25e2a79151779687ef58d67a800f92e6
 workflow-type: tm+mt
 source-wordcount: '682'
 ht-degree: 97%
@@ -16,8 +16,8 @@ ht-degree: 97%
 
 Este artigo descreve as etapas para configurar um repositório Git no computador local, com o objetivo de contribuir para a documentação da Adobe. Os colaboradores podem usar um repositório clonado localmente para adicionar novos artigos, fazer grandes edições nos artigos existentes ou alterar a arte-final.
 
-> [!IMPORTANT]
-> Se você estiver fazendo apenas pequenas alterações em um artigo, *não* será necessário executar as etapas deste artigo. Basta clicar no ícone Edit e fazer as edições de texto no navegador.
+>[!IMPORTANT]
+>Se você estiver fazendo apenas pequenas alterações em um artigo, *não* será necessário executar as etapas deste artigo. Basta clicar no ícone Edit e fazer as edições de texto no navegador.
 
 ## Visão geral
 

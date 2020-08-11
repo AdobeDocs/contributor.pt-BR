@@ -3,11 +3,11 @@ title: Configurar o repositório Git localmente
 seo-title: Configurar o repositório Git localmente para a documentação da Adobe
 description: Este artigo fornece orientação para criar seu repositório Git local e contribuir com a documentação da Adobe, incluindo o processo de bifurcamento e clonagem.
 seo-description: Este artigo fornece orientação para criar seu repositório Git local e contribuir com a documentação da Adobe, incluindo o processo de bifurcamento e clonagem.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d69ca7ee25e2a79151779687ef58d67a800f92e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '682'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Para contribuir com a documentação da Adobe, você pode bifurcar o repositóri
 
 ## Determine o repositório
 
-Você bifurca o repositório apropriado em sua própria conta GitHub para obter permissões de leitura/gravação e armazenar as alterações propostas. [!UICONTROL Adobe Experience Cloud] a documentação reside em vários repositórios diferentes em [github.com](https://www.github.com/adobedocs).
+Você bifurca o repositório apropriado em sua própria conta GitHub para obter permissões de leitura/gravação e armazenar as alterações propostas. [!UICONTROL Adobe Experience Cloud] a documentação encontra-se em vários repositórios diferentes em [github.com](https://www.github.com/adobedocs).
 
 1. Se não tiver certeza de qual repositório usar, acesse o artigo usando seu navegador da web. Selecione o link **Edit** (ícone de lápis) no canto superior direito do artigo. (Caso não veja um link Edit, o conteúdo ainda não está disponível no GitHub.)
 
@@ -73,7 +73,7 @@ Essas etapas consideram que você está usando o GitHub Desktop. Se você estive
 
 1. Clique em **Clone or download** (Clonar ou fazer download) e escolha **Open in Desktop** (Abrir no computador) para extrair uma cópia do repositório (sua bifurcação) no computador no diretório atual.
 
-![Clone o repositório](assets/clone-pulldown.png)
+  ![Clone o repositório](assets/clone-pulldown.png)
 
 1. Use o GitHub Desktop para manter os arquivos locais sincronizados com o repositório bifurcado.
 

@@ -4,9 +4,9 @@ title: Como usar o Markdown para escrever a documentação
 seo-title: Como usar o Markdown para escrever a documentação da Adobe
 description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos.
 seo-description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos para a documentação da Adobe.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1377'
 ht-degree: 100%
 
@@ -71,9 +71,9 @@ Para criar listas numeradas, comece uma linha com `1.` ou `1)`, mas não use amb
 
 Exibido:
 
-1. Esta é a etapa 1.
-1. Esta é a próxima etapa.
-1. Esta é a terceira etapa.
+1. This is step 1.
+1. This is the next step.
+1. This is yet another step, the third.
 
 <!-- markdownlint-disable MD037 -->
 Para criar listas de itens, comece uma linha com \* ou - ou +, mas não misture os formatos em uma mesma lista. (Não misture formatos de marcadores, como \* e \+, dentro do mesmo documento.)
@@ -87,9 +87,9 @@ Para criar listas de itens, comece uma linha com \* ou - ou +, mas não misture 
 
 Exibido:
 
-* O primeiro item em uma lista não ordenada.
-* Outro item.
-* Mais um.
+* First item in an unordered list.
+* Another item.
+* Here we go again.
 
 Também é possível incorporar listas em listas e adicionar conteúdo entre itens de lista.
 
@@ -114,22 +114,22 @@ Também é possível incorporar listas em listas e adicionar conteúdo entre ite
 
 Exibido:
 
-1. Configure a tabela e os blocos de código.
-1. Execute esta etapa.
+1. Set up your table and code blocks.
+1. Perform this step.
 
    ![tela](assets/no-localize/adobe_standard_logo.png)
-1. Verifique se a tabela tem a seguinte aparência:
+1. Make sure that your table looks like this:
 
-   | Olá, | Mundo! |
+   | Hello | World |
    |---|---|
-   | Como | você está? |
-1. Esta é a quarta etapa.
+   | How | are you? |
+1. This is the fourth step.
 
    >[!NOTE]
    >
-   >Isso é texto de nota.
+   >This is note text.
 
-1. Execute outra etapa.
+1. Do another step.
 
 ### Tabela
 
@@ -144,10 +144,10 @@ As tabelas não fazem parte da especificação principal do Markdown, mas a Adob
 
 Exibido:
 
-| Cabeçalho | Outro cabeçalho | Mais um cabeçalho |
+| Header | Another header | Yet another header |
 |--- |--- |--- |
-| linha 1 | coluna 2 | coluna 3 |
-| linha 2 | linha 2 coluna 2 | linha 2 coluna 3 |
+| row 1 | column 2 | column 3 |
+| row 2 | row 2 column 2 | row 2 column 3 |
 
 Tabelas simples funcionam adequadamente no Markdown. No entanto, as tabelas que incluem vários parágrafos ou listas dentro de uma célula são difíceis de trabalhar. Para tal conteúdo, recomendamos usar um formato diferente, como cabeçalhos e texto.
 
@@ -171,7 +171,7 @@ Exibido:
 
 [Adobe](https://www.adobe.com)
 
-Para links para artigos (referências cruzadas) no repositório, use links relativos. Você pode usar todos os operandos de links relativos, como ./ (diretório atual), ../ (voltar um diretório) e ../../ (voltar dois diretórios).
+Para links para artigos (referências cruzadas) no repositório, use links relativos. Você pode usar todos os operandos de links relativos, como./ (diretório atual), ../ (voltar um diretório) e ../../ (voltar dois diretórios).
 
 ```markdown
 See [Overview example article](../../overview.md)
@@ -203,7 +203,7 @@ This is `inline code` within a paragraph of text.
 
 Exibido:
 
-Isso é `inline code` em um parágrafo de texto.
+This is `inline code` within a paragraph of text.
 
 Isso é um bloco de código cercado:
 
@@ -225,7 +225,7 @@ function test() {
 
 \`\`\`javascript {line-numbers=&quot;no&quot;}
 function test() {
-console.log(&quot;observou a linha em branco antes desta função?&quot;);
+console.log(&quot;notice the blank line before this function?&quot;);
 \`\`\`
 
 ### Listas de definições
@@ -290,7 +290,7 @@ Exibido:
 
 >[!NOTE]
 >
->Este é um bloco de NOTA padrão.
+>This is a standard NOTE block.
 
 ```markdown
 >[!TIP]
@@ -302,7 +302,7 @@ Exibido:
 
 >[!TIP]
 >
->Esta é uma dica padrão.
+>This is a standard tip.
 
 ### Vídeos
 
@@ -329,8 +329,8 @@ O componente &quot;Mais artigos como este&quot; no AEM aparece no fim de um arti
 Exibido:
 
 >[!MORELIKETHIS]
->* [Artigo 1](https://helpx.adobe.com/br/support/analytics.html)
->* [Artigo 2](https://helpx.adobe.com/br/support/audience-manager.html)
+>* [Article 1](https://helpx.adobe.com/br/support/analytics.html)
+>* [Article 2](https://helpx.adobe.com/br/support/audience-manager.html)
 
 
 ### DNL - Não traduzir - e UICONTROL
@@ -344,7 +344,7 @@ Para elementos na interface do usuário e nos menus de uma solução, usamos a e
 
 **Exemplo:**
 
-No [!DNL Adobe Target], você pode criar testes diretamente em uma página habilitada para [!DNL Target].
+In [!DNL Adobe Target] you can create your tests directly on a [!DNL Target]-enabled page.
 
 **Fonte:**
 
@@ -354,7 +354,7 @@ In [!DNL Adobe Target] you can create your tests directly on a [!DNL Target]-ena
 
 **Exemplo**
 
-Use o [!UICONTROL Visual Experience Composer] no [!DNL Target] para criar seu teste diretamente em uma página.
+Use the [!UICONTROL Visual Experience Composer] in [!DNL Target] to create your test directly on a page.
 
 **Fonte:**
 

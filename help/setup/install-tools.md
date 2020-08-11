@@ -4,11 +4,11 @@ title: Instalar ferramentas de criação
 seo-title: Instalar ferramentas de criação do Git e GitHub para a documentação da Adobe
 description: Este artigo ajuda você a baixar e instalar as ferramentas do cliente necessárias para Git/GitHub e para editar arquivos Markdown.
 seo-description: Este artigo ajuda você a baixar e instalar as ferramentas do cliente necessárias para Git/GitHub e para editar arquivos Markdown para a documentação da Adobe.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '378'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Se preferir uma interface de linha de comando (CLI) a uma interface gráfica (GU
 
 Os recursos de aprendizado do Git estão disponíveis aqui:
 
-* [Conceitos básicos sobre o Git](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+* [Conceitos básicos sobre o Git](https://git-scm.com/book/pt-br/v2/Getting-Started-Git-Basics)
 * [Saiba mais sobre Git e GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 * [Terminologia do Git](https://help.github.com/articles/github-glossary)
 

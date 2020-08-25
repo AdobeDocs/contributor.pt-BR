@@ -4,9 +4,9 @@ title: Como usar o Markdown para escrever a documentação
 seo-title: Como usar o Markdown para escrever a documentação da Adobe
 description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos.
 seo-description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos para a documentação da Adobe.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 27ba164070996d192c84493d83232484d2badb28
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1329'
 ht-degree: 100%
 
@@ -171,7 +171,7 @@ Exibido:
 
 [Adobe](https://www.adobe.com)
 
-Para links para artigos (referências cruzadas) no repositório, use links relativos. Você pode usar todos os operandos de links relativos, como./ (diretório atual), ../ (voltar um diretório) e ../../ (voltar dois diretórios).
+Para links para artigos (referências cruzadas) no repositório, use links relativos. Você pode usar todos os operandos de links relativos, como ./ (diretório atual), ../ (voltar um diretório) e ../../ (voltar dois diretórios).
 
 ```markdown
 See [Overview example article](../../overview.md)
@@ -187,7 +187,7 @@ Para obter mais informações sobre links, consulte o artigo [Links](linking.md)
 
 Exibido:
 
-![Logotipo da Adobe](assets/no-localize/adobe_standard_logo.png "Texto ao passar o mouse")
+![Adobe Logo](assets/no-localize/adobe_standard_logo.png "Hover text")
 
 ### Blocos de código
 
@@ -322,8 +322,8 @@ O componente &quot;Mais artigos como este&quot; no AEM aparece no fim de um arti
 Exibido:
 
 >[!MORELIKETHIS]
->* [Article 1](https://helpx.adobe.com/br/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/br/support/audience-manager.html)
+>* [Article 1](https://helpx.adobe.com/support/analytics.html)
+>* [Article 2](https://helpx.adobe.com/support/audience-manager.html)
 
 
 ### DNL - Não traduzir - e UICONTROL

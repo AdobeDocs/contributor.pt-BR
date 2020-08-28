@@ -4,9 +4,9 @@ title: Fluxo de trabalho de contribuição do GitHub para grandes alterações
 seo-title: Fluxo de trabalho de contribuição do GitHub para grandes alterações na documentação da Adobe
 description: este artigo mostra como usar o fluxo de trabalho de colaborador "principal" para fazer contribuições à documentação da Adobe.
 seo-description: este artigo mostra como usar o fluxo de trabalho de colaborador "principal" para fazer contribuições à documentação da Adobe.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c788a71cecf7b69698b649b6053e6740bcc22730
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1006'
 ht-degree: 100%
 

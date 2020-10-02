@@ -4,10 +4,10 @@ title: Como usar o Markdown para escrever a documentação
 seo-title: Como usar o Markdown para escrever a documentação da Adobe
 description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos.
 seo-description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos para a documentação da Adobe.
-translation-type: ht
-source-git-commit: 27ba164070996d192c84493d83232484d2badb28
-workflow-type: ht
-source-wordcount: '1329'
+translation-type: tm+mt
+source-git-commit: 4ebbbde3337183a19fd3a59ae091b621a092e6f8
+workflow-type: tm+mt
+source-wordcount: '1322'
 ht-degree: 100%
 
 ---
@@ -302,12 +302,12 @@ Exibido:
 Os vídeos incorporados não serão renderizados nativamente no Markdown, mas você poderá usar essa extensão do Markdown.
 
 ```markdown
->[!VIDEO](https://www.youtube.com/watch?v=A0EcD2AxvJE)
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
 ```
 
 Exibido:
 
->[!VIDEO](https://www.youtube.com/watch?v=A0EcD2AxvJE)
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
 
 ### Mais artigos como este
 

@@ -4,10 +4,10 @@ title: Fluxo de trabalho de contribuição do GitHub para grandes alterações
 seo-title: Fluxo de trabalho de contribuição do GitHub para grandes alterações na documentação da Adobe
 description: este artigo mostra como usar o fluxo de trabalho de colaborador "principal" para fazer contribuições à documentação da Adobe.
 seo-description: este artigo mostra como usar o fluxo de trabalho de colaborador "principal" para fazer contribuições à documentação da Adobe.
-translation-type: ht
-source-git-commit: c788a71cecf7b69698b649b6053e6740bcc22730
-workflow-type: ht
-source-wordcount: '1006'
+translation-type: tm+mt
+source-git-commit: 6ec1d13f80698cb5963c07656ef8183db735ff75
+workflow-type: tm+mt
+source-wordcount: '976'
 ht-degree: 100%
 
 ---
@@ -75,5 +75,3 @@ Quando a solicitação de pull estiver livre de problemas e for aprovada, as alt
 ### Publicação
 
 Lembre-se de que sua solicitação de pull deve ser mesclada por um revisor de PR antes que as alterações possam ser incluídas na próxima execução de publicação programada. As solicitações de pull são normalmente revisadas/mescladas na ordem de envio. Se sua solicitação de pull exigir mesclagem em uma execução de publicação específica, você precisará trabalhar com o revisor de PR antecipadamente para garantir que a mesclagem ocorra antes da publicação.
-
-Depois que suas contribuições forem aprovadas e mescladas, o processo de publicação de docs.microsoft.com as capturará. Dependendo da equipe que gerencia o repositório para o qual você está contribuindo, os tempos de publicação podem variar.

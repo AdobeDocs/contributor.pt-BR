@@ -3,11 +3,11 @@ title: Guia do colaborador para a documentação da Adobe
 seo-title: Visão geral do guia do colaborador para a documentação técnica da Adobe Experience Cloud
 description: O guia descreve como você pode contribuir com sugestões e adições para o site da documentação da Adobe.
 seo-description: O guia descreve como você pode contribuir para a documentação técnica da [!UICONTROL Adobe Experience Cloud].
-translation-type: ht
-source-git-commit: c788a71cecf7b69698b649b6053e6740bcc22730
-workflow-type: ht
-source-wordcount: '836'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 8943af2fdf406b2e33db037bb60dfea97df2959a
+workflow-type: tm+mt
+source-wordcount: '837'
+ht-degree: 93%
 
 ---
 
@@ -44,7 +44,10 @@ Fazer edições rápidas é uma boa maneira de corrigir pequenos erros e omissõ
 1. Assine o [Contrato de licença de colaborador (CLA)](http://opensource.adobe.com/cla.html) se for aceitável.
 
    É necessário enviar somente um CLA da Adobe uma vez.
-1. Clique em **`Edit this page`** na coluna à direita para ir para o arquivo de origem do Markdown no GitHub.
+1. Click the **`Edit this page`** icon in the right column to go to the markdown source file on GitHub.
+
+   ![Editar este ícone de página](/help/assets/git_edit.png)
+
 1. Clique no ícone de lápis para editar o artigo.
 
    >[!NOTE]
@@ -68,13 +71,13 @@ Isso é tudo. Obrigado! Os membros da equipe de documentação analisarão e mes
 
 Outra maneira fácil de nos informar sobre um problema de conteúdo é usar a opção “Log an Issue” (Registrar um problema).
 
-1. Se você perceber um problema com um conteúdo, clique no link `Log an Issue` no canto inferior direito de qualquer página. Consulte a figura abaixo:
+1. If you see a problem with a piece of content, click the **`Log an Issue`** icon in the right column.
 
    ![](assets/git_log_issue.png)
 
    >[!NOTE]
    >
-   >Você precisará fazer logon na sua conta GitHub ou criar uma nova conta para registrar um problema.
+   >Você precisará fazer logon em sua conta GitHub ou criar uma nova conta para registrar um problema.
 
    Clicar neste link permitirá registrar um tíquete rápido conosco, usando a interface do GitHub Issue.
 

@@ -1,10 +1,11 @@
 ---
 title: Fundamentos da documentação do Git e do GitHub
-seo-title: Fundamentos da documentação do Git e do GitHub
 description: Este artigo mostra uma visão geral do repositório Git, do repositório GitHub, como o conteúdo é organizado e as convenções de nomenclatura usadas para a documentação da Adobe.
-seo-description: este artigo mostra uma visão geral do repositório Git, do repositório GitHub, como o conteúdo é organizado e as convenções de nomenclatura usadas para a documentação da Adobe.
-translation-type: ht
-source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
+translation-type: tm+mt
+source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+workflow-type: tm+mt
+source-wordcount: '660'
+ht-degree: 99%
 
 ---
 
@@ -19,7 +20,7 @@ Como um colaborador de conteúdo para a documentação da Adobe, você pode inte
 
 O Git é um sistema de controle de versão aberto que permite colaboração. Vários colaboradores podem trabalhar nos arquivos dos *repositórios*.
 
-O GitHub é um serviço de hospedagem baseado na web para repositórios Git, como aqueles usados para armazenar conteúdo do[docs.adobe.com](https://docs.adobe.com). Para qualquer projeto, o GitHub hospeda o repositório principal, do qual os colaboradores podem fazer cópias para seu próprio trabalho.
+GitHub é um serviço de hospedagem baseado na web para repositórios Git, como aqueles usados para armazenar conteúdo [docs.adobe.com](https://docs.adobe.com). Para qualquer projeto, o GitHub hospeda o repositório principal, do qual os colaboradores podem fazer cópias para seu próprio trabalho.
 
 ## Git
 

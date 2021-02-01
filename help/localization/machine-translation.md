@@ -1,10 +1,11 @@
 ---
 title: Suporte de idioma para a documentação do produto Adobe Experience Cloud
-seo-title: Suporte de idioma para a documentação do produto Adobe Experience Cloud
 description: O guia descreve como você pode contribuir com sugestões e adições para o site da documentação da Adobe.
-seo-description: O guia descreve como você pode contribuir para a documentação técnica da [!UICONTROL Adobe Experience Cloud].
-translation-type: ht
-source-git-commit: 9db7dd1fb9b22bc35f887d0441a1837813efc9cc
+translation-type: tm+mt
+source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+workflow-type: tm+mt
+source-wordcount: '653'
+ht-degree: 100%
 
 ---
 
@@ -29,13 +30,15 @@ Você pode visualizar a documentação do produto Adobe Experience Cloud na maio
 
    ![Página traduzida](assets/french.png)
 
-   Nos casos em que a versão no seu idioma ainda não está disponível, a Adobe pode traduzir automaticamente o conteúdo. O serviço de tradução automática da Adobe exibe uma mensagem na parte superior da página em um campo azul:
+<!--
+   In cases where your language version is not yet available, Adobe can automatically translate your content. Adobe's automatic translation service displays a message at the top of the page in a blue field:
 
-   ![Mensagem de tradução](assets/machine-translation-message.png)
+   ![Translation message](assets/machine-translation-message.png)
 
-   O conteúdo pode ser renderizado no seu idioma automaticamente ou você pode clicar em um link para acionar a tradução. (Esse cenário pode ocorrer ao clicar no hiperlink para retornar à fonte em inglês da página traduzida. Isso oferece a opção de visualizar a página traduzida sob demanda.) Você pode retornar ao original em inglês a qualquer momento.
+   The content may be rendered in your language automatically, or you can click a link to trigger the translation. (This scenario may occur when you have clicked on the hyperlink to return to the English source from the translated page. It gives you the option of viewing the translated page on-demand.) You can at any time return to the English source.
 
-   Ocasionalmente, o conteúdo original em inglês pode ter sido atualizado e publicado recentemente antes da conclusão das traduções. Ao clicar no seu idioma no menu suspenso, você verá uma notificação, na barra horizontal azul claro na parte superior da página, informando que a página foi traduzida automaticamente utilizando a versão anterior, com conteúdo atualizado que estará disponível em breve. Você terá a opção de visualizar o conteúdo original em inglês em uma nova janela do navegador, se preferir.
+   Occasionally, the English source content might have been recently updated and published before the translations were completed. Upon clicking on your language in the dropdown menu, you will see a notification — in the light-blue horizontal bar at the top of the page — informing that the page was automatically translated from the previous version, with updated content to be available soon. You will be offered the choice to view the most recent English source content in a new browser window, if you prefer.
+-->
 
 ## Por que usar a tradução automática
 
@@ -59,7 +62,7 @@ abaixo.
 ### Feedback
 
 Sempre que o conteúdo é traduzido automaticamente, por padrão ou por ação do usuário, existe a opção de enviar feedback à Adobe sobre as traduções. Na barra
-horizontal azul clara na parte superior da página, você pode responder "Sim" ou "Não" à pergunta "Esta tradução foi útil?". A Adobe coleta essa métrica
+horizontal azul clara na parte superior da página, você pode responder &quot;Sim&quot; ou &quot;Não&quot; à pergunta &quot;Esta tradução foi útil?&quot;. A Adobe coleta essa métrica
 valiosa e analisa os dados compilados para tomar decisões sobre a tradução do conteúdo. Seus comentários são importantes e recomendamos que você responda.
 
 ![Feedback](assets/machine-translation-feedback.png)
@@ -68,7 +71,9 @@ No futuro, planejamos permitir que você forneça comentários mais abrangentes,
 solicitar mais idiomas. Alguns desses recursos já estão disponíveis nas páginas em inglês. Em longo prazo, acreditamos que isso ajudará a Adobe a melhorar a experiência
 do usuário nessas páginas.
 
-![Melhore esta página](assets/feedback.png)
+<!--
+![Improve this page](assets/feedback.png)
+-->
 
 ### Isenção de responsabilidade da tradução
 

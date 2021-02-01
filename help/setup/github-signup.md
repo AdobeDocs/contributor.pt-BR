@@ -1,14 +1,10 @@
 ---
-lastModified: 2018-10-15T00:00:00Z
 title: Etapas de configuração de conta do GitHub
-seo-title: Etapas de configuração de conta do GitHub para a documentação da Adobe Experience Cloud
 description: Siga o processo de configuração de contas para o GitHub, necessário para contribuir com o conteúdo na documentação da Adobe.
-seo-description: Siga o processo de configuração de contas para o GitHub, necessário para contribuir com o conteúdo na documentação da Adobe.
-index: true
-translation-type: ht
-source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
-workflow-type: ht
-source-wordcount: '235'
+translation-type: tm+mt
+source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+workflow-type: tm+mt
+source-wordcount: '207'
 ht-degree: 100%
 
 ---

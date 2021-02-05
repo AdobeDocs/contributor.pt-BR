@@ -1,11 +1,11 @@
 ---
 title: Como usar o Markdown para escrever a documentação
 description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1240'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -223,7 +223,7 @@ Alguns elementos comuns do Markdown, como cabeçalhos e blocos de código, inclu
 
 ### Blocos de notas
 
-Você pode escolher entre esses tipos de blocos de notas para chamar a atenção para o conteúdo específico:
+É possível escolher entre esses tipos de blocos de notas a fim de chamar a atenção para um conteúdo específico:
 
 * `[!NOTE]`
 * `[!TIP]`
@@ -271,7 +271,7 @@ Os vídeos incorporados não serão renderizados nativamente no Markdown, mas vo
 
 Exibido:
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12&captions=por_br)
 
 ### Mais artigos como este
 
@@ -350,7 +350,7 @@ Estas são as codificações das versões &quot;inteligentes&quot; dessas marcas
 
 Se você usar colchetes no texto (não código) no arquivo - por exemplo, para indicar um espaço reservado -, será necessário codificar os colchetes manualmente. Caso contrário, o Markdown os considerará tags HTML.
 
-Por exemplo, codifique `<script name>` como  `&lt;script name&gt;`
+Por exemplo, codifique `<script name>` como `&lt;script name&gt;`
 
 ### “E” comercial em títulos
 

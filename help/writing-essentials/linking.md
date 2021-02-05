@@ -4,9 +4,9 @@ title: Uso de links na documentação
 seo-title: Usar links na documentação do Adobe Git/Markdown
 description: Este artigo fornece orientação sobre como criar links para conteúdos e imagens.
 seo-description: Este artigo fornece orientação sobre como criar links para conteúdos e imagens para a documentação da Adobe.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '340'
 ht-degree: 100%
 

@@ -1,11 +1,11 @@
 ---
 title: Suporte de idioma para a documentação do produto Adobe Experience Cloud
 description: O guia descreve como você pode contribuir com sugestões e adições para o site da documentação da Adobe.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fe6adf7414680d4835a6402be2e8d1a5547cc7d8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '828'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ Você pode visualizar a documentação do produto Adobe Experience Cloud na maio
 
    ![Página traduzida](assets/french.png)
 
-   Nos casos em que a versão no seu idioma ainda não está disponível, a Adobe pode traduzir automaticamente o conteúdo. Adobe exibe uma mensagem no topo da direita
+   Nos casos em que a versão no seu idioma ainda não está disponível, a Adobe pode traduzir automaticamente o conteúdo. O serviço de tradução automática da Adobe exibe uma mensagem na parte superior do painel de navegação direito:
 
    ![Mensagem de tradução](assets/machine-translation-message.png)
 

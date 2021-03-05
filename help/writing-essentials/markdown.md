@@ -1,11 +1,11 @@
 ---
 title: Como usar o Markdown para escrever a documentação
 description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos.
-translation-type: ht
-source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: ht
-source-wordcount: '1240'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: b8090869aa7b5a2ab62f7af09e1b5e289d8a392b
+workflow-type: tm+mt
+source-wordcount: '1491'
+ht-degree: 76%
 
 ---
 
@@ -176,6 +176,8 @@ Exibido:
 
 ![Adobe Logo](assets/no-localize/adobe_standard_logo.png "Hover text")
 
+**OBSERVAÇÃO:** para imagens que não devem ser localizadas, crie uma  `do-not-localize` pasta separada na pasta de ativos. Normalmente, imagens sem texto ou imagens contendo somente conteúdo de amostra seriam colocadas lá. Isso remove qualquer &quot;ruído&quot; da pasta de ativos e reduz a quantidade de perguntas.
+
 ### Blocos de código
 
 O Markdown oferece suporte à adição em linha de blocos de código em uma sentença e como um bloco “cercado” separado entre sentenças. Para obter detalhes, consulte o [suporte nativo do Markdown para blocos de código](https://daringfireball.net/projects/markdown/syntax#precode)
@@ -271,7 +273,7 @@ Os vídeos incorporados não serão renderizados nativamente no Markdown, mas vo
 
 Exibido:
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
 
 ### Mais artigos como este
 
@@ -290,33 +292,44 @@ Exibido:
 >* [Article 2](https://helpx.adobe.com/br/support/audience-manager.html)
 
 
-### DNL - Não traduzir - e UICONTROL
+### UICONTROL e DNL
 
-Em alguns casos, é necessário sinalizar determinadas seções de conteúdo em um artigo como somente em inglês.
-Palavras, frases e outros elementos precisam ser declarados para nossos sistemas de tradução e isso permite gerenciar um léxico controlado.
+Todo o conteúdo de ajuda do Markdown é localizado usando a tradução automática inicialmente. Se a ajuda nunca foi localizada, então mantemos a tradução automática. No entanto, se o conteúdo da ajuda tiver sido localizado no passado, o conteúdo traduzido pela máquina atuará como um espaço reservado enquanto o conteúdo estiver em processo de tradução humana.
 
-Para palavras ou frases que não devem ser traduzidas, use a extensão do `[!DNL]` para envolver a palavra ou a seção.
+**``**
 
-Para elementos na interface do usuário e nos menus de uma solução, usamos a extensão do ``.
+Durante a tradução automática, os itens marcados com `` são verificados em relação a um banco de dados de localização para a tradução apropriada. Caso a interface do usuário não esteja localizada, essa tag permitirá que o sistema deixe a referência da interface do usuário em inglês para esse idioma específico (ou seja, Referências do Analytics em italiano).
 
 **Exemplo:**
 
-In [!DNL Adobe Target] you can create your tests directly on a [!DNL Target]-enabled page.
+1. Vá para a tela **[!UICONTROL Run Process]**.
+1. Escolha **[!UICONTROL File > Print > Print All]** para imprimir todos os arquivos no servidor.
+1. A caixa de diálogo [!UICONTROL Processing Rules] é exibida.
 
 **Fonte:**
 
 ```markdown
-In [!DNL Adobe Target] you can create your tests directly on a [!DNL Target]-enabled page.
+1. Go to the **[!UICONTROL Run Process]** screen.
+1. Choose **[!UICONTROL File > Print > Print All]** to print all the files on your server.
+1. The [!UICONTROL Processing Rules] dialog box appears.
 ```
 
-**Exemplo**
+**OBSERVAÇÃO:** das três opções de marcação, essa é a mais importante para fornecer alta qualidade e é obrigatória.
 
-Use the [!UICONTROL Visual Experience Composer] in [!DNL Target] to create your test directly on a page.
+**`[!DNL]`**
+
+Como regra, usamos uma lista &quot;Não traduzir&quot; para informar aos mecanismos de tradução automática o que manter em inglês. Os itens mais comuns seriam os nomes longos da solução, como &quot;Adobe Analytics&quot;, &quot;Adobe Campaign&quot; e &quot;Adobe Target&quot;. No entanto, pode haver casos em que tenhamos de forçar o motor a utilizar o inglês porque o termo em questão pode ser utilizado de forma específica ou geral. Esse caso mais óbvio seria nomes curtos para as soluções como &quot;Analytics&quot;, &quot;Campanha&quot;, &quot;Target&quot; etc. Seria difícil para uma máquina entender que esses são nomes de solução e não termos gerais. A tag também pode ser usada para nomes/recursos de terceiros que sempre permanecem em inglês ou para seções mais curtas de texto, como uma frase ou frase que deve permanecer em inglês.
+
+**Exemplo:**
+
+* Com [!DNL Target], você pode criar testes A/B para encontrar o ideal
+* O Adobe Analytics é uma solução avançada para coletar análises no seu site. [!DNL Analytics] O também pode ajudá-lo com os relatórios para digerir facilmente esses dados.
 
 **Fonte:**
 
 ```markdown
-Use the [!UICONTROL Visual Experience Composer] in [!DNL Target] to create your test directly on a page.
+* With [!DNL Target], you can create A/B tests to find the optimal 
+* Adobe Analytics is a powerful solution to collect analytics on your site. [!DNL Analytics] can also help you with reporting to easily digest that data.
 ```
 
 ## Identificar e solucionar problemas
@@ -350,7 +363,7 @@ Estas são as codificações das versões &quot;inteligentes&quot; dessas marcas
 
 Se você usar colchetes no texto (não código) no arquivo - por exemplo, para indicar um espaço reservado -, será necessário codificar os colchetes manualmente. Caso contrário, o Markdown os considerará tags HTML.
 
-Por exemplo, codifique `<script name>` como `&lt;script name&gt;`
+Por exemplo, codifique `<script name>` como  `&lt;script name&gt;`
 
 ### “E” comercial em títulos
 

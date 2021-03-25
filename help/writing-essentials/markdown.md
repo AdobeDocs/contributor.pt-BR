@@ -1,11 +1,11 @@
 ---
 title: Como usar o Markdown para escrever a documentação
 description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b8090869aa7b5a2ab62f7af09e1b5e289d8a392b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1491'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -176,11 +176,11 @@ Exibido:
 
 ![Adobe Logo](assets/no-localize/adobe_standard_logo.png "Hover text")
 
-**OBSERVAÇÃO:** para imagens que não devem ser localizadas, crie uma  `do-not-localize` pasta separada na pasta de ativos. Normalmente, imagens sem texto ou imagens contendo somente conteúdo de amostra seriam colocadas lá. Isso remove qualquer &quot;ruído&quot; da pasta de ativos e reduz a quantidade de perguntas.
+**OBSERVAÇÃO:** para imagens que não devem ser localizadas, crie uma `do-not-localize` pasta separada na pasta de assets. Normalmente, imagens sem texto ou imagens que têm somente conteúdo de amostra seriam colocadas lá. Isso remove qualquer &quot;ruído&quot; da pasta de assets e reduz a quantidade de perguntas.
 
 ### Blocos de código
 
-O Markdown oferece suporte à adição em linha de blocos de código em uma sentença e como um bloco “cercado” separado entre sentenças. Para obter detalhes, consulte o [suporte nativo do Markdown para blocos de código](https://daringfireball.net/projects/markdown/syntax#precode)
+O Markdown oferece suporte à adição em linha de blocos de código em uma sentença e como um bloco “cercado” separado entre sentenças. Para obter detalhes, consulte o [suporte nativo do Markdown para blocos de código.](https://daringfireball.net/projects/markdown/syntax#precode)
 
 Use acentos graves ( \` ) para criar estilos de código em linha em um parágrafo. Para criar um bloco de código de várias linhas específico, adicione três acentos graves (\`\`\`) antes e depois do bloco de código (chamado de “bloco de código cercado” no Markdown e apenas um componente de &quot;bloco de código&quot; no AEM). Para blocos de código cercados, adicione o texto do código depois do primeiro conjunto de acentos graves para que o Markdown aponte a sintaxe de código correta. Exemplo: \`\`\`javascript
 
@@ -294,15 +294,15 @@ Exibido:
 
 ### UICONTROL e DNL
 
-Todo o conteúdo de ajuda do Markdown é localizado usando a tradução automática inicialmente. Se a ajuda nunca foi localizada, então mantemos a tradução automática. No entanto, se o conteúdo da ajuda tiver sido localizado no passado, o conteúdo traduzido pela máquina atuará como um espaço reservado enquanto o conteúdo estiver em processo de tradução humana.
+Todo o conteúdo de ajuda do Markdown é localizado usando a tradução automática inicialmente. Se a ajuda nunca foi localizada, mantemos a tradução automática. No entanto, se o conteúdo da ajuda tiver sido localizado no passado, o conteúdo traduzido por máquina atuará como um espaço reservado, enquanto o conteúdo estiver passando por tradução humana.
 
 **``**
 
-Durante a tradução automática, os itens marcados com `` são verificados em relação a um banco de dados de localização para a tradução apropriada. Caso a interface do usuário não esteja localizada, essa tag permitirá que o sistema deixe a referência da interface do usuário em inglês para esse idioma específico (ou seja, Referências do Analytics em italiano).
+Durante a tradução automática, os itens marcados com `` são verificados em relação a um banco de dados de localização para que seja obtida a tradução apropriada. Caso a interface não esteja localizada, essa tag permitirá que o sistema deixe a referência da interface em inglês para esse idioma específico (ou seja, referências do Analytics em italiano).
 
 **Exemplo:**
 
-1. Vá para a tela **[!UICONTROL Run Process]**.
+1. Acesse a tela **[!UICONTROL Run Process]**.
 1. Escolha **[!UICONTROL File > Print > Print All]** para imprimir todos os arquivos no servidor.
 1. A caixa de diálogo [!UICONTROL Processing Rules] é exibida.
 
@@ -318,12 +318,12 @@ Durante a tradução automática, os itens marcados com `` são verificados em r
 
 **`[!DNL]`**
 
-Como regra, usamos uma lista &quot;Não traduzir&quot; para informar aos mecanismos de tradução automática o que manter em inglês. Os itens mais comuns seriam os nomes longos da solução, como &quot;Adobe Analytics&quot;, &quot;Adobe Campaign&quot; e &quot;Adobe Target&quot;. No entanto, pode haver casos em que tenhamos de forçar o motor a utilizar o inglês porque o termo em questão pode ser utilizado de forma específica ou geral. Esse caso mais óbvio seria nomes curtos para as soluções como &quot;Analytics&quot;, &quot;Campanha&quot;, &quot;Target&quot; etc. Seria difícil para uma máquina entender que esses são nomes de solução e não termos gerais. A tag também pode ser usada para nomes/recursos de terceiros que sempre permanecem em inglês ou para seções mais curtas de texto, como uma frase ou frase que deve permanecer em inglês.
+Como regra, usamos uma lista &quot;Não traduzir&quot; para informar aos mecanismos de tradução automática o que manter em inglês. Os itens mais comuns são os nomes longos de solução, como &quot;Adobe Analytics&quot;, &quot;Adobe Campaign&quot; e &quot;Adobe Target&quot;. No entanto, pode haver casos em que tenhamos de forçar o mecanismo a utilizar o inglês porque o termo em questão pode ser usado de forma específica ou geral. O caso mais óbvio seriam os nomes curtos de soluções, como &quot;Analytics&quot;, &quot;Campaign&quot;, &quot;Target&quot; etc. Seria difícil para uma máquina entender que esses são nomes de solução, não termos gerais. A tag também pode ser usada para nomes/recursos de terceiros que sempre permanecem em inglês ou para seções mais curtas de texto, como uma frase ou sentença que deve permanecer em inglês.
 
 **Exemplo:**
 
-* Com [!DNL Target], você pode criar testes A/B para encontrar o ideal
-* O Adobe Analytics é uma solução avançada para coletar análises no seu site. [!DNL Analytics] O também pode ajudá-lo com os relatórios para digerir facilmente esses dados.
+* Com o [!DNL Target], você pode criar testes A/B para encontrar o ideal
+* O Adobe Analytics é uma solução eficiente para fazer análises no seu site. O [!DNL Analytics] também pode ajudar você nos relatórios para assimilar facilmente esses dados.
 
 **Fonte:**
 
@@ -363,7 +363,7 @@ Estas são as codificações das versões &quot;inteligentes&quot; dessas marcas
 
 Se você usar colchetes no texto (não código) no arquivo - por exemplo, para indicar um espaço reservado -, será necessário codificar os colchetes manualmente. Caso contrário, o Markdown os considerará tags HTML.
 
-Por exemplo, codifique `<script name>` como  `&lt;script name&gt;`
+Por exemplo, codifique `<script name>` como `&lt;script name&gt;`
 
 ### “E” comercial em títulos
 

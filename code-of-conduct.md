@@ -1,15 +1,21 @@
 ---
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
-translation-type: ht
+title: Código de conduta da Adobe
+description: 'Código de conduta da Adobe '
+translation-type: tm+mt
+source-git-commit: 883a314481675cbe8cea97782ccf39b738690bf9
+workflow-type: tm+mt
+source-wordcount: '439'
+ht-degree: 100%
 
 ---
+
 # Código de conduta da Adobe
 
 ## Nosso compromisso
 
 Para incentivar um ambiente aberto e acolhedor, nós, como contribuidores e administradores, temos o compromisso de participar para que nosso projeto e
 nossa comunidade tenham uma experiência livre de ataques para todos, independentemente da idade, do corpo,
-da incapacidade, da einia, da identidade de gênero e expressão, do nível de experiência,
+da incapacidade, da etnia, da identidade de gênero e expressão, do nível de experiência,
 da nacionalidade, da aparência, da raça, da religião ou da identidade e orientação sexual.
 
 ## Nossos padrões
@@ -23,11 +29,10 @@ positivo incluem:
 * Focar no melhor para a comunidade
 * Mostrar empatia com outros membros da comunidade
 
-Exemplos de comportamentos inaceitáveis por parte dos participantes incluem:
+Os exemplos de comportamento inaceitável por participantes incluem:
 
-* Usar linguagem ou imagens de cunho sexual e chamar atenção ou fazer propostas indesejáveis
-de caráter sexual
-* Postar mensagens falsas, insultar/fazer comentários depreciativos e ataques pessoais ou políticos
+* Usar linguagem ou imagens vulgares ou com foco sexual inadequado
+* Fazer comentários maldosos, insultos/comentários depreciativos e ataques pessoais ou políticos
 * Assédio público ou privado
 * Publicar informações privadas de terceiros, como um endereço físico ou eletrônico,
 sem permissão explícita
@@ -57,8 +62,7 @@ definida e esclarecida posteriormente por promovedores de projeto.
 Instâncias de comportamento abusivo, assédio ou de outro comportamento inaceitável podem ser
 reportadas entrando em contato com a equipe do projeto em Grp-opensourceoffice@adobe.com. Todas
 as reclamações serão analisadas e investigadas e resultará em uma resposta considerada necessária e adequada às circunstâncias. A equipe do projeto é
-obrigada a manter a confidencialidade em relação ao relator de um incidente.
-Mais detalhes sobre políticas de aplicação específicas podem ser postados separadamente.
+obrigada a manter a confidencialidade em relação ao relator de um incidente. Mais detalhes sobre políticas de aplicação específicas podem ser postados separadamente.
 
 Os administradores de projeto que não seguirem ou aplicarem o Código de Conduta de boa
 fé podem enfrentar consequências temporárias ou permanentes, conforme determinado por outros
@@ -66,5 +70,5 @@ membros da liderança do projeto.
 
 ## Atribuição
 
-Este Código de conduta é adaptado a partir do [Contrato do colaborador](https://contributor-covenant.org), versão 1.4,
+Este Código de conduta é adaptado a partir do [Contrato do contribuinte](https://contributor-covenant.org), versão 1.4,
 disponível em [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)

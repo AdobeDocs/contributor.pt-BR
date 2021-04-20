@@ -1,14 +1,14 @@
 ---
 title: Fundamentos da documentação do Git e do GitHub
 description: Este artigo mostra uma visão geral do repositório Git, do repositório GitHub, como o conteúdo é organizado e as convenções de nomenclatura usadas para a documentação da Adobe.
+exl-id: 2b2ec764-4201-4bcd-802d-a034d6675793
 translation-type: ht
-source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
 workflow-type: ht
 source-wordcount: '660'
 ht-degree: 100%
 
 ---
-
 
 # Fundamentos da documentação do Git e do GitHub
 

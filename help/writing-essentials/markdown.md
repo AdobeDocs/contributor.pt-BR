@@ -1,14 +1,14 @@
 ---
 title: Como usar o Markdown para escrever a documentação
 description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos.
+exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 translation-type: ht
-source-git-commit: b8090869aa7b5a2ab62f7af09e1b5e289d8a392b
+source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
 workflow-type: ht
 source-wordcount: '1491'
 ht-degree: 100%
 
 ---
-
 
 # Como usar o Markdown para escrever a documentação técnica
 
@@ -140,7 +140,7 @@ Tabelas simples funcionam adequadamente no Markdown. No entanto, as tabelas que 
 
 Para obter mais informações sobre como criar tabelas, consulte:
 
-* [Como organizar informações com tabelas do GitHub](https://help.github.com/articles/organizing-information-with-tables/)
+* [Como organizar informações com tabelas do GitHub](https://docs.github.com/pt/github/writing-on-github/organizing-information-with-tables)
 * O aplicativo web [Gerador de tabelas para Markdown](https://www.tablesgenerator.com/markdown_tables)
 * [Converter tabelas HTML para Markdown](https://jmalarcon.github.io/markdowntables/)
 
@@ -174,7 +174,7 @@ Para obter mais informações sobre links, consulte o artigo [Links](linking.md)
 
 Exibido:
 
-![Adobe Logo](assets/no-localize/adobe_standard_logo.png "Hover text")
+![Adobe Logo ](assets/no-localize/adobe_standard_logo.png " Hover text ")
 
 **OBSERVAÇÃO:** para imagens que não devem ser localizadas, crie uma `do-not-localize` pasta separada na pasta de assets. Normalmente, imagens sem texto ou imagens que têm somente conteúdo de amostra seriam colocadas lá. Isso remove qualquer &quot;ruído&quot; da pasta de assets e reduz a quantidade de perguntas.
 
@@ -374,4 +374,4 @@ Por exemplo, codifique `<script name>` como `&lt;script name&gt;`
 ### Recursos do Markdown
 
 * [Introdução ao Markdown](https://daringfireball.net/projects/markdown/syntax)
-* [Fundamentos do Markdown do GitHub](https://help.github.com/articles/markdown-basics/)
+* [Fundamentos do Markdown do GitHub](https://docs.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)

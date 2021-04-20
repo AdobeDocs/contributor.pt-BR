@@ -1,14 +1,14 @@
 ---
 title: Suporte de idioma para a documentação do produto Adobe Experience Cloud
 description: O guia descreve como você pode contribuir com sugestões e adições para o site da documentação da Adobe.
+exl-id: 6ba93c9f-15c3-47ba-aa41-d226f5d4e435
 translation-type: ht
-source-git-commit: fe6adf7414680d4835a6402be2e8d1a5547cc7d8
+source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
 workflow-type: ht
 source-wordcount: '828'
 ht-degree: 100%
 
 ---
-
 
 # Suporte de idioma para a documentação do produto Adobe Experience Cloud
 

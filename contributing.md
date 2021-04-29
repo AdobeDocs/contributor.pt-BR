@@ -1,11 +1,11 @@
 ---
 title: Contribuição
 description: Informações sobre a contribuição para a documentação do AdobeDocs.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 883a314481675cbe8cea97782ccf39b738690bf9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '303'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 

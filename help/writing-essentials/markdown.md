@@ -2,11 +2,10 @@
 title: Como usar o Markdown para escrever a documentação
 description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
-source-wordcount: '1491'
-ht-degree: 100%
+source-git-commit: 4104aa1481263dabe20f2e3a117944f55a6fd800
+workflow-type: tm+mt
+source-wordcount: '1504'
+ht-degree: 96%
 
 ---
 
@@ -182,7 +181,7 @@ Exibido:
 
 O Markdown oferece suporte à adição em linha de blocos de código em uma sentença e como um bloco “cercado” separado entre sentenças. Para obter detalhes, consulte o [suporte nativo do Markdown para blocos de código.](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Use acentos graves ( \` ) para criar estilos de código em linha em um parágrafo. Para criar um bloco de código de várias linhas específico, adicione três acentos graves (\`\`\`) antes e depois do bloco de código (chamado de “bloco de código cercado” no Markdown e apenas um componente de &quot;bloco de código&quot; no AEM). Para blocos de código cercados, adicione o texto do código depois do primeiro conjunto de acentos graves para que o Markdown aponte a sintaxe de código correta. Exemplo: \`\`\`javascript
+Usar acentos graves ( &amp;grave; ) para criar estilos de código em linha em um parágrafo. Para criar um bloco de código de várias linhas específico, adicione três acentos graves (&amp;grave;&amp;grave;&amp;grave;) antes e depois do bloco de código (chamado de &quot;bloco de código cercado&quot; no Markdown e apenas um componente de &quot;bloco de código&quot; no AEM). Para blocos de código cercados, adicione o texto do código depois do primeiro conjunto de acentos graves para que o Markdown aponte a sintaxe de código correta. Exemplo: &amp; grave;&amp; grave;&amp; grave; javascript
 
 Exemplos:
 
@@ -195,15 +194,6 @@ Exibido:
 This is `inline code` within a paragraph of text.
 
 Isso é um bloco de código cercado:
-
-```markdown
-\```javascript
-function test() {
- console.log("notice the blank line before this function?");
-\```
-```
-
-Exibido:
 
 ```javascript
 function test() {
@@ -354,7 +344,7 @@ Se você copiar o texto em um editor do Markdown, poderá conter apóstrofos ou 
 
 Estas são as codificações das versões &quot;inteligentes&quot; dessas marcas de pontuação:
 
-* Aspas à esquerda (abertura): `&#8220;`
+* Aspas à esquerda (abertura):  `&#8220;`
 * Aspas à direita (fechamento): `&#8221;`
 * Aspas simples (fechamento) ou apóstrofe: `&#8217;`
 * Aspas simples (abertura) aspas simples (raramente usadas): `&#8216;`
@@ -363,7 +353,7 @@ Estas são as codificações das versões &quot;inteligentes&quot; dessas marcas
 
 Se você usar colchetes no texto (não código) no arquivo - por exemplo, para indicar um espaço reservado -, será necessário codificar os colchetes manualmente. Caso contrário, o Markdown os considerará tags HTML.
 
-Por exemplo, codifique `<script name>` como `&lt;script name&gt;`
+Por exemplo, codifique `<script name>` como  `&lt;script name&gt;`
 
 ### “E” comercial em títulos
 

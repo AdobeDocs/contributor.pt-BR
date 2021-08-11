@@ -1,10 +1,11 @@
 ---
+title: Código de conduta da Adobe
+description: Código de conduta da Adobe para problemas de relatório e envio de alterações de edição
 exl-id: ff9c1cc5-8f65-40bb-8d5b-b7d42a5c08c2
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
-source-wordcount: '431'
-ht-degree: 100%
+source-git-commit: 06b0a397f0612e5ecfca82fc7105a45ed167efc9
+workflow-type: tm+mt
+source-wordcount: '446'
+ht-degree: 98%
 
 ---
 
@@ -71,5 +72,5 @@ membros da liderança do projeto.
 
 ## Atribuição
 
-Este Código de conduta é adaptado do [Contributor Covenant](https://contributor-covenant.org), versão 1.4,
-disponível em [https://contributor-covenant.org/version/1/4](https://www.contributor-covenant.org/pt/version/1/4/code-of-conduct)
+Este Código de conduta é adaptado a partir do [Contrato do contribuinte](https://contributor-covenant.org), versão 1.4,
+disponível em [https://www.contributor-covenant.org/pt/version/1/4/code-of-conduct](https://www.contributor-covenant.org/pt/version/1/4/code-of-conduct)

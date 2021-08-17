@@ -1,11 +1,11 @@
 ---
 title: Código de conduta da Adobe
-description: Código de conduta da Adobe para problemas de relatório e envio de alterações de edição
+description: Código de conduta da Adobe para relatório de problemas e envio de alterações de edição
 exl-id: ff9c1cc5-8f65-40bb-8d5b-b7d42a5c08c2
 source-git-commit: 06b0a397f0612e5ecfca82fc7105a45ed167efc9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '446'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 

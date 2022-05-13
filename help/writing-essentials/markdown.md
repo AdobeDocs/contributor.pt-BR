@@ -2,10 +2,10 @@
 title: Como usar o Markdown para escrever a documentação
 description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 4104aa1481263dabe20f2e3a117944f55a6fd800
-workflow-type: ht
-source-wordcount: '1504'
-ht-degree: 100%
+source-git-commit: 9e70d10dc1ba27b593de7febf32a3ba3910bfe21
+workflow-type: tm+mt
+source-wordcount: '1489'
+ht-degree: 97%
 
 ---
 
@@ -181,7 +181,7 @@ Exibido:
 
 O Markdown oferece suporte à adição em linha de blocos de código em uma sentença e como um bloco “cercado” separado entre sentenças. Para obter detalhes, consulte o [suporte nativo do Markdown para blocos de código.](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Use acentos graves ( &amp;grave; ) para criar estilos de código em linha em um parágrafo. Para criar um bloco de código de várias linhas específico, adicione três acentos graves (&amp;grave;&amp;grave;&amp;grave;) antes e depois do bloco de código (chamado de “bloco de código cercado” no Markdown e apenas um componente de “bloco de código” no AEM). Para blocos de código cercados, adicione o texto do código depois do primeiro conjunto de acentos graves para que o Markdown aponte a sintaxe de código correta. Exemplo: &amp;grave;&amp;grave;&amp;grave;javascript
+Usar acentos graves (`` ` ``) para criar estilos de código em linha em um parágrafo. Para criar um bloco de código de várias linhas específico, adicione três acentos graves (` ``` `) antes e depois do bloco de código (chamado de &quot;bloco de código cercado&quot; no Markdown e apenas um componente de &quot;bloco de código&quot; no AEM). Para blocos de código cercados, adicione o texto do código depois do primeiro conjunto de acentos graves para que o Markdown aponte a sintaxe de código correta. Exemplo: ` ```javascript`
 
 Exemplos:
 

@@ -1,17 +1,16 @@
 ---
-git-repo: https://git.corp.adobe.com/AdobeDocs/contributor.pt-BR
+git-repo: https://github.com/AdobeDocs/contributor.pt-BR
 cloud: Adobe
 index: true
-translation-type: ht
 source-git-commit: 1acc8373c778c65b378a7e74d5c41418ce069ffe
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 
 ---
 
 
-# Guia do colaborador para a documentação da Adobe {#contributor-guide}
+# Guia do colaborador para a documentação da Adobe{#contributor-guide}
 
 + [Introdução](introduction.md)
 + Configurar com GitHub {#setup}
@@ -27,6 +26,6 @@ ht-degree: 100%
 + Feedback sobre a tradução {#localization}
    + [Suporte de idioma para a documentação do produto Adobe Experience Cloud](localization/machine-translation.md)
 + [Recursos de aprendizado de Git e GitHub](resources.md)
-+ Conduta e contribuições {#conduct-contributions}
++  Conduta e contribuições {#conduct-contributions}
    + [Código de conduta](conduct/code-of-conduct.md)
    + [Visão geral das contribuições](conduct/contributing.md)

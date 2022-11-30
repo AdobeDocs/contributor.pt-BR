@@ -1,11 +1,11 @@
 ---
 title: Como usar o Markdown para escrever a documentação
-description: este artigo fornece informações básicas e de referência sobre a linguagem do Markdown usada para escrever artigos.
+description: Saiba mais sobre as noções básicas da criação do Markdown. Encontre informações de referência para a linguagem do Markdown usada para escrever artigos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 9e70d10dc1ba27b593de7febf32a3ba3910bfe21
-workflow-type: ht
-source-wordcount: '1489'
-ht-degree: 100%
+source-git-commit: e9cd46132a673d5acd1e3db2f05a9c3c8e5bc30b
+workflow-type: tm+mt
+source-wordcount: '1500'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,8 @@ Os artigos técnicos da Adobe são escritos em uma linguagem de marcação simpl
 Como estamos armazenando o conteúdo dos documentos da Adobe no GitHub, uma versão do Markdown chamada [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/) pode ser usada, a qual oferece funcionalidade adicional para as necessidades comuns de formatação. Além disso, a Adobe estendeu o Markdown de algumas maneiras para oferecer suporte a determinados recursos relacionados a ajuda, como notas, dicas e vídeos incorporados.
 
 ## Noções básicas sobre o Markdown
+
+As seções a seguir descrevem as noções básicas da criação no Markdown.
 
 ### Cabeçalhos
 

@@ -1,32 +1,33 @@
 ---
 title: Guia do colaborador para a documentação da Adobe
-seo-title: Visão geral do guia do colaborador para a documentação técnica da Adobe Experience Cloud
+seo-title: Contributor guide overview for Adobe Experience Cloud technical documentation
 description: O guia descreve como você pode contribuir com sugestões e adições para o site da documentação da Adobe.
-seo-description: O guia descreve como você pode contribuir para a documentação técnica da [!UICONTROL Adobe Experience Cloud].
+seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
-source-wordcount: '836'
-ht-degree: 100%
+source-git-commit: 5a9bbe0663a1efa8a683e892a42faed18f072e8a
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Visão geral do guia do colaborador para a documentação da Adobe
+# Guia do colaborador para a documentação do Adobe
 
-## O que é a Documentação colaborativa
+Este guia descreve como você pode contribuir para a ajuda da empresa Adobe no Experience League.
 
-A documentação técnica e o conteúdo de ativação da Adobe Experience Cloud e outros produtos Adobe Enterprise passaram para uma nova plataforma. Essa nova plataforma é baseada em princípios de código aberto que utilizam as soluções Github, Markdown e Adobe Experience Cloud.
+## O que é documentação colaborativa?
 
-Este modelo de código aberto melhora a qualidade do conteúdo e a comunicação entre clientes, equipes de documentação e equipes de produtos. Em todas as páginas, agora você pode classificar a utilidade do conteúdo, registrar problemas e até mesmo contribuir com sugestões de conteúdo como solicitações de Git (PRs). As equipes de documentação da Adobe monitoram as contribuições e os problemas diariamente, além de fazerem atualizações e ajustes, conforme necessário.
+A documentação técnica e o conteúdo de capacitação para a Adobe Experience Cloud e outros produtos Adobe Enterprise são baseados em princípios de código aberto que usam as soluções GitHub, Markdown e Adobe Experience Cloud.
+
+Esse modelo de código aberto melhora a qualidade do conteúdo e a comunicação entre clientes, equipes de documentação e equipes de produtos. Em todas as páginas, agora você pode classificar a utilidade do conteúdo, registrar problemas e até mesmo contribuir com sugestões de conteúdo como solicitações de Git (PRs). As equipes de documentação da Adobe monitoram as contribuições e os problemas diariamente, além de fazerem atualizações e ajustes, conforme necessário.
 
 ## Trabalhar com documentação colaborativa
 
 Como usuário desse material, independentemente de se você for um funcionário, parceiro, cliente ou até mesmo um cliente potencial, você tem a opção de contribuir para essa documentação de várias maneiras simples:
 
-* classificar o nível de ajuda da página
-* registrar um problema em relação a uma página específica
-* enviar uma edição rápida para a criação de artigos inteiros, completa com ativos e amostras de código
+* Classifique o nível de ajuda da página
+* Registrar um problema em uma página específica
+* Envie uma edição rápida para a criação de artigos inteiros, completa com ativos e amostras de código
 
 Este guia descreve tudo o que você precisa saber para interagir e contribuir com esse conjunto de materiais.
 

@@ -2,11 +2,10 @@
 title: Fundamentos da documentação do Git e do GitHub
 description: Este artigo mostra uma visão geral do repositório Git, do repositório GitHub, como o conteúdo é organizado e as convenções de nomenclatura usadas para a documentação da Adobe.
 exl-id: 2b2ec764-4201-4bcd-802d-a034d6675793
-translation-type: ht
-source-git-commit: 1b1678b33059f4bc8f7aff4690f1d775e6aee2d6
-workflow-type: ht
+source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
+workflow-type: tm+mt
 source-wordcount: '660'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
@@ -29,7 +28,7 @@ O Git apresenta um fluxo de trabalho de contribuição e uma terminologia exclus
 O Git também usa uma estrutura em camadas para armazenar e gerenciar o conteúdo de um projeto:
 
 - *Repositório*: também conhecido como *repo*, esta é a unidade mais elevada de armazenamento. Um repositório contém uma ou mais ramificações.
-- *Ramificação*: todos os repositórios contêm uma ramificação padrão (em geral, chamada de &quot;mestre&quot;) e uma ou mais ramificações destinadas a serem mescladas à ramificação mestre. A ramificação mestre serve como a versão atual e a fonte da qual o conteúdo é publicado. É a ramificação principal da qual todas as outras ramificações no repositório são criadas.
+- *Ramificação*: Todos os repositórios contêm uma ramificação padrão (normalmente chamada de &quot;principal&quot;) e uma ou mais ramificações destinadas a serem mescladas à ramificação principal. A ramificação principal serve como a versão atual e a fonte da qual o conteúdo é publicado. É a ramificação principal da qual todas as outras ramificações no repositório são criadas.
 
 Os colaboradores interagem com o Git para atualizar e manipular repositórios nos níveis locais e do GitHub:
 
@@ -42,7 +41,7 @@ Todos os fluxos de trabalho começam e terminam no nível do GitHub, onde o repo
 
 ### Organização do diretório
 
-A ramificação padrão/mestre de um projeto serve como a versão atual do conteúdo do projeto. O conteúdo da ramificação mestre - e das ramificações criadas a partir dela - está alinhado com a organização dos tópicos do artigo. Os subdiretórios são usados para organizar os ativos de conteúdo e imagem.
+A ramificação padrão/principal de um projeto serve como a versão atual do conteúdo do projeto. O conteúdo na ramificação principal — e ramificações criadas a partir dela — está alinhado com a organização dos tópicos do artigo. Os subdiretórios são usados para organizar os ativos de conteúdo e imagem.
 
 Normalmente, é possível encontrar um diretório principal `help` fora da raiz do repositório. O diretório de artigos contém um conjunto de subdiretórios. Os artigos nos subdiretórios são formatados como arquivos Markdown que usam a extensão *.md*.
 

@@ -1,12 +1,11 @@
 ---
 title: Fluxo de trabalho de contribuição do GitHub para grandes alterações
-description: este artigo mostra como usar o fluxo de trabalho de colaborador "principal" para fazer contribuições à documentação da Adobe.
+description: Saiba como fazer contribuições para a documentação do Adobe no Experience League.
 exl-id: ad467ad4-abd2-4166-8659-e29c48d268ec
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
-source-wordcount: '950'
-ht-degree: 100%
+source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
+workflow-type: tm+mt
+source-wordcount: '944'
+ht-degree: 82%
 
 ---
 
@@ -45,19 +44,19 @@ Nesse fluxo de trabalho, as alterações fluem em um ciclo repetitivo. Começand
 
 ### Usar o fluxo do GitHub
 
-Lembre-se dos [fundamentos de Git e GitHub](git-fundamentals.md) que um repositório Git contém uma ramificação mestre, além de quaisquer ramificações de trabalho adicionais que não tenham sido integradas à ramificação mestre. Sempre que você introduz um conjunto de alterações logicamente relacionadas, é uma prática recomendada criar uma *ramificação de trabalho* para gerenciar as alterações no fluxo de trabalho. Aqui, nós nos referimos a isso como uma ramificação de trabalho porque é um espaço de trabalho no qual você itera/refina as alterações até que elas possam ser integradas à ramificação mestre.
+Lembrar de [Fundamentos do Git e do GitHub](git-fundamentals.md) que um repositório Git contém uma ramificação principal, além de quaisquer ramificações de trabalho adicionais em andamento que não foram integradas à ramificação principal. Sempre que você introduz um conjunto de alterações logicamente relacionadas, é uma prática recomendada criar um *ramificação de trabalho* para gerenciar as alterações por meio do fluxo de trabalho. Aqui, chamamos isso de ramificação de trabalho porque é um espaço de trabalho para iterar/refinar alterações, até que elas possam ser integradas à ramificação principal.
 
 Ao isolar as alterações relacionadas em uma ramificação específica, é possível controlar e introduzir as alterações de maneira independente, direcionando-as para um momento de lançamento específico no ciclo de publicação. Na verdade, dependendo do tipo de trabalho, você pode ter várias ramificações funcionais no seu repositório. Não é incomum trabalhar em várias ramificações ao mesmo tempo, cada uma representando um projeto diferente.
 
 >[!NOTE]
 >
->Fazer as alterações na ramificação mestre não *é uma boa prática*. Imagine que você use a ramificação mestre para inserir um conjunto de alterações em uma versão de recurso programada. Você conclui as alterações e aguarda a liberação delas. Em seguida, você recebe uma solicitação urgente para corrigir algo; assim, você faz a alteração em um arquivo na ramificação mestre e a publica. Neste exemplo, você publica inadvertidamente a correção *e* as alterações que estavam aguardando liberação em uma data específica.
+>Fazer alterações na ramificação principal *não é uma boa prática*. Imagine que você use a ramificação principal para introduzir um conjunto de alterações em uma versão de recurso programada. Você conclui as alterações e aguarda a liberação delas. Em seguida, enquanto isso, você tem uma solicitação urgente para corrigir algo, para fazer a alteração em um arquivo na ramificação principal e, em seguida, publicar a alteração. Neste exemplo, você publica inadvertidamente a correção *e* as alterações que estavam aguardando liberação em uma data específica.
 
 A próxima etapa é criar uma nova ramificação de trabalho no repositório local para capturar as alterações propostas. Cada cliente Git é diferente. Consulte a ajuda do seu cliente preferido. Você pode ver uma visão geral do processo no Guia do GitHub no [fluxo do GitHub](https://guides.github.com/introduction/flow/).
 
 ## Processamento de solicitação de pull
 
-Você envia as alterações propostas agrupando-as em uma nova solicitação de pull (PR) que é adicionada à fila de PRs do repositório de destino. As solicitações de pull possibilitam o modelo de colaboração do GitHub, solicitando que as alterações feitas em sua ramificação de trabalho sejam extraídas e mescladas com outra ramificação. Na maioria dos casos, essa outra ramificação é a ramificação padrão/mestre no repositório principal.
+Você envia as alterações propostas agrupando-as em uma nova solicitação de pull (PR) que é adicionada à fila de PRs do repositório de destino. As solicitações de pull possibilitam o modelo de colaboração do GitHub, solicitando que as alterações feitas em sua ramificação de trabalho sejam extraídas e mescladas com outra ramificação. Na maioria dos casos, essa outra ramificação é a ramificação padrão/principal no repositório principal.
 
 ### Validação
 

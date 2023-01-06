@@ -1,10 +1,9 @@
 ---
 title: Contribuição
 description: Informações sobre a contribuição para a documentação do AdobeDocs.
-translation-type: ht
-source-git-commit: 883a314481675cbe8cea97782ccf39b738690bf9
-workflow-type: ht
-source-wordcount: '303'
+source-git-commit: 99540be2c2310e2250a0ceb14fb133b630ec397e
+workflow-type: tm+mt
+source-wordcount: '301'
 ht-degree: 100%
 
 ---
@@ -23,7 +22,7 @@ deve seguir esse código. Denuncie qualquer comportamento inaceitável para
 
 ## Documentação do Guia do colaborador
 
-Consulte o [Manual do colaborador](https://docs.adobe.com/content/help/pt-BR/contributor/contributor-guide/introduction.html).
+Consulte o [Manual do colaborador](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR).
 
 ## Dúvidas?
 
@@ -42,7 +41,7 @@ você pode ir em frente!
 ## Revisões do código
 
 Todos os envios devem ser recebidos na forma de solicitações de pull e devem ser revisados
-pelos responsáveis pelo projeto. Leia a [documentação de solicitação de pull do GitHub](https://help.github.com/pt/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
+pelos responsáveis pelo projeto. Leia a [documentação de solicitação de pull do GitHub](https://help.github.com/pt/articles/about-pull-requests/)
 para obter mais informações sobre como enviar solicitações de pull.
 
 <!--

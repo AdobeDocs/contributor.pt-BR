@@ -1,11 +1,11 @@
 ---
 title: Como usar o Markdown para escrever a documentação
-description: Saiba mais sobre as noções básicas da criação do Markdown. Encontre informações de referência para a linguagem do Markdown usada para escrever artigos.
+description: Saiba mais sobre as noções básicas de criação no Markdown. Encontre informações de referência para a linguagem do Markdown usada para escrever artigos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: e9cd46132a673d5acd1e3db2f05a9c3c8e5bc30b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1500'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ Como estamos armazenando o conteúdo dos documentos da Adobe no GitHub, uma vers
 
 ## Noções básicas sobre o Markdown
 
-As seções a seguir descrevem as noções básicas da criação no Markdown.
+As seções a seguir descrevem as noções básicas de criação no Markdown.
 
 ### Cabeçalhos
 
@@ -177,13 +177,13 @@ Exibido:
 
 ![Adobe Logo ](assets/no-localize/adobe_standard_logo.png " Hover text ")
 
-**OBSERVAÇÃO:** para imagens que não devem ser localizadas, crie uma `do-not-localize` pasta separada na pasta de assets. Normalmente, imagens sem texto ou imagens que têm somente conteúdo de amostra seriam colocadas lá. Isso remove qualquer &quot;ruído&quot; da pasta de assets e reduz a quantidade de perguntas.
+**OBSERVAÇÃO:** para imagens que não devem ser localizadas, crie uma `do-not-localize` pasta separada na pasta de assets. Normalmente, imagens sem texto ou imagens que têm somente conteúdo de amostra seriam colocadas lá. Isso remove qualquer “ruído” da pasta de assets e reduz a quantidade de perguntas.
 
 ### Blocos de código
 
 O Markdown oferece suporte à adição em linha de blocos de código em uma sentença e como um bloco “cercado” separado entre sentenças. Para obter detalhes, consulte o [suporte nativo do Markdown para blocos de código.](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Use acentos graves (`` ` ``) para criar estilos de código em linha em um parágrafo. Para criar um bloco de código de várias linhas específico, adicione três acentos graves (` ``` `) antes e depois do bloco de código (chamado de “bloco de código cercado” no Markdown e apenas componente de &quot;bloco de código&quot; no AEM). Para blocos de código cercados, adicione o texto do código depois do primeiro conjunto de acentos graves para que o Markdown aponte a sintaxe de código correta. Exemplo: ` ```javascript`
+Use acentos graves (`` ` ``) para criar estilos de código em linha em um parágrafo. Para criar um bloco de código de várias linhas específico, adicione três acentos graves (` ``` `) antes e depois do bloco de código (chamado de “bloco de código cercado” no Markdown e apenas componente de “bloco de código” no AEM). Para blocos de código cercados, adicione o texto do código depois do primeiro conjunto de acentos graves para que o Markdown aponte a sintaxe de código correta. Exemplo: ` ```javascript`
 
 Exemplos:
 
@@ -269,7 +269,7 @@ Exibido:
 
 ### Mais artigos como este
 
-O componente &quot;Mais artigos como este&quot; no AEM aparece no fim de um artigo. Ele exibe links relacionados. Quando o artigo é renderizado, ele pode ser formatado como um cabeçalho de nível 2 (##) sem ser adicionado ao mini-TOC.
+O componente “Mais artigos como este” no AEM aparece no fim de um artigo. Ele exibe links relacionados. Quando o artigo é renderizado, ele pode ser formatado como um cabeçalho de nível 2 (##) sem ser adicionado ao mini-TOC.
 
 ```markdown
 >[!MORELIKETHIS]
@@ -310,7 +310,7 @@ Durante a tradução automática, os itens marcados com `` são verificados em
 
 **`[!DNL]`**
 
-Como regra, usamos uma lista &quot;Não traduzir&quot; para informar aos mecanismos de tradução automática o que manter em inglês. Os itens mais comuns são os nomes longos de solução, como &quot;Adobe Analytics&quot;, &quot;Adobe Campaign&quot; e &quot;Adobe Target&quot;. No entanto, pode haver casos em que tenhamos de forçar o mecanismo a utilizar o inglês porque o termo em questão pode ser usado de forma específica ou geral. O caso mais óbvio seriam os nomes curtos de soluções, como &quot;Analytics&quot;, &quot;Campaign&quot;, &quot;Target&quot; etc. Seria difícil para uma máquina entender que esses são nomes de solução, não termos gerais. A tag também pode ser usada para nomes/recursos de terceiros que sempre permanecem em inglês ou para seções mais curtas de texto, como uma frase ou sentença que deve permanecer em inglês.
+Como regra, usamos uma lista “Não traduzir” para informar aos mecanismos de tradução automática o que manter em inglês. Os itens mais comuns são os nomes longos de solução, como “Adobe Analytics”, “Adobe Campaign” e “Adobe Target”. No entanto, pode haver casos em que tenhamos de forçar o mecanismo a utilizar o inglês porque o termo em questão pode ser usado de forma específica ou geral. O caso mais óbvio seriam os nomes curtos de soluções, como “Analytics”, “Campaign”, “Target” etc. Seria difícil para uma máquina entender que esses são nomes de solução, não termos gerais. A tag também pode ser usada para nomes/recursos de terceiros que sempre permanecem em inglês ou para seções mais curtas de texto, como uma frase ou sentença que deve permanecer em inglês.
 
 **Exemplo:**
 
@@ -342,9 +342,9 @@ Nossa prática recomendada é usar hifens (-) em vez de sublinhados (_) nos nome
 
 ### Apóstrofos e aspas
 
-Se você copiar o texto em um editor do Markdown, poderá conter apóstrofos ou aspas &quot;inteligentes&quot; (curvos). Eles precisam ser codificados ou alterados para apóstrofos ou aspas básicos. Caso contrário, você terá caracteres estranhos como este quando o arquivo for publicado: Itâ€™s
+Se você copiar o texto em um editor do Markdown, poderá conter apóstrofos ou aspas “inteligentes” (curvos). Eles precisam ser codificados ou alterados para apóstrofos ou aspas básicos. Caso contrário, você terá caracteres estranhos como este quando o arquivo for publicado: Itâ€™s
 
-Estas são as codificações das versões &quot;inteligentes&quot; dessas marcas de pontuação:
+Estas são as codificações das versões “inteligentes” dessas marcas de pontuação:
 
 * Aspas à esquerda (abertura): `&#8220;`
 * Aspas à direita (fechamento): `&#8221;`
@@ -359,7 +359,7 @@ Por exemplo, codifique `<script name>` como `&lt;script name&gt;`
 
 ### “E” comercial em títulos
 
-“E” comercial (&amp;) não é permitido em títulos. Use &quot;e&quot; ou a codificação `&amp;`.
+“E” comercial (&amp;) não é permitido em títulos. Use “e” ou a codificação `&amp;`.
 
 ## Consulte também
 

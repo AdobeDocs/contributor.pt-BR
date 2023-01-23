@@ -5,29 +5,29 @@ description: O guia descreve como você pode contribuir com sugestões e adiçõ
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
 source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '800'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
 # Guia do colaborador para a documentação da Adobe
 
-Este guia descreve como você pode contribuir para a ajuda da empresa Adobe no Experience League.
+Este guia descreve como você pode contribuir com a ajuda da Adobe Enterprise na Experience League.
 
-## O que é documentação colaborativa?
+## O que é a documentação colaborativa?
 
-A documentação técnica e o conteúdo de capacitação para a Adobe Experience Cloud e outros produtos Adobe Enterprise são baseados em princípios de código aberto que usam as soluções GitHub, Markdown e Adobe Experience Cloud.
+A documentação técnica e o conteúdo de capacitação da Adobe Experience Cloud e de outros produtos da Adobe Enterprise são baseados em princípios de código aberto que usam as soluções GitHub, Markdown e Adobe Experience Cloud.
 
-Esse modelo de código aberto melhora a qualidade do conteúdo e a comunicação entre clientes, equipes de documentação e equipes de produtos. Em todas as páginas, agora você pode classificar a utilidade do conteúdo, registrar problemas e até mesmo contribuir com sugestões de conteúdo como solicitações de Git (PRs). As equipes de documentação da Adobe monitoram as contribuições e os problemas diariamente, além de fazerem atualizações e ajustes, conforme necessário.
+Este modelo de código aberto melhora a qualidade do conteúdo e a comunicação entre clientes, equipes de documentação e equipes de produtos. Em todas as páginas, agora você pode classificar a utilidade do conteúdo, registrar problemas e até mesmo contribuir com sugestões de conteúdo como solicitações de Git (PRs). As equipes de documentação da Adobe monitoram as contribuições e os problemas diariamente, além de fazerem atualizações e ajustes, conforme necessário.
 
-## Trabalhar com documentação colaborativa
+## Trabalhar com a documentação colaborativa
 
 Como usuário desse material, independentemente de se você for um funcionário, parceiro, cliente ou até mesmo um cliente potencial, você tem a opção de contribuir para essa documentação de várias maneiras simples:
 
-* Classifique o nível de ajuda da página
-* Registrar um problema em uma página específica
-* Envie uma edição rápida para a criação de artigos inteiros, completa com ativos e amostras de código
+* Avaliar a utilidade da página
+* Relatar um problema em relação a uma página específica
+* Realizar uma edição rápida ou criar artigos inteiros, incluindo ativos e exemplos de código
 
 Este guia descreve tudo o que você precisa saber para interagir e contribuir com esse conjunto de materiais.
 
@@ -45,7 +45,7 @@ Fazer edições rápidas é uma boa maneira de corrigir pequenos erros e omissõ
 1. Assine o [Contrato de licença de colaborador (CLA)](http://opensource.adobe.com/cla.html) se for aceitável.
 
    É necessário enviar somente um CLA da Adobe uma vez.
-1. Clique em **[!UICONTROL Edit this page]** na coluna à direita para ir para o arquivo de origem do Markdown no GitHub.
+1. Clique em **[!UICONTROL Edit this page]** na coluna à direita para acessar o arquivo de origem do Markdown no GitHub.
 
    ![Editar este ícone de página](/help/assets/git_edit.png)
 
@@ -62,7 +62,7 @@ Fazer edições rápidas é uma boa maneira de corrigir pequenos erros e omissõ
    Você pode clicar na guia **[!UICONTROL Preview changes]** (Visualizar alterações) para verificar a formatação da alteração.
 1. Depois de fazer as alterações, navegue até a parte inferior da página.
 
-   Insira um título e uma descrição para a sua PR e clique em **[!UICONTROL Propose file change]** como indicado na figura seguinte:
+   Insira um título e uma descrição para a sua solicitação de pull e clique em **[!UICONTROL Propose file change]**, conforme mostrado na figura a seguir:
 
    ![como propor sua alteração](assets/submit-pull-request.png)
 
@@ -72,27 +72,27 @@ Fazer edições rápidas é uma boa maneira de corrigir pequenos erros e omissõ
 
 Isso é tudo. Os membros da equipe de documentação analisarão e mesclarão sua solicitação de pull. Obrigado!
 
-## Registrar um problema
+## Relatar um problema
 
-Outra maneira fácil de nos informar sobre um problema com um conteúdo é usar **[!UICONTROL Log an Issue]**.
+Outra maneira fácil de nos informar sobre um problema de conteúdo é usar a opção **[!UICONTROL Log an Issue]**.
 
-1. Se você perceber um problema com um conteúdo, clique no ícone **[!UICONTROL Log an Issue]** no canto inferior direito na coluna à direita.
+1. Se você perceber um problema com um conteúdo, clique no ícone **[!UICONTROL Log an Issue]** na coluna à direita.
 
    ![](assets/git_log_issue.png)
 
    >[!NOTE]
    >
-   >Para registrar um problema, você deve fazer logon em sua conta GitHub ou criar uma conta.
+   >Para relatar um problema, você deve fazer logon em sua conta do GitHub ou criar uma conta.
 
-   Clicar nesse link permite registrar um tíquete rápido com o Experience League, usando a interface do GitHub Issue.
+   Clicar neste link permitirá registrar uma solicitação rápida na Experience League, usando a interface do GitHub Issue.
 
-   O URL da página com o problema é preenchido automaticamente no campo de descrição.
+   O URL da página com o problema será preenchido automaticamente no campo de descrição.
 
 1. Preencha o título, escreva uma breve descrição do problema e clique em *Submit new issue* (Enviar novo problema).
 
    ![](assets/git_issue_example.png)
 
-Enviar um problema notifica a equipe de conteúdo desta página, que pode resolver seu problema. Quando atualizarmos o conteúdo, você será informado na interface do GitHub Issues e notificado por e-mail quando o problema for atualizado ou encerrado.
+Enviar um problema notifica a equipe de conteúdo desta página, que poderá resolver o problema. Quando atualizarmos o conteúdo, você será informado na interface do GitHub Issues e notificado por e-mail quando o problema for atualizado ou encerrado.
 
 ## Compreender as permissões do GitHub
 
@@ -106,4 +106,4 @@ A experiência de edição no navegador é melhor para pequenas alterações ou 
 
 Com um conjunto de soluções tão grande quanto o da Adobe, a documentação está sempre em progresso. Se você detectar erros, registre um problema. Caso tenha sugestões sobre o material, informe-nos. Diga-nos quais informações você estava procurando. Informe-nos se você não conseguiu encontrar o que precisava. Caso tenha dificuldade para concluir sua tarefa, diga-nos como podemos ajudá-lo a aprender sobre nossas soluções.
 
-A equipe de Documentação Colaborativa agradece a todos os autores e produtores de conteúdo do Experience League.
+A equipe de Documentação colaborativa agradece a todos os autores e produtores de conteúdo da Experience League.

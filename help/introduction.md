@@ -4,10 +4,10 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: O guia descreve como você pode contribuir com sugestões e adições para o site da documentação da Adobe.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 8e7d5fb9dc5686df32f7d917ebfb290547d299be
-workflow-type: ht
-source-wordcount: '800'
-ht-degree: 100%
+source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+workflow-type: tm+mt
+source-wordcount: '904'
+ht-degree: 69%
 
 ---
 
@@ -23,11 +23,15 @@ Este modelo de código aberto melhora a qualidade do conteúdo e a comunicação
 
 ## Trabalhar com a documentação colaborativa
 
-Como usuário desse material, independentemente de se você for um funcionário, parceiro, cliente ou até mesmo um cliente potencial, você tem a opção de contribuir para essa documentação de várias maneiras simples:
+Como usuário desse material, independentemente de ser um funcionário, parceiro, cliente ou até mesmo um cliente potencial, você tem a opção de contribuir para essa documentação de várias maneiras simples.
 
-* Avaliar a utilidade da página
-* Relatar um problema em relação a uma página específica
-* Realizar uma edição rápida ou criar artigos inteiros, incluindo ativos e exemplos de código
+* Classifique o nível de ajuda do ❶ da página e escreva um comentário opcional ❷
+* Relatar um problema em uma página específica (requer logon do Git) ❸
+* Envie uma edição rápida por meio do para a criação de artigos inteiros, completa com ativos e amostras de código (requer logon do Git) ❹
+
+![Feedback](assets/feedback-options.png)
+
+Essas opções são exibidas na parte inferior da página alguns segundos após sua abertura. Se ignorar a área de feedback, você poderá recarregar a página para trazê-la de volta.
 
 Este guia descreve tudo o que você precisa saber para interagir e contribuir com esse conjunto de materiais.
 
@@ -38,16 +42,23 @@ Este guia descreve tudo o que você precisa saber para interagir e contribuir co
 > Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [Adobe Documentation Terms of Use](https://www.adobe.com/legal/terms.html). New or significant changes generate a comment in the pull request, asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Adobe. We need you to complete the online form before we can review or accept your pull request.
 -->
 
+## Classifique o nível de ajuda da página e escreva um comentário
+
+Alguns segundos após abrir uma página, uma área de feedback é exibida na parte inferior da página. Clique para cima ou para baixo para indicar se a página foi útil.
+
+Deixe um comentário para fornecer feedback adicional.
+
 ## Faça edições rápidas nos documentos existentes
 
-Fazer edições rápidas é uma boa maneira de corrigir pequenos erros e omissões nos documentos. Se um artigo exibir um botão Edit (Editar) como mostrado abaixo, você poderá fazer uma correção rápida. Ao editar o documento, você envia uma solicitação de pull (PR) para enviar a correção/sugestão para nós e poderemos vetar, aprovar e publicar a sugestão.
+Se você quiser fornecer feedback mais detalhado, fazer edições rápidas é uma boa maneira de corrigir pequenos erros e omissões nos documentos. Ao sugerir uma edição, você envia uma solicitação de pull (PR) para enviar a correção/sugestão para nós e poderemos vetar, aprovar e publicar a sugestão.
 
 1. Assine o [Contrato de licença de colaborador (CLA)](http://opensource.adobe.com/cla.html) se for aceitável.
 
    É necessário enviar somente um CLA da Adobe uma vez.
-1. Clique em **[!UICONTROL Edit this page]** na coluna à direita para acessar o arquivo de origem do Markdown no GitHub.
 
-   ![Editar este ícone de página](/help/assets/git_edit.png)
+1. Na área de feedback exibida na parte inferior do artigo, clique em **[!UICONTROL Detailed feedback options]** e clique em **[!UICONTROL Suggest an edit]** para acessar o arquivo de origem do Markdown no GitHub.
+
+   ![Editar este ícone de página](/help/assets/feedback-suggest-edit.png)
 
 1. Clique no ícone de lápis para editar o artigo.
 
@@ -55,11 +66,12 @@ Fazer edições rápidas é uma boa maneira de corrigir pequenos erros e omissõ
    >
    >Se o ícone de lápis estiver esmaecido, será necessário fazer logon na sua conta GitHub ou criar uma nova conta.
 
-   ![Localização do ícone de lápis](assets/edit-icon.png)
+   ![Localização do ícone de lápis](assets/git_edit.png)
 
 1. Faça as alterações no editor da web.
 
    Você pode clicar na guia **[!UICONTROL Preview changes]** (Visualizar alterações) para verificar a formatação da alteração.
+
 1. Depois de fazer as alterações, navegue até a parte inferior da página.
 
    Insira um título e uma descrição para a sua solicitação de pull e clique em **[!UICONTROL Propose file change]**, conforme mostrado na figura a seguir:
@@ -74,15 +86,15 @@ Isso é tudo. Os membros da equipe de documentação analisarão e mesclarão su
 
 ## Relatar um problema
 
-Outra maneira fácil de nos informar sobre um problema de conteúdo é usar a opção **[!UICONTROL Log an Issue]**.
+Outra maneira fácil de nos informar sobre um problema de conteúdo é usar a opção **[!UICONTROL Report an issue]**.
 
-1. Se você perceber um problema com um conteúdo, clique no ícone **[!UICONTROL Log an Issue]** na coluna à direita.
+1. Na área de feedback exibida na parte inferior do artigo, clique em **[!UICONTROL Detailed feedback options]** e clique em **[!UICONTROL Report an issue]** para acessar o arquivo de origem do Markdown no GitHub.
 
-   ![](assets/git_log_issue.png)
+   ![Relatar problema](assets/feedback-report-issue.png)
 
    >[!NOTE]
    >
-   >Para relatar um problema, você deve fazer logon em sua conta do GitHub ou criar uma conta.
+   >Para relatar um problema, faça logon na sua conta GitHub ou crie uma conta.
 
    Clicar neste link permitirá registrar uma solicitação rápida na Experience League, usando a interface do GitHub Issue.
 

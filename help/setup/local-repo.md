@@ -2,9 +2,8 @@
 title: Configurar o repositório Git localmente
 description: Este artigo fornece orientação para criar seu repositório Git local e contribuir com a documentação da Adobe, incluindo o processo de bifurcamento e clonagem.
 exl-id: 679c07a2-030b-4a30-ba14-7780f88dae11
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
+source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 100%
 
@@ -71,7 +70,7 @@ Essas etapas consideram que você está usando o GitHub Desktop. Se você estive
 
 1. Clique em **Clone or download** (Clonar ou fazer download) e escolha **Open in Desktop** (Abrir no computador) para extrair uma cópia do repositório (sua bifurcação) no computador no diretório atual.
 
-  ![Clone o repositório](assets/clone-pulldown.png)
+   ![Clone o repositório](assets/clone-pulldown.png)
 
 1. Use o GitHub Desktop para manter os arquivos locais sincronizados com o repositório bifurcado.
 

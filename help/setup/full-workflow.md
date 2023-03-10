@@ -2,7 +2,7 @@
 title: Fluxo de trabalho de contribuição do GitHub para grandes alterações
 description: Saiba como fazer contribuições para a documentação da Adobe na Experience League.
 exl-id: ad467ad4-abd2-4166-8659-e29c48d268ec
-source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
+source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
 workflow-type: ht
 source-wordcount: '944'
 ht-degree: 100%
@@ -38,6 +38,7 @@ Se você não estiver familiarizado com os conceitos do Git e do GitHub, como um
 ## Fluxo de trabalho
 
 >[!IMPORTANT]
+>
 > Se você ainda não tiver feito isso, conclua as etapas na seção [Configuração](github-signup.md).
 
 Nesse fluxo de trabalho, as alterações fluem em um ciclo repetitivo. Começando pelo repositório local do seu dispositivo, elas fluem para a sua bifurcação do GitHub, para o repositório GitHub principal e retornam localmente à medida que você incorpora as alterações de outros colaboradores.

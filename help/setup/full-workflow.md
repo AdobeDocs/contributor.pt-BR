@@ -3,7 +3,7 @@ title: Fluxo de trabalho de contribuição do GitHub para grandes alterações
 description: Saiba como fazer contribuições para a documentação da Adobe na Experience League.
 exl-id: ad467ad4-abd2-4166-8659-e29c48d268ec
 source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '944'
 ht-degree: 100%
 

@@ -2,10 +2,10 @@
 title: Como usar o Markdown para escrever a documentação
 description: Saiba mais sobre as noções básicas de criação no Markdown. Encontre informações de referência para a linguagem do Markdown usada para escrever artigos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: e9cd46132a673d5acd1e3db2f05a9c3c8e5bc30b
-workflow-type: ht
-source-wordcount: '1500'
-ht-degree: 100%
+source-git-commit: 065e43d5251f80050deef02e9c18b3fb4e9c1204
+workflow-type: tm+mt
+source-wordcount: '1430'
+ht-degree: 97%
 
 ---
 
@@ -86,11 +86,13 @@ Também é possível incorporar listas em listas e adicionar conteúdo entre ite
 1. Perform this step.
 
    ![screen](assets/no-localize/adobe_standard_logo.png)
+
 1. Make sure that your table looks like this: 
 
    | Hello | World |
    |---|---|
    | How | are you? |  
+
 1. This is the fourth step.
 
    >[!NOTE]
@@ -106,11 +108,13 @@ Exibido:
 1. Perform this step.
 
    ![tela](assets/no-localize/adobe_standard_logo.png)
+
 1. Make sure that your table looks like this:
 
    | Hello | World |
    |---|---|
    | How | are you? |
+
 1. This is the fourth step.
 
    >[!NOTE]
@@ -175,9 +179,7 @@ Para obter mais informações sobre links, consulte o artigo [Links](linking.md)
 
 Exibido:
 
-![Adobe Logo ](assets/no-localize/adobe_standard_logo.png " Hover text ")
-
-**OBSERVAÇÃO:** para imagens que não devem ser localizadas, crie uma `do-not-localize` pasta separada na pasta de assets. Normalmente, imagens sem texto ou imagens que têm somente conteúdo de amostra seriam colocadas lá. Isso remove qualquer “ruído” da pasta de assets e reduz a quantidade de perguntas.
+![Adobe Logo](assets/no-localize/adobe_standard_logo.png "Hover text")
 
 ### Blocos de código
 
@@ -208,10 +210,10 @@ Os artigos da Adobe usam o Markdown padrão para a maioria das formatações, co
 
 * Blocos de notas
 * Vídeos incorporados
-* Não traduzir
-* Propriedades de componente, como atribuir uma ID de cabeçalho diferente a um cabeçalho
+* Tags de tradução
+* Propriedades de componente, como atribuir uma ID de cabeçalho diferente a um cabeçalho e especificar um tamanho de imagem
 
-Use a aspa de bloco ( > ) do Markdown no início de cada linha para unir um componente estendido, como uma nota. Se você precisar usar subcomponentes dentro de componentes, adicione um nível extra de aspas de bloco (>  >) nessa seção de subcomponente. Por exemplo, uma OBSERVAÇÃO em uma seção DONOTLOCALIZE deve começar com >    >.
+Use a aspa de bloco ( > ) do Markdown no início de cada linha para unir um componente estendido, como uma nota.
 
 Alguns elementos comuns do Markdown, como cabeçalhos e blocos de código, incluem propriedades estendidas. Se você precisar alterar as propriedades padrão, adicione os parâmetros em chaves francesas /{ /} depois do componente. As propriedades estendidas estão descritas em contexto.
 
@@ -229,7 +231,6 @@ Alguns elementos comuns do Markdown, como cabeçalhos e blocos de código, inclu
 * `[!PREREQUISITES]`
 
 Em geral, os blocos de notas devem ser usados com moderação, pois podem causar problemas. Embora também sejam compatíveis com blocos de código, imagens, listas e links, tente manter os blocos de notas simples e diretos.
-
 
 ```markdown
 >[!NOTE]
@@ -273,6 +274,7 @@ O componente “Mais artigos como este” no AEM aparece no fim de um artigo. El
 
 ```markdown
 >[!MORELIKETHIS]
+>
 >* [Article 1](https://helpx.adobe.com/support/analytics.html)
 >* [Article 2](https://helpx.adobe.com/support/audience-manager.html)
 ```
@@ -280,6 +282,7 @@ O componente “Mais artigos como este” no AEM aparece no fim de um artigo. El
 Exibido:
 
 >[!MORELIKETHIS]
+>
 >* [Article 1](https://helpx.adobe.com/br/support/analytics.html)
 >* [Article 2](https://helpx.adobe.com/br/support/audience-manager.html)
 

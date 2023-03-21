@@ -3,9 +3,9 @@ title: Suporte de idioma para a documentação do produto Adobe Experience Cloud
 description: O guia descreve como você pode contribuir com sugestões e adições para o site da documentação da Adobe.
 exl-id: 6ba93c9f-15c3-47ba-aa41-d226f5d4e435
 source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '828'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Você pode visualizar a documentação do produto Adobe Experience Cloud na maio
 
    O conteúdo pode ser renderizado no seu idioma automaticamente ou você pode clicar em um link para acionar a tradução. (Esse cenário pode ocorrer ao clicar no hiperlink para retornar à fonte em inglês da página traduzida. Isso oferece a opção de visualizar a página traduzida sob demanda.) Você pode retornar ao original em inglês a qualquer momento.
 
-   Ocasionalmente, o conteúdo original em inglês pode ter sido atualizado e publicado recentemente antes da conclusão das traduções. Ao clicar no seu idioma no menu suspenso, você verá uma notificação, na barra horizontal azul claro na parte superior da página, informando que a página foi traduzida automaticamente da versão anterior, com conteúdo atualizado que estará disponível em breve. Você terá a opção de visualizar o conteúdo original em inglês em uma nova janela do navegador, se preferir.
+   Ocasionalmente, o conteúdo original em inglês pode ter sido atualizado e publicado recentemente antes da conclusão das traduções. Ao clicar no seu idioma no menu suspenso, você verá uma notificação, na barra horizontal azul claro na parte superior da página, informando que a página foi traduzida automaticamente a partir da versão anterior, com conteúdo atualizado que estará disponível em breve. Você terá a opção de visualizar o conteúdo original em inglês em uma nova janela do navegador, se preferir.
 
 ## Por que usar a tradução automática
 
@@ -58,7 +58,8 @@ abaixo.
 
 ### Feedback
 
-Sempre que o conteúdo é traduzido automaticamente, por padrão ou por ação do usuário, existe a opção de enviar feedback à Adobe sobre as traduções. Na barra horizontal azul clara na parte superior da página, você pode responder &quot;Sim&quot; ou &quot;Não&quot; à pergunta &quot;Esta tradução foi útil?&quot;. A Adobe coleta essa métrica
+Sempre que o conteúdo é traduzido automaticamente, por padrão ou por ação do usuário, existe a opção de enviar feedback à Adobe sobre as traduções. Na
+barra horizontal azul clara na parte superior da página, você pode responder “Sim” ou “Não” à pergunta “Esta tradução foi útil?”. A Adobe coleta essa métrica
 valiosa e analisa os dados compilados para tomar decisões sobre a tradução do conteúdo. Seus comentários são importantes e recomendamos que você responda.
 
 ![Feedback](assets/machine-translation-feedback.png)

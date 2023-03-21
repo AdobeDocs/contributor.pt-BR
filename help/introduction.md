@@ -6,8 +6,8 @@ seo-description: The guide describes how you can contribute to the [!UICONTROL A
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
 source-git-commit: 2721a71924c46e1536394625c945bdd791e8ac70
 workflow-type: tm+mt
-source-wordcount: '904'
-ht-degree: 69%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,15 +23,15 @@ Este modelo de código aberto melhora a qualidade do conteúdo e a comunicação
 
 ## Trabalhar com a documentação colaborativa
 
-Como usuário desse material, independentemente de ser um funcionário, parceiro, cliente ou até mesmo um cliente potencial, você tem a opção de contribuir para essa documentação de várias maneiras simples.
+Como usuário desse material, independentemente de você ser um funcionário, parceiro, cliente ou até mesmo um cliente potencial, você tem a opção de contribuir para essa documentação de várias maneiras simples.
 
-* Classifique o nível de ajuda do ❶ da página e escreva um comentário opcional ❷
+* Classifique a utilidade do ❶ de página e escreva um comentário opcional ❷
 * Relatar um problema em uma página específica (requer logon do Git) ❸
-* Envie uma edição rápida por meio do para a criação de artigos inteiros, completa com ativos e amostras de código (requer logon do Git) ❹
+* Enviar uma edição rápida para criar artigos inteiros, incluindo ativos e amostras de código (requer logon do Git) ❹
 
 ![Feedback](assets/feedback-options.png)
 
-Essas opções são exibidas na parte inferior da página alguns segundos após sua abertura. Se ignorar a área de feedback, você poderá recarregar a página para trazê-la de volta.
+Essas opções são exibidas na parte inferior da página alguns segundos após sua abertura. Se descartar a área de feedback, você pode trazê-la de volta recarregando a página.
 
 Este guia descreve tudo o que você precisa saber para interagir e contribuir com esse conjunto de materiais.
 
@@ -42,21 +42,21 @@ Este guia descreve tudo o que você precisa saber para interagir e contribuir co
 > Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [Adobe Documentation Terms of Use](https://www.adobe.com/legal/terms.html). New or significant changes generate a comment in the pull request, asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Adobe. We need you to complete the online form before we can review or accept your pull request.
 -->
 
-## Classifique o nível de ajuda da página e escreva um comentário
+## Avalie a utilidade da página e escreva um comentário
 
-Alguns segundos após abrir uma página, uma área de feedback é exibida na parte inferior da página. Clique para cima ou para baixo para indicar se a página foi útil.
+Alguns segundos após abrir uma página, uma área de feedback é exibida na parte inferior da página. Clique no botão de like ou de dislike para indicar se a página foi útil.
 
-Deixe um comentário para fornecer feedback adicional.
+Fique a vontade para deixar um comentário para fornecer um feedback adicional.
 
 ## Faça edições rápidas nos documentos existentes
 
-Se você quiser fornecer feedback mais detalhado, fazer edições rápidas é uma boa maneira de corrigir pequenos erros e omissões nos documentos. Ao sugerir uma edição, você envia uma solicitação de pull (PR) para enviar a correção/sugestão para nós e poderemos vetar, aprovar e publicar a sugestão.
+Se você quiser fornecer um feedback mais detalhado, fazer edições rápidas é uma boa maneira de corrigir pequenos erros e omissões nos documentos. Ao sugerir uma edição, você envia uma solicitação de pull (PR) para nos enviar a correção/sugestão. Nós então poderemos vetar, aprovar e publicar a sugestão.
 
 1. Assine o [Contrato de licença de colaborador (CLA)](http://opensource.adobe.com/cla.html) se for aceitável.
 
    É necessário enviar somente um CLA da Adobe uma vez.
 
-1. Na área de feedback exibida na parte inferior do artigo, clique em **[!UICONTROL Detailed feedback options]** e clique em **[!UICONTROL Suggest an edit]** para acessar o arquivo de origem do Markdown no GitHub.
+1. Na área de feedback exibida na parte inferior do artigo, clique em **[!UICONTROL Detailed feedback options]** e então clique em **[!UICONTROL Suggest an edit]** para acessar o arquivo de origem do Markdown no GitHub.
 
    ![Editar este ícone de página](/help/assets/feedback-suggest-edit.png)
 
@@ -88,13 +88,13 @@ Isso é tudo. Os membros da equipe de documentação analisarão e mesclarão su
 
 Outra maneira fácil de nos informar sobre um problema de conteúdo é usar a opção **[!UICONTROL Report an issue]**.
 
-1. Na área de feedback exibida na parte inferior do artigo, clique em **[!UICONTROL Detailed feedback options]** e clique em **[!UICONTROL Report an issue]** para acessar o arquivo de origem do Markdown no GitHub.
+1. Na área de feedback exibida na parte inferior do artigo, clique em **[!UICONTROL Detailed feedback options]** e então clique em **[!UICONTROL Report an issue]** para acessar o arquivo de origem do Markdown no GitHub.
 
    ![Relatar problema](assets/feedback-report-issue.png)
 
    >[!NOTE]
    >
-   >Para relatar um problema, faça logon na sua conta GitHub ou crie uma conta.
+   >Para relatar um problema, você precisa fazer logon na sua conta do GitHub ou criar uma conta.
 
    Clicar neste link permitirá registrar uma solicitação rápida na Experience League, usando a interface do GitHub Issue.
 

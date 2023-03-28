@@ -3,9 +3,9 @@ title: Como usar o Markdown para escrever a documentação
 description: Saiba mais sobre as noções básicas de criação no Markdown. Encontre informações de referência para a linguagem do Markdown usada para escrever artigos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: 065e43d5251f80050deef02e9c18b3fb4e9c1204
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1430'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -211,7 +211,7 @@ Os artigos da Adobe usam o Markdown padrão para a maioria das formatações, co
 * Blocos de notas
 * Vídeos incorporados
 * Tags de tradução
-* Propriedades de componente, como atribuir uma ID de cabeçalho diferente a um cabeçalho e especificar um tamanho de imagem
+* Propriedades de componente, como atribuir uma ID de cabeçalho diferente a um cabeçalho e especificar um tamanho da imagem
 
 Use a aspa de bloco ( > ) do Markdown no início de cada linha para unir um componente estendido, como uma nota.
 

@@ -2,10 +2,10 @@
 title: Como usar o Markdown para escrever a documentação
 description: Saiba mais sobre as noções básicas de criação no Markdown. Encontre informações de referência para a linguagem do Markdown usada para escrever artigos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 19ea281ffce60c91edd0a47449152fc1138031c5
+source-git-commit: aec38dde9195855f96e7469c91c28d50ad516ae6
 workflow-type: tm+mt
-source-wordcount: '1420'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -77,7 +77,7 @@ Exibido:
 
 * First item in an unordered list.
 * Another item.
-* Here we go again.
+* Aqui vamos nós de novo.
 
 Também é possível incorporar listas em listas e adicionar conteúdo entre itens de lista.
 
@@ -119,7 +119,7 @@ Exibido:
 
    >[!NOTE]
    >
-   >This is note text.
+   >Este é um texto de observação.
 
 1. Do another step.
 
@@ -285,9 +285,8 @@ O componente “Mais artigos como este” no AEM aparece no fim de um artigo. El
 Exibido:
 
 >[!MORELIKETHIS]
->
->* [Article 1](https://helpx.adobe.com/br/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/br/support/audience-manager.html)
+* [Artigo 1º](https://helpx.adobe.com/br/support/analytics.html)
+* [Artigo 2º](https://helpx.adobe.com/br/support/audience-manager.html)
 
 
 ### UICONTROL e DNL
@@ -312,7 +311,8 @@ Durante a tradução automática, os itens marcados com `` são verificados em
 1. The [!UICONTROL Processing Rules] dialog box appears.
 ```
 
-**OBSERVAÇÃO:** das três opções de marcação, essa é a mais importante para fornecer alta qualidade e é obrigatória.
+>[!NOTE]
+Das três opções de marcação, esta é a mais crucial para oferecer alta qualidade e é obrigatória.
 
 **`[!DNL]`**
 

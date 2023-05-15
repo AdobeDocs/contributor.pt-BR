@@ -4,8 +4,8 @@ description: Saiba mais sobre as noções básicas de criação no Markdown. Enc
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: 73c2a6b0abb9b0c8e1febc4b7dc5d74a3753ebac
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1421'
+ht-degree: 97%
 
 ---
 

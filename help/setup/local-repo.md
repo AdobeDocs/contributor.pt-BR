@@ -3,7 +3,7 @@ title: Configurar o repositório Git localmente
 description: Este artigo fornece orientação para criar seu repositório Git local e contribuir com a documentação da Adobe, incluindo o processo de bifurcamento e clonagem.
 exl-id: 679c07a2-030b-4a30-ba14-7780f88dae11
 source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 100%
 

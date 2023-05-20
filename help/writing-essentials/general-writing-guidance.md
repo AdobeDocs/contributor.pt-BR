@@ -4,8 +4,8 @@ title: Diretrizes de estilo de criação para colaboradores externos
 description: Saiba mais sobre a criação e as diretrizes editoriais para colaboradores externos da Experience League.
 exl-id: 874f88d7-18ad-4ac8-bfa3-737255652bbc
 source-git-commit: 03d46c9ffb664824f9526f781d776069d486f271
-workflow-type: ht
-source-wordcount: '2227'
+workflow-type: tm+mt
+source-wordcount: '2224'
 ht-degree: 100%
 
 ---
@@ -162,7 +162,7 @@ Estas são formas simples de melhorar o design do conteúdo, a clareza e a legib
 | Altere _clique_ para _vá para_ ou _selecione_ | _Clique_ é uma palavra específica de dispositivos (com problemas de acessibilidade), e a tendência é parar de usá-la. Estas são as sugestões para alterá-la:<ul><li>Navegação: _Vá para Arquivo > Imprimir_.</li><li>Clique: _Selecione Arquivo > Imprimir_ ou _Selecione OK_. </li></ul>Consulte [Descrever interações com a interface](https://docs.microsoft.com/pt-br/style-guide/procedures-instructions/describing-interactions-with-ui) para ver mais ideias sobre a melhor escolha de palavras em várias situações. |
 | Execute o Acrolinx no VSC | O Acrolinx verifica problemas de estilo e gramática. Ele verifica URLs, terminologia, ortografia e muito mais. Ele ajuda a melhorar a clareza e a tradução em conteúdos da Experience League. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 Mais algumas práticas recomendadas e recursos:
 

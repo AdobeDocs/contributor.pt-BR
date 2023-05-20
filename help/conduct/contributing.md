@@ -2,9 +2,8 @@
 title: Contribuição
 description: Siga este conjunto de orientações ao contribuir com este projeto.
 exl-id: 01dc5fd4-4676-41b1-be7b-aa4a9ea2fe14
-translation-type: ht
 source-git-commit: 758ff966b959b614dd9250017c2a4eb5df47ffd2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 100%
 
@@ -39,7 +38,7 @@ você pode ir em frente!
 ## Revisões do código
 
 Todos os envios devem ser recebidos na forma de solicitações de pull e devem ser revisados
-pelos responsáveis pelo projeto. Leia a [documentação de solicitação de pull do GitHub](https://help.github.com/pt/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
+pelos responsáveis pelo projeto. Leia a [documentação de solicitação de pull do GitHub](https://help.github.com/pt/articles/about-pull-requests/)
 para obter mais informações sobre como enviar solicitações de pull.
 
 <!--

@@ -1,9 +1,8 @@
 ---
 title: Código de conduta da Adobe
-description: 'Código de conduta da Adobe '
-translation-type: ht
+description: Código de conduta da Adobe
 source-git-commit: 883a314481675cbe8cea97782ccf39b738690bf9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '439'
 ht-degree: 100%
 

@@ -119,7 +119,7 @@ Exibido:
 
    >[!NOTE]
    >
-   >Este é um texto de observação.
+   >Isso é texto de nota.
 
 1. Do another step.
 
@@ -275,13 +275,13 @@ Exibido:
 
 O componente “Mais artigos como este” no AEM aparece no fim de um artigo. Ele exibe links relacionados. Quando o artigo é renderizado, ele pode ser formatado como um cabeçalho de nível 2 (##) sem ser adicionado ao mini-TOC.
 
-![sintaxe morelik](assets/more-like-this-syntax.png)
+![morelikethis syntax](assets/more-like-this-syntax.png)
 
 Exibido:
 
 >[!MORELIKETHIS]
-* [Artigo 1º](https://helpx.adobe.com/br/support/analytics.html)
-* [Artigo 2º](https://helpx.adobe.com/br/support/audience-manager.html)
+* [Article 1](https://helpx.adobe.com/br/support/analytics.html)
+* [Article 2](https://helpx.adobe.com/br/support/audience-manager.html)
 
 
 ### UICONTROL e DNL
@@ -307,7 +307,7 @@ Durante a tradução automática, os itens marcados com `` são verificados em
 ```
 
 >[!NOTE]
-Das três opções de marcação, esta é a mais crucial para oferecer alta qualidade e é obrigatória.
+Das três opções de marcação, essa é a mais importante para fornecer alta qualidade e é obrigatória.
 
 **`[!DNL]`**
 

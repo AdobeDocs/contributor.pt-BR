@@ -5,7 +5,7 @@ exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: 73c2a6b0abb9b0c8e1febc4b7dc5d74a3753ebac
 workflow-type: tm+mt
 source-wordcount: '1421'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -119,7 +119,7 @@ Exibido:
 
    >[!NOTE]
    >
-   >Isso é texto de nota.
+   >Isto é um texto de nota.
 
 1. Do another step.
 
@@ -275,13 +275,13 @@ Exibido:
 
 O componente “Mais artigos como este” no AEM aparece no fim de um artigo. Ele exibe links relacionados. Quando o artigo é renderizado, ele pode ser formatado como um cabeçalho de nível 2 (##) sem ser adicionado ao mini-TOC.
 
-![morelikethis syntax](assets/more-like-this-syntax.png)
+![sintaxe morelikethis](assets/more-like-this-syntax.png)
 
 Exibido:
 
 >[!MORELIKETHIS]
-* [Article 1](https://helpx.adobe.com/br/support/analytics.html)
-* [Article 2](https://helpx.adobe.com/br/support/audience-manager.html)
+* [Artigo 1](https://helpx.adobe.com/br/support/analytics.html)
+* [Artigo 2](https://helpx.adobe.com/br/support/audience-manager.html)
 
 
 ### UICONTROL e DNL
@@ -307,7 +307,7 @@ Durante a tradução automática, os itens marcados com `` são verificados em
 ```
 
 >[!NOTE]
-Das três opções de marcação, essa é a mais importante para fornecer alta qualidade e é obrigatória.
+Das três opções de marcação, essa é a mais importante para fornecer uma alta qualidade e é obrigatória.
 
 **`[!DNL]`**
 

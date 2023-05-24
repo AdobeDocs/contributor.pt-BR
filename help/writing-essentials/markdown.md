@@ -185,7 +185,7 @@ Exibido:
 
 O Markdown oferece suporte à adição em linha de blocos de código em uma sentença e como um bloco “cercado” separado entre sentenças. Para obter detalhes, consulte o [suporte nativo do Markdown para blocos de código.](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Use acentos graves (`` ` ``) para criar estilos de código em linha em um parágrafo. Para criar um bloco de código de várias linhas específico, adicione três acentos graves (` ` `` `) antes e depois do bloco de código (chamado de “bloco de código cercado” no Markdown e apenas componente de “bloco de código” no AEM). Para blocos de código cercados, adicione o texto do código depois do primeiro conjunto de acentos graves para que o Markdown aponte a sintaxe de código correta. Exemplo: ` `` `javascript`
+Use acentos graves (`` ` ``) para criar estilos de código em linha em um parágrafo. Para criar um bloco de código de várias linhas específico, adicione três acentos graves (` ``` `) antes e depois do bloco de código (chamado de “bloco de código cercado” no Markdown e apenas componente de “bloco de código” no AEM). Para blocos de código cercados, adicione o texto do código depois do primeiro conjunto de acentos graves para que o Markdown aponte a sintaxe de código correta. Exemplo: ` ```javascript`
 
 Exemplos:
 
@@ -280,17 +280,17 @@ O componente “Mais artigos como este” no AEM aparece no fim de um artigo. El
 Exibido:
 
 >[!MORELIKETHIS]
->* [Artigo 1](https://helpx.adobe.com/br/support/analytics.html)
->* [Artigo 2](https://helpx.adobe.com/br/support/audience-manager.html)
+* [Artigo 1](https://helpx.adobe.com/br/support/analytics.html)
+* [Artigo 2](https://helpx.adobe.com/br/support/audience-manager.html)
 
 
 ### UICONTROL e DNL
 
 Todo o conteúdo de ajuda do Markdown é localizado usando a tradução automática inicialmente. Se a ajuda nunca foi localizada, mantemos a tradução automática. No entanto, se o conteúdo da ajuda tiver sido localizado no passado, o conteúdo traduzido por máquina atuará como um espaço reservado, enquanto o conteúdo estiver passando por tradução humana.
 
-**&grave;&grave;**
+**``**
 
-Durante a tradução automática, os itens marcados com &grave;&grave; são verificados em relação a um banco de dados de localização para que seja obtida a tradução apropriada. Caso a interface não esteja localizada, essa tag permitirá que o sistema deixe a referência da interface em inglês para esse idioma específico (ou seja, referências do Analytics em italiano).
+Durante a tradução automática, os itens marcados com `` são verificados em relação a um banco de dados de localização para que seja obtida a tradução apropriada. Caso a interface não esteja localizada, essa tag permitirá que o sistema deixe a referência da interface em inglês para esse idioma específico (ou seja, referências do Analytics em italiano).
 
 **Exemplo:**
 
@@ -307,7 +307,7 @@ Durante a tradução automática, os itens marcados com &grave;&grave; são ve
 ```
 
 >[!NOTE]
->Das três opções de marcação, essa é a mais importante para fornecer uma alta qualidade e é obrigatória.
+Das três opções de marcação, essa é a mais importante para fornecer uma alta qualidade e é obrigatória.
 
 **`[!DNL]`**
 

@@ -2,10 +2,10 @@
 title: Como usar o Markdown para escrever a documentação
 description: Saiba mais sobre as noções básicas de criação no Markdown. Encontre informações de referência para a linguagem do Markdown usada para escrever artigos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 73c2a6b0abb9b0c8e1febc4b7dc5d74a3753ebac
+source-git-commit: bd0a7b34320435e1cebae95bc267ddf05b06a0f9
 workflow-type: tm+mt
-source-wordcount: '1421'
-ht-degree: 100%
+source-wordcount: '1431'
+ht-degree: 96%
 
 ---
 
@@ -185,7 +185,7 @@ Exibido:
 
 O Markdown oferece suporte à adição em linha de blocos de código em uma sentença e como um bloco “cercado” separado entre sentenças. Para obter detalhes, consulte o [suporte nativo do Markdown para blocos de código.](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Use acentos graves (`` ` ``) para criar estilos de código em linha em um parágrafo. Para criar um bloco de código de várias linhas específico, adicione três acentos graves (` ` `` `) antes e depois do bloco de código (chamado de “bloco de código cercado” no Markdown e apenas componente de “bloco de código” no AEM). Para blocos de código cercados, adicione o texto do código depois do primeiro conjunto de acentos graves para que o Markdown aponte a sintaxe de código correta. Exemplo: ` `` `javascript`
+Use acentos graves (`` ` ``) para criar estilos de código em linha em um parágrafo. Para criar um bloco de código de várias linhas específico, adicione três acentos graves (` ``` `) antes e depois do bloco de código (chamado de “bloco de código cercado” no Markdown e apenas componente de “bloco de código” no AEM). Para blocos de código cercados, adicione o texto do código depois do primeiro conjunto de acentos graves para que o Markdown aponte a sintaxe de código correta. Exemplo: ` ```javascript`
 
 Exemplos:
 
@@ -280,34 +280,35 @@ O componente “Mais artigos como este” no AEM aparece no fim de um artigo. El
 Exibido:
 
 >[!MORELIKETHIS]
->* [Artigo 1](https://helpx.adobe.com/br/support/analytics.html)
->* [Artigo 2](https://helpx.adobe.com/br/support/audience-manager.html)
-
+>
+* [Artigo 1](https://helpx.adobe.com/br/support/analytics.html)
+* [Artigo 2](https://helpx.adobe.com/br/support/audience-manager.html)
 
 ### UICONTROL e DNL
 
 Todo o conteúdo de ajuda do Markdown é localizado usando a tradução automática inicialmente. Se a ajuda nunca foi localizada, mantemos a tradução automática. No entanto, se o conteúdo da ajuda tiver sido localizado no passado, o conteúdo traduzido por máquina atuará como um espaço reservado, enquanto o conteúdo estiver passando por tradução humana.
 
-**&grave;&grave;**
+**``**
 
-Durante a tradução automática, os itens marcados com &grave;&grave; são verificados em relação a um banco de dados de localização para que seja obtida a tradução apropriada. Caso a interface não esteja localizada, essa tag permitirá que o sistema deixe a referência da interface em inglês para esse idioma específico (ou seja, referências do Analytics em italiano).
+Durante a tradução automática, os itens marcados com `` são verificados em relação a um banco de dados de localização para que seja obtida a tradução apropriada. Caso a interface não esteja localizada, essa tag permitirá que o sistema deixe a referência da interface em inglês para esse idioma específico (ou seja, referências do Analytics em italiano).
 
 **Exemplo:**
 
-1. Acesse a tela **[!UICONTROL Run Process]**.
-1. Escolha **[!UICONTROL File > Print > Print All]** para imprimir todos os arquivos no servidor.
-1. A caixa de diálogo [!UICONTROL Processing Rules] é exibida.
+1. Vá para a **Executar processo** tela.
+1. Escolher **Arquivo** > **Imprimir** > **Imprimir tudo** para imprimir todos os arquivos no servidor.
+1. A caixa de diálogo Regras de processamento é exibida.
 
 **Fonte:**
 
 ```markdown
-1. Go to the **[!UICONTROL Run Process]** screen.
-1. Choose **[!UICONTROL File > Print > Print All]** to print all the files on your server.
-1. The [!UICONTROL Processing Rules] dialog box appears.
+1. Go to the **&lbrack;!UICONTROL Run Process&rbrack;** screen.
+1. Choose **&lbrack;!UICONTROL File&rbrack; > &lbrack;!UICONTROL Print&rbrack; > &lbrack;!UICONTROL Print All&rbrack;** to print all the files on your server.
+1. The &lbrack;!UICONTROL Processing Rules&rbrack; dialog box appears.
 ```
 
 >[!NOTE]
->Das três opções de marcação, essa é a mais importante para fornecer uma alta qualidade e é obrigatória.
+>
+Das três opções de marcação, essa é a mais importante para fornecer uma alta qualidade e é obrigatória.
 
 **`[!DNL]`**
 
@@ -315,14 +316,14 @@ Como regra, usamos uma lista “Não traduzir” para informar aos mecanismos de
 
 **Exemplo:**
 
-* Com o [!DNL Target], você pode criar testes A/B para encontrar o ideal
-* O Adobe Analytics é uma solução eficiente para fazer análises no seu site. O [!DNL Analytics] também pode ajudar você nos relatórios para assimilar facilmente esses dados.
+* Com o Target, você pode criar testes A/B para encontrar o ideal
+* O Adobe Analytics é uma solução eficiente para fazer análises no seu site. O Analytics também pode ajudá-lo com os relatórios para assimilar facilmente esses dados.
 
 **Fonte:**
 
 ```markdown
-* With [!DNL Target], you can create A/B tests to find the optimal 
-* Adobe Analytics is a powerful solution to collect analytics on your site. [!DNL Analytics] can also help you with reporting to easily digest that data.
+* With &lbrack;!DNL Target&rbrack;, you can create A/B tests to find the optimal 
+* Adobe Analytics is a powerful solution to collect analytics on your site. &lbrack;!DNL Analytics&rbrack; can also help you with reporting to easily digest that data.
 ```
 
 ## Identificar e solucionar problemas

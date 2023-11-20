@@ -2,10 +2,10 @@
 title: Como usar o Markdown para escrever a documentação
 description: Saiba mais sobre as noções básicas de criação no Markdown. Encontre informações de referência para a linguagem do Markdown usada para escrever artigos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: d3d478f8745c14ee500a43021597eecfebc7b06b
+source-git-commit: 109b2b72bd842a8d3f45bd5667690d8e71a6e329
 workflow-type: tm+mt
-source-wordcount: '1466'
-ht-degree: 92%
+source-wordcount: '1378'
+ht-degree: 97%
 
 ---
 
@@ -294,17 +294,15 @@ Durante a tradução automática, os itens marcados com `` são verificados em
 
 **Exemplo de conteúdo de origem:**
 
-1. Vá para a **&amp;lbrack;!UICONTROL Executar Processo&amp;rbrack;** tela.
-1. Escolher **&amp;lbrack;!UICONTROL Arquivo&amp;rbrack; > &amp;lbrack;!UICONTROL Imprimir&amp;rbrack; > &amp;lbrack;!UICONTROL Imprimir Todos&amp;rbrack;** para imprimir todos os arquivos no servidor.
-1. A caixa de diálogo &amp;lbrack;!UICONTROL Regras de Processamento&amp;rbrack; será exibida.
+![texto uicontrol de amostra](assets/sample-uicontrol.png)
 
 <!--
 **Source:**
 
 ```markdown
-1. Go to the **&lbrack;!UICONTROL Run Process&rbrack;** screen.
-1. Choose **&lbrack;!UICONTROL File&rbrack; > &lbrack;!UICONTROL Print&rbrack; > &lbrack;!UICONTROL Print All&rbrack;** to print all the files on your server.
-1. The &lbrack;!UICONTROL Processing Rules&rbrack; dialog box appears.
+1. Go to the **[!UICONTROL Run Process]** screen.
+1. Choose **[!UICONTROL File] > [!UICONTROL Print] > [!UICONTROL Print All]** to print all the files on your server.
+1. The [!UICONTROL Processing Rules] dialog box appears.
 ```
 -->
 
@@ -316,17 +314,16 @@ Das duas opções de marcação, essa é a mais importante para fornecer alta qu
 
 Como regra, usamos uma lista “Não traduzir” para informar aos mecanismos de tradução automática o que manter em inglês. Os itens mais comuns são os nomes longos de solução, como “Adobe Analytics”, “Adobe Campaign” e “Adobe Target”. No entanto, pode haver casos em que tenhamos de forçar o mecanismo a utilizar o inglês porque o termo em questão pode ser usado de forma específica ou geral. O caso mais óbvio seriam os nomes curtos de soluções, como “Analytics”, “Campaign”, “Target” etc. Seria difícil para uma máquina entender que esses são nomes de solução, não termos gerais. A tag também pode ser usada para nomes/recursos de terceiros que sempre permanecem em inglês ou para seções mais curtas de texto, como uma frase ou sentença que deve permanecer em inglês.
 
-**Exemplo:**
+**Exemplo de conteúdo de origem:**
 
-* Com o &amp;lbrack;!DNL Target&amp;rbrack;, você pode criar testes A/B para encontrar o ideal
-* O Adobe Analytics é uma solução eficiente para fazer análises no seu site. &amp;blank;!DNL Analytics&amp;rbrack; também pode ajudá-lo com os relatórios para assimilar facilmente esses dados.
+![texto dnl de amostra](assets/sample-dnl.png)
 
 <!--
 **Source:**
 
 ```markdown
-* With &lbrack;!DNL Target&rbrack;, you can create A/B tests to find the optimal 
-* Adobe Analytics is a powerful solution to collect analytics on your site. &lbrack;!DNL Analytics&rbrack; can also help you with reporting to easily digest that data.
+* With [!DNL Target], you can create A/B tests to find the optimal 
+* Adobe Analytics is a powerful solution to collect analytics on your site. [!DNL Analytics] can also help you with reporting to easily digest that data.
 ```
 -->
 

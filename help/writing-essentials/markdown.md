@@ -3,9 +3,9 @@ title: Como usar o Markdown para escrever a documentação
 description: Saiba mais sobre as noções básicas de criação no Markdown. Encontre informações de referência para a linguagem do Markdown usada para escrever artigos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: fff920c9e98ca821a4180157174c2a2ee1b84cb8
-workflow-type: tm+mt
-source-wordcount: '1361'
-ht-degree: 99%
+workflow-type: ht
+source-wordcount: '1340'
+ht-degree: 100%
 
 ---
 
@@ -145,7 +145,7 @@ Tabelas simples funcionam adequadamente no Markdown. No entanto, as tabelas que 
 
 Para obter mais informações sobre como criar tabelas, consulte:
 
-* [Como organizar informações com tabelas do GitHub](https://docs.github.com/pt/github/writing-on-github/organizing-information-with-tables)
+* [Como organizar informações com tabelas do](https://docs.github.com/pt/github/writing-on-github/organizing-information-with-tables) GitHub
 * O aplicativo web [Gerador de tabelas para Markdown](https://www.tablesgenerator.com/markdown_tables)
 * [Converter tabelas HTML para Markdown](https://jmalarcon.github.io/markdowntables/)
 
@@ -183,7 +183,7 @@ Exibido:
 
 ### Blocos de código
 
-O Markdown oferece suporte à adição em linha de blocos de código em uma sentença e como um bloco “cercado” separado entre sentenças. Para obter detalhes, consulte o [suporte nativo do Markdown para blocos de código.](https://daringfireball.net/projects/markdown/syntax#precode)
+O Markdown oferece suporte à adição em linha de blocos de código em uma sentença e como um bloco “cercado” separado entre sentenças. Para obter detalhes, consulte o [suporte nativo do Markdown para blocos de código](https://daringfireball.net/projects/markdown/syntax#precode)
 
 Use acentos graves (`` ` ``) para criar estilos de código em linha em um parágrafo. Para criar um bloco de código de várias linhas específico, adicione três acentos graves (` ``` `) antes e depois do bloco de código (chamado de “bloco de código cercado” no Markdown e apenas componente de “bloco de código” no AEM). Para blocos de código cercados, adicione o texto do código depois do primeiro conjunto de acentos graves para que o Markdown aponte a sintaxe de código correta. Exemplo: ` ```javascript`
 
@@ -281,8 +281,8 @@ Exibido:
 
 >[!MORELIKETHIS]
 >
-* [Artigo 1](https://helpx.adobe.com/br/support/analytics.html)
-* [Artigo 2](https://helpx.adobe.com/br/support/audience-manager.html)
+>* [Artigo 1](https://helpx.adobe.com/br/support/analytics.html)
+>* [Artigo 2](https://helpx.adobe.com/br/support/audience-manager.html)
 
 ### UICONTROL e DNL
 
@@ -349,7 +349,7 @@ Se você copiar o texto em um editor do Markdown, poderá conter apóstrofos ou 
 
 Estas são as codificações das versões “inteligentes” dessas marcas de pontuação:
 
-* Aspas à esquerda (abertura): `&#8220;`
+* Aspas à esquerda (abre aspas): `&#8220;`
 * Aspas à direita (fechamento): `&#8221;`
 * Aspas simples (fechamento) ou apóstrofe: `&#8217;`
 * Aspas simples (abertura) aspas simples (raramente usadas): `&#8216;`
@@ -358,7 +358,7 @@ Estas são as codificações das versões “inteligentes” dessas marcas de po
 
 Se você usar colchetes no texto (não código) no arquivo - por exemplo, para indicar um espaço reservado -, será necessário codificar os colchetes manualmente. Caso contrário, o Markdown os considerará tags HTML.
 
-Por exemplo, codifique `<script name>` como `&lt;script name&gt;`
+Por exemplo, codifique `<script name>` como `&lt;script name&gt;`
 
 ### “E” comercial em títulos
 

@@ -6,8 +6,8 @@ seo-description: The guide describes how you can contribute to the [!UICONTROL A
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
 source-git-commit: 2721a71924c46e1536394625c945bdd791e8ac70
 workflow-type: tm+mt
-source-wordcount: '904'
-ht-degree: 100%
+source-wordcount: '927'
+ht-degree: 88%
 
 ---
 
@@ -56,7 +56,7 @@ Se você quiser fornecer um feedback mais detalhado, fazer edições rápidas é
 
    É necessário enviar somente um CLA da Adobe uma vez.
 
-1. Na área de feedback exibida na parte inferior do artigo, clique em **[!UICONTROL Detailed feedback options]** e então clique em **[!UICONTROL Suggest an edit]** para acessar o arquivo de origem do Markdown no GitHub.
+1. Na área de feedback que aparece na parte inferior do artigo, clique em **[!UICONTROL Opções de feedback detalhadas]** e em **[!UICONTROL Sugerir uma edição]** para ir para o arquivo de origem do Markdown no GitHub.
 
    ![Editar este ícone de página](/help/assets/feedback-suggest-edit.png)
 
@@ -74,21 +74,21 @@ Se você quiser fornecer um feedback mais detalhado, fazer edições rápidas é
 
 1. Depois de fazer as alterações, navegue até a parte inferior da página.
 
-   Insira um título e uma descrição para a sua solicitação de pull e clique em **[!UICONTROL Propose file change]**, conforme mostrado na figura a seguir:
+   Insira um título e uma descrição para a sua PR e clique em **[!UICONTROL Propor alteração de arquivo]**, conforme mostrado na figura a seguir:
 
    ![como propor sua alteração](assets/submit-pull-request.png)
 
    >[!NOTE]
    >
-   >Se você receber uma mensagem de erro de validação sobre a assinatura de um Contrato de Licença de Colaborador (CLA), clique em **[!UICONTROL Details]** para abrir o contrato de licença. Assine o contrato, se for aceitável. Em seguida, feche e abra a solicitação de extração e prossiga.
+   >Se você receber uma mensagem de erro de validação em relação à assinatura de um Contrato de licença de colaborador (CLA), clique em **[!UICONTROL Detalhes]** para abrir o contrato de licença. Assine o contrato, se for aceitável. Em seguida, feche e abra a solicitação de extração e prossiga.
 
 Isso é tudo. Os membros da equipe de documentação analisarão e mesclarão sua solicitação de pull. Obrigado!
 
 ## Relatar um problema
 
-Outra maneira fácil de nos informar sobre um problema de conteúdo é usar a opção **[!UICONTROL Report an issue]**.
+Outra maneira fácil de nos informar sobre um problema de conteúdo é usar o **[!UICONTROL Relatar um problema]**.
 
-1. Na área de feedback exibida na parte inferior do artigo, clique em **[!UICONTROL Detailed feedback options]** e então clique em **[!UICONTROL Report an issue]** para acessar o arquivo de origem do Markdown no GitHub.
+1. Na área de feedback que aparece na parte inferior do artigo, clique em **[!UICONTROL Opções de feedback detalhadas]** e em **[!UICONTROL Relatar um problema]** para ir para o arquivo de origem do Markdown no GitHub.
 
    ![Relatar problema](assets/feedback-report-issue.png)
 

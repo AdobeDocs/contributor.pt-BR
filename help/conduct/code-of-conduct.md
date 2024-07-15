@@ -1,11 +1,11 @@
 ---
 title: Código de conduta da Adobe
-description: Código de conduta da Adobe para relatório de problemas e envio de alterações de edição
+description: Código de conduta do Adobe para reportar problemas e enviar alterações de edição
 exl-id: ff9c1cc5-8f65-40bb-8d5b-b7d42a5c08c2
 source-git-commit: 06b0a397f0612e5ecfca82fc7105a45ed167efc9
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 100%
+source-wordcount: '442'
+ht-degree: 97%
 
 ---
 
@@ -42,7 +42,7 @@ sem permissão explícita
 ## Nossas responsabilidades
 
 Os administradores de projeto são responsáveis por esclarecer os padrões de comportamento aceitáveis
-e devem tomar medidas corretivas apropriadas em
+e devem realizar a ação apropriada em
 resposta a quaisquer instâncias de comportamento inaceitável.
 
 Os administradores de projeto têm o direito e a responsabilidade de remover, editar ou rejeitar comentários, código, edições wiki, problemas e outras contribuições

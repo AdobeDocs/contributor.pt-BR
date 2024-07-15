@@ -5,7 +5,7 @@ cloud: Experience Cloud
 index: true
 source-git-commit: d8a27428d0c264ae95740ad18231f96602a9136f
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '66'
 ht-degree: 100%
 
 ---
@@ -27,6 +27,6 @@ ht-degree: 100%
 + Feedback sobre a tradução {#localization}
    + [Suporte de idioma para a documentação do produto Adobe Experience Cloud](localization/machine-translation.md)
 + [Recursos de aprendizado de Git e GitHub](resources.md)
-+  Conduta e contribuições {#conduct-contributions}
++ Conduta e contribuições {#conduct-contributions}
    + [Código de conduta](conduct/code-of-conduct.md)
    + [Visão geral das contribuições](conduct/contributing.md)

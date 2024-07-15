@@ -5,8 +5,8 @@ description: Saiba mais sobre a criação e as diretrizes editoriais para colabo
 exl-id: 874f88d7-18ad-4ac8-bfa3-737255652bbc
 source-git-commit: 03d46c9ffb664824f9526f781d776069d486f271
 workflow-type: tm+mt
-source-wordcount: '2224'
-ht-degree: 100%
+source-wordcount: '2203'
+ht-degree: 99%
 
 ---
 
@@ -188,17 +188,17 @@ Você não precisa se preocupar se o seu produto está localizado ou com os idio
 
 * `DNL`
 
-   DNL significa _não localizar_. Use-a somente para nomes de produtos da Adobe com marcas registradas, pois eles devem permanecer em inglês.
+  DNL significa _não localizar_. Use-a somente para nomes de produtos da Adobe com marcas registradas, pois eles devem permanecer em inglês.
 
-   Exemplos de sintaxe: `[!DNL Adobe Campaign]` ou `[!DNL Workfront]`
+  Exemplos de sintaxe: `[!DNL Adobe Campaign]` ou `[!DNL Workfront]`
 
-   O DNL não se destina a nomes de arquivos ou URLs.
+  O DNL não se destina a nomes de arquivos ou URLs.
 
 * `UICONTROL`
 
-   A tag UICONTROL indica um controle de interface (como uma opção, campo, guia, página, grupo de opções ou nome de recurso na interface).
+  A tag UICONTROL indica um controle de interface (como uma opção, campo, guia, página, grupo de opções ou nome de recurso na interface).
 
-   Exemplo de sintaxe: `Select **[!UICONTROL Project]**, then select **[!UICONTROL Save]**.`
+  Exemplo de sintaxe: `Select **[!UICONTROL Project]**, then select **[!UICONTROL Save]**.`
 
 >[!IMPORTANT]
 >
@@ -214,7 +214,7 @@ Seu primeiro parágrafo deve definir o tópico e descrever o que o leitor aprend
 
 Exemplo de primeiro parágrafo (conceito):
 
-_Públicos são coleções de visitantes (uma lista de IDs de visitante). Os serviços de público da Adobe gerenciam a conversão dos dados de visitantes na segmentação de público. Assim, criar e gerenciar públicos é como criar e usar segmentos, com a capacidade adicional de compartilhar o segmento de público com a Experience Cloud._
+_Públicos-alvo são coleções de visitantes (uma lista de IDs de visitante). Os serviços de público-alvo da Adobe gerenciam a conversão dos dados de visitantes na segmentação de público-alvo. Assim, criar e gerenciar públicos-alvo é como criar e usar segmentos, com a capacidade adicional de compartilhar o segmento de público-alvo com a Experience Cloud._
 
 Exemplo de primeiro parágrafo (tarefa):
 

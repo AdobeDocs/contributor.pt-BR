@@ -4,7 +4,7 @@ description: O guia descreve como você pode contribuir com sugestões e adiçõ
 exl-id: 6ba93c9f-15c3-47ba-aa41-d226f5d4e435
 source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '817'
 ht-degree: 100%
 
 ---
@@ -45,7 +45,7 @@ A tradução automática é onipresente na Internet e seu uso geralmente é acei
 
 ### Tradução automática pelo navegador
 
-Se você definiu as preferências do navegador para traduzir automaticamente qualquer página para o seu idioma, lembre-se de que as traduções resultantes serão diferentes das obtidas na página da Adobe. Isso ocorre porque o serviço oferecido pelo navegador pode utilizar traduções padrão, enquanto as traduções da Adobe serão personalizadas para aderir às diretrizes e à terminologia de estilo da Adobe. Para obter ótimos resultados de tradução automática, recomendamos que você desative a opção do navegador para este site específico nas preferências do navegador ou clique em **Nunca traduzir** quando for exibido.
+Se você definiu as preferências do navegador para traduzir automaticamente qualquer página para o seu idioma, lembre-se de que as traduções resultantes serão diferentes das obtidas na página da Adobe. Isso ocorre porque o serviço oferecido pelo navegador pode utilizar traduções padrão, enquanto as traduções da Adobe serão personalizadas para aderir às diretrizes e à terminologia de estilo da Adobe. Para obter ótimos resultados de tradução automática, recomendamos que você desabilite a opção do navegador para este site específico nas preferências do navegador ou clique em **Nunca traduzir** quando for exibido.
 
 ### Problemas conhecidos
 

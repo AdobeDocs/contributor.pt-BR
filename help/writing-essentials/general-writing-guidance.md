@@ -84,7 +84,7 @@ Escrever um procedimento (do tipo de conteúdo _tarefa_) não é um talento nato
 **Orientação para etapas**
 
 * Um procedimento é uma série de etapas. Uma etapa é um comando breve, numerado, de _frase única_.
-* Inicie cada etapa com um verbo ou o com a preposição _Para_ seguida do verbo no infinitivo (para orientar o leitor ao objetivo, como em: _Para permanecer conectado, habilite a opção **Permanecer conectado**_). Se uma etapa tiver um objetivo específico no procedimento geral, mencione o objetivo antes da ação.
+* Inicie cada etapa com um verbo ou o com a preposição _Para_ seguida do verbo no infinitivo (para orientar o leitor ao objetivo, como em: _Para permanecer conectado, habilite a opção **Permanecer conectado**&#x200B;_). Se uma etapa tiver um objetivo específico no procedimento geral, mencione o objetivo antes da ação.
 * Se você tiver informações sobre a etapa (um tipo de conteúdo chamado de _informações da etapa_), adicione-as depois da etapa (recuadas com a etapa) ou depois do ativo (uma captura de tela, vídeo ou uma lista de descrições da interface).
 * Se a sua etapa tiver duas ações (como _Selecione isso e, depois, aquilo_), escreva-a como uma frase simples e breve.
 * Limite a sua tarefa em torno de sete a dez etapas. Se você estiver criando mais de dez etapas em uma tarefa, provavelmente precisará dividi-la em duas tarefas. Use o seu bom senso.

@@ -1,8 +1,8 @@
 ---
-source-git-commit: 99540be2c2310e2250a0ceb14fb133b630ec397e
+source-git-commit: 2b359dd199979fbba8c0491490d9d071b0e5db50
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 100%
+source-wordcount: '405'
+ht-degree: 99%
 
 ---
 # Contribuir com o artigo
@@ -14,6 +14,7 @@ Agradecemos as contribuições de conteúdo da nossa comunidade e dos funcionár
 Esse projeto segue o [Código de conduta aberto da Adobe](code-of-conduct.md) ou o [Código de conduta da .NET Foundation](https://dotnetfoundation.org/code-of-conduct). Para obter mais informações, consulte o artigo [Contribuição](contributing.md).
 
 ## Sobre suas contribuições para o conteúdo da Adobe
+
 
 Consulte o [Guia do colaborador dos documentos da Adobe](https://docs.adobe.com/help/pt-BR/contributor/contributor-guide/introduction.html).
 

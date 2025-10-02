@@ -3,10 +3,10 @@ lastModified: 2018-06-28T00:00:00Z
 title: Diretrizes de estilo de criação para colaboradores externos
 description: Saiba mais sobre a criação e as diretrizes editoriais para colaboradores externos da Experience League.
 exl-id: 874f88d7-18ad-4ac8-bfa3-737255652bbc
-source-git-commit: 03d46c9ffb664824f9526f781d776069d486f271
+source-git-commit: 9b3e4e2a7a007d4e417a5bf156d2290ea60b64ec
 workflow-type: tm+mt
 source-wordcount: '2203'
-ht-degree: 99%
+ht-degree: 97%
 
 ---
 
@@ -30,7 +30,7 @@ Lembre-se do seguinte ao escrever uma documentação:
 
 ## Práticas recomendadas de escrita técnica {#writing-tips}
 
-A escrita técnica, especialmente para a documentação de software, é um setor especializado. Até mesmo o romancista mais prolífico fica nervoso ao tentar escrever materiais técnicos, não porque o material é complexo ou técnico, mas porque não é fácil _simplificar_ informações complexas e técnicas. Para ter sucesso, seu conteúdo deve ser estruturalmente consistente, digitalizável, reutilizável e fluir pelo pipeline de publicação sem erros de estrutura e sintaxe.
+A escrita técnica, especialmente para a documentação de software, é um setor especializado. Até mesmo o romancista mais prolífico fica nervoso ao tentar escrever materiais técnicos, não porque o material é complexo ou técnico, mas porque não é fácil *simplificar* informações complexas e técnicas. Para ter sucesso, seu conteúdo deve ser estruturalmente consistente, digitalizável, reutilizável e fluir pelo pipeline de publicação sem erros de estrutura e sintaxe.
 
 As seções a seguir descrevem problemas comuns que os novos escritores devem observar:
 
@@ -38,17 +38,17 @@ As seções a seguir descrevem problemas comuns que os novos escritores devem ob
 
 Se você tiver dois cabeçalhos sem texto os separando, adicione o texto ausente (para introduzir o cabeçalho do segundo tópico). Ou você pode remover um dos cabeçalhos. O segundo é provavelmente desnecessário.
 
-Por exemplo, _Visão geral_ não serve qualquer objetivo aqui:
+Por exemplo, *Visão geral* não serve qualquer objetivo aqui:
 
 ![Cabeçalhos duplos](assets/headings-double.png)
 
-* Além disso, se o segundo cabeçalho for _Visão geral_, ele provavelmente é desnecessário. Seu H1 e o primeiro parágrafo já servem como a visão geral conceitual sobre o tópico do artigo.
+* Além disso, se o segundo cabeçalho for *Visão geral*, ele provavelmente é desnecessário. Seu H1 e o primeiro parágrafo já servem como a visão geral conceitual sobre o tópico do artigo.
 
-* Da mesma forma, para fins de SEO, cabeçalhos autônomos como _Visão geral_ e _Introdução_ não são úteis por si só. Dê um nome ao produto ou recurso que você está apresentando. (Exemplo: _Visão geral dos relatórios de fallout_)
+* Da mesma forma, para fins de SEO, cabeçalhos autônomos como *Visão geral* e *Introdução* não são úteis por si só. Dê um nome ao produto ou recurso que você está apresentando. (Exemplo: *Visão geral dos relatórios de fallout*)
 
 ### Cabeçalhos de referência cruzada inconsistentes {#maps}
 
-Use o cabeçalho _Mais informações_ para as listas de referência cruzada (ou mapas). Exemplo:
+Use o cabeçalho *Mais informações* para as listas de referência cruzada (ou mapas). Exemplo:
 
 ![Lista de referências cruzadas](assets/headings-more-info.png)
 
@@ -79,17 +79,17 @@ Como gerenciamos manualmente o arquivo de índice, esses erros são comuns. Cert
 
 ### Procedimentos {#steps}
 
-Escrever um procedimento (do tipo de conteúdo _tarefa_) não é um talento nato nosso. Criar um procedimento legível e claro exige prática.
+Escrever um procedimento (do tipo de conteúdo *tarefa*) não é um talento nato nosso. Criar um procedimento legível e claro exige prática.
 
 **Orientação para etapas**
 
-* Um procedimento é uma série de etapas. Uma etapa é um comando breve, numerado, de _frase única_.
-* Inicie cada etapa com um verbo ou o com a preposição _Para_ seguida do verbo no infinitivo (para orientar o leitor ao objetivo, como em: _Para permanecer conectado, habilite a opção **Permanecer conectado**&#x200B;_). Se uma etapa tiver um objetivo específico no procedimento geral, mencione o objetivo antes da ação.
-* Se você tiver informações sobre a etapa (um tipo de conteúdo chamado de _informações da etapa_), adicione-as depois da etapa (recuadas com a etapa) ou depois do ativo (uma captura de tela, vídeo ou uma lista de descrições da interface).
-* Se a sua etapa tiver duas ações (como _Selecione isso e, depois, aquilo_), escreva-a como uma frase simples e breve.
+* Um procedimento é uma série de etapas. Uma etapa é um comando breve, numerado, de *frase única*.
+* Inicie cada etapa com um verbo ou o com a preposição *Para* seguida do verbo no infinitivo (para orientar o leitor ao objetivo, como em: *Para permanecer conectado, habilite a opção **Permanecer conectado***). Se uma etapa tiver um objetivo específico no procedimento geral, mencione o objetivo antes da ação.
+* Se você tiver informações sobre a etapa (um tipo de conteúdo chamado *informações da etapa*), adicione-as depois da etapa (recuadas com a etapa) ou depois do ativo (uma captura de tela, vídeo ou uma lista de descrições da interface).
+* Se a sua etapa tiver duas ações (como *Selecione isso e, depois, aquilo*), escreva-a como uma frase simples e breve.
 * Limite a sua tarefa em torno de sete a dez etapas. Se você estiver criando mais de dez etapas em uma tarefa, provavelmente precisará dividi-la em duas tarefas. Use o seu bom senso.
 * Na documentação do produto, não use cabeçalhos como etapas. (Exceção abaixo para tutoriais.)
-* Para tutoriais de várias páginas, os cabeçalhos como etapas podem ser permitidos. No entanto, não os numere. Em vez disso, soletre _Etapa 1:_, _Etapa 2:_ e assim por diante.
+* Para tutoriais de várias páginas, os cabeçalhos como etapas podem ser permitidos. No entanto, não os numere. Em vez disso, soletre *Etapa 1:*, *Etapa 2:* e assim por diante.
 
 **Exemplo de procedimento**
 
@@ -120,29 +120,29 @@ O sumário anterior é um bom exemplo porque:
 
 ## Metadados de títulos e descrições {#metadata}
 
-Os metadados de _títulos_ e _descrições_ são importantes para SEO, descoberta de conteúdos e pontuações de qualidade de conteúdo na Experience League.
+Os metadados de *títulos* e *descrições* são importantes para SEO, descoberta de conteúdos e pontuações de qualidade de conteúdo na Experience League.
 
 Estes são exemplos de títulos e descrições:
 
 **Descrições de artigos de conceito**
 
-* _Saiba mais sobre segmentos no Adobe Analytics. Obtenha ajuda sobre como configurar o painel Segmentação em um espaço de trabalho._
-* _Encontre ajuda sobre como usar segmentos em um relatório de Exibições de página no Adobe Analytics._
+* *Saiba mais sobre segmentos no Adobe Analytics. Obtenha ajuda sobre como configurar o painel Segmentação em um espaço de trabalho.*
+* *Encontre ajuda sobre como usar segmentos em um relatório de Exibições de página no Adobe Analytics.*
 
 **Descrições de artigos de procedimentos/tarefas**
 
-* _Saiba como criar um segmento no Adobe Analytics._
-* _Crie um segmento no Adobe Analytics. Saiba como selecionar, configurar e executar um relatório com base nos segmentos que você cria._
+* *Saiba como criar um segmento no Adobe Analytics.*
+* *Crie um segmento no Adobe Analytics. Saiba como selecionar, configurar e executar um relatório com base nos segmentos que você cria.*
 
 A opção usada depende do tamanho e do escopo do artigo.
 
 **Título para um artigo de conceito**
 
-* _Segmentos nos relatórios de Visualizações de página_
+* *Segmentos nos relatórios de Visualizações de página*
 
 **Título para um artigo de procedimento/tarefa**
 
-* _Crie um segmento para um relatório de Visualizações de página_
+* *Crie um segmento para um relatório de Visualizações de página*
 
 (Lembre-se: o pipe e o nome do produto são adicionados automaticamente aos títulos.)
 
@@ -157,12 +157,10 @@ Estas são formas simples de melhorar o design do conteúdo, a clareza e a legib
 | Evite usar advérbios fracos e supérfluos | *Muito*, *extremamente*, *incrivelmente*.... <p>Advérbios são palavras extras que não acrescentam informação significativa se você usar verbos, frases e adjetivos fortes e precisos. |
 | Use verbos fortes para títulos e [entradas do índice](#using-toc) | Exemplos:<p>**Fraco:** *Criação e gerenciamento de características* <p>**Forte:** *Crie e gerencie características* |
 | Use as [letras maiúsculas](https://docs.microsoft.com/pt-br/style-guide/capitalization) como na norma culta | Na dúvida, não use letras maiúsculas. Em cabeçalhos, use as letras maiúsculas como na norma culta. Use letra maiúscula nos substantivos próprios e na primeira palavra após os dois pontos. Em procedimentos, escreva do mesmo jeito que você vê na interface. |
-| Lembre-se destas pequenas dicas para maior clareza | <ul><li>Evite a expressão *com o objetivo de* (não acrescenta significado). Tudo que você precisa é *para.*</li><li>Evitar a palavra *Utilizar.* Pode parecer mais técnico, mas não é. *Utilizar* quer dizer *fazer bom uso, em especial, algo que não se destinava a tarefa, mas que servirá*.</li><li>Evite usar o ponto e vírgula: em vez disso, use o ponto final e comece uma nova frase. Pontos e vírgulas introduzem uma complexidade desnecessária.</li><li>Dois pontos: use dois pontos para introduzir uma lista. Use os dois pontos com moderação em frases. Use letra maiúscula na primeira palavra após os dois pontos em uma frase.</li><li>Use a vírgula de Oxford (três vírgulas em uma lista).</li><li>Mantenha o tamanho da frase abaixo de 39 palavras.</li><li>Navegação: use _ir para_ ou _navegar até_.</li><li>Evite um texto de URL bruto (use um hiperlink simples), a menos que a exibição do endereço seja uma informação importante.</li></ul> |
+| Lembre-se destas pequenas dicas para maior clareza | <ul><li>Evite a expressão *com o objetivo de* (não acrescenta significado). Tudo que você precisa é *para.*</li><li>Evitar a palavra *Utilizar.* Pode parecer mais técnico, mas não é. *Utilizar* quer dizer *fazer bom uso, em especial, algo que não se destinava a tarefa, mas que servirá*.</li><li>Evite usar o ponto e vírgula: em vez disso, use o ponto final e comece uma nova frase. Pontos e vírgulas introduzem uma complexidade desnecessária.</li><li>Dois pontos: use dois pontos para introduzir uma lista. Use os dois pontos com moderação em frases. Use letra maiúscula na primeira palavra após os dois pontos em uma frase.</li><li>Use a vírgula de Oxford (três vírgulas em uma lista).</li><li>Mantenha o tamanho da frase abaixo de 39 palavras.</li><li>Navegação: use *ir para* ou *navegar até*.</li><li>Evite um texto de URL bruto (use um hiperlink simples), a menos que a exibição do endereço seja uma informação importante.</li></ul> |
 | Usar um verificador ortográfico no VSC | Instale a verificação ortográfica do código (extensão) no Visual Studio Code. |
-| Altere _clique_ para _vá para_ ou _selecione_ | _Clique_ é uma palavra específica de dispositivos (com problemas de acessibilidade), e a tendência é parar de usá-la. Estas são as sugestões para alterá-la:<ul><li>Navegação: _Vá para Arquivo > Imprimir_.</li><li>Clique: _Selecione Arquivo > Imprimir_ ou _Selecione OK_. </li></ul>Consulte [Descrever interações com a interface](https://docs.microsoft.com/pt-br/style-guide/procedures-instructions/describing-interactions-with-ui) para ver mais ideias sobre a melhor escolha de palavras em várias situações. |
+| Altere *clique* para *vá para* ou *selecione* | *Clique* é uma palavra específica de dispositivos (com problemas de acessibilidade), e a tendência é parar de usá-la. Estas são as sugestões para alterá-la:<ul><li>Navegação: *Vá para Arquivo > Imprimir*.</li><li>Clique: *Selecione Arquivo > Imprimir* ou *Selecione OK*. </li></ul>Consulte [Descrever interações com a interface](https://docs.microsoft.com/pt-br/style-guide/procedures-instructions/describing-interactions-with-ui) para ver mais ideias sobre a melhor escolha de palavras em várias situações. |
 | Execute o Acrolinx no VSC | O Acrolinx verifica problemas de estilo e gramática. Ele verifica URLs, terminologia, ortografia e muito mais. Ele ajuda a melhorar a clareza e a tradução em conteúdos da Experience League. |
-
-{style="table-layout:auto"}
 
 Mais algumas práticas recomendadas e recursos:
 
@@ -188,7 +186,7 @@ Você não precisa se preocupar se o seu produto está localizado ou com os idio
 
 * `DNL`
 
-  DNL significa _não localizar_. Use-a somente para nomes de produtos da Adobe com marcas registradas, pois eles devem permanecer em inglês.
+  DNL significa *não localizar*. Use-a somente para nomes de produtos da Adobe com marcas registradas, pois eles devem permanecer em inglês.
 
   Exemplos de sintaxe: `[!DNL Adobe Campaign]` ou `[!DNL Workfront]`
 
@@ -206,7 +204,7 @@ Você não precisa se preocupar se o seu produto está localizado ou com os idio
 
 ### Uso de Adobe em nomes de produtos {#product-names}
 
-Para manter a identidade corporativa, geralmente incluímos _Adobe_ na primeira referência a um produto no nível do guia. Dependendo do espaço, é possível omitir o nome Adobe em um cabeçalho, mas a primeira referência no corpo do texto deve incluir o nome completo. Certos produtos, como _Adobe Audition_ e _Adobe Premiere Pro_, exigem a utilização do nome Adobe na primeira ou na mais proeminente referência em todas as peças colaterais por fazer parte do nome legal e marca comercial.
+Para manter a identidade corporativa, geralmente incluímos *Adobe* na primeira referência a um produto no nível do guia. Dependendo do espaço, é possível omitir o nome Adobe em um cabeçalho, mas a primeira referência no corpo do texto deve incluir o nome completo. Certos produtos, como *Adobe Audition* e *Adobe Premiere Pro*, exigem a utilização do nome Adobe na primeira ou na mais proeminente referência em todas as peças colaterais por fazer parte do nome legal e marca comercial.
 
 ## Primeiro parágrafo {#firstparas}
 
@@ -214,17 +212,17 @@ Seu primeiro parágrafo deve definir o tópico e descrever o que o leitor aprend
 
 Exemplo de primeiro parágrafo (conceito):
 
-_Públicos-alvo são coleções de visitantes (uma lista de IDs de visitante). Os serviços de público-alvo da Adobe gerenciam a conversão dos dados de visitantes na segmentação de público-alvo. Assim, criar e gerenciar públicos-alvo é como criar e usar segmentos, com a capacidade adicional de compartilhar o segmento de público-alvo com a Experience Cloud._
+*Públicos-alvo são coleções de visitantes (uma lista de IDs de visitante). Os serviços de público-alvo da Adobe gerenciam a conversão dos dados de visitantes na segmentação de público-alvo. Assim, criar e gerenciar públicos-alvo é como criar e usar segmentos, com a capacidade adicional de compartilhar o segmento de público-alvo com a Experience Cloud.*
 
 Exemplo de primeiro parágrafo (tarefa):
 
-_Crie a fonte de atributos do cliente (arquivos CSV e FIN) e faça upload dos dados. É possível ativar a fonte de dados quando você estiver preparado. Quando a fonte de dados estiver ativa, compartilhe os dados de atributo no Analytics e no Target._
+*Crie a fonte de atributos do cliente (arquivos CSV e FIN) e faça upload dos dados. É possível ativar a fonte de dados quando você estiver preparado. Quando a fonte de dados estiver ativa, compartilhe os dados de atributo no Analytics e no Target.*
 
 ### Dicas de SEO para primeiros parágrafos {#seo}
 
 * Incluir termos de pesquisa nos primeiros parágrafos.
 * Use os termos que os leitores usam.
-* Inclua sinônimos e, se necessário, os termos cujo uso já é obsoleto. Por exemplo: “O serviço Experience Cloud ID (ECID), anteriormente conhecido como _ID de visitante_ ou por abreviações, como MID, MCVID, fornece uma ID persistente e universal que identifica visitantes.”
+* Inclua sinônimos e, se necessário, os termos cujo uso já é obsoleto. Por exemplo: “O serviço Experience Cloud ID (ECID), anteriormente conhecido como *ID de visitante* ou por abreviações, como MID, MCVID, fornece uma ID persistente e universal que identifica visitantes.”
 * Inclua termos de SEO em links.
 * Evite colocar termos essenciais em tabelas complexas. Tabelas complexas não produzem resultados de pesquisa confiáveis. O texto em imagens não é pesquisado. As legendas são pesquisadas.
 

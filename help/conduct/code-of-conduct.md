@@ -1,11 +1,11 @@
 ---
 title: Código de conduta da Adobe
-description: Código de conduta do Adobe para reportar problemas e enviar alterações de edição
+description: Código de conduta da Adobe para emissão de relatórios sobre problemas e envio de alterações de edição
 exl-id: ff9c1cc5-8f65-40bb-8d5b-b7d42a5c08c2
-source-git-commit: 06b0a397f0612e5ecfca82fc7105a45ed167efc9
+source-git-commit: 9b3e4e2a7a007d4e417a5bf156d2290ea60b64ec
 workflow-type: tm+mt
-source-wordcount: '442'
-ht-degree: 97%
+source-wordcount: '441'
+ht-degree: 93%
 
 ---
 
@@ -52,16 +52,15 @@ ameaçadores, ofensivos ou perigosos.
 
 ## Escopo
 
-Este Código de conduta se aplica tanto em espaços de projetos quanto em espaços
-públicos, quando um indivíduo representa o projeto ou a comunidade. Os exemplos de
+Este Código de Conduta aplica-se tanto em espaços de projeto como em espaços públicos quando uma pessoa representa o projeto ou sua comunidade. Os exemplos de
 representação de um projeto ou comunidade incluem o uso de um endereço de email de projeto oficial, uma publicação por meio de uma conta oficial de mídia social ou a interação como um representante designado
 em um evento online ou offline. A representação de um projeto pode ser
 definida e esclarecida posteriormente por promovedores de projeto.
 
 ## Aplicação
 
-Instâncias de comportamento abusivo, assédio ou de outro comportamento inaceitável podem ser
-reportadas entrando em contato com a equipe do projeto em Grp-opensourceoffice@adobe.com. Todas
+Instâncias de comportamento abusivo, assédio ou de outra forma inaceitável podem ser
+relatado entrando em contato com a equipe do projeto em <Grp-opensourceoffice@adobe.com>. Todas
 as reclamações serão analisadas e investigadas e resultará em uma resposta considerada necessária e adequada às circunstâncias. A equipe do projeto é
 obrigada a manter a confidencialidade em relação ao relator de um incidente.
 Mais detalhes sobre políticas de aplicação específicas podem ser postados separadamente.

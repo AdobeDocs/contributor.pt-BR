@@ -2,9 +2,9 @@
 title: Recursos de aprendizado de Git e GitHub
 description: Recursos de aprendizado para Git e GitHub.
 exl-id: a112954a-76d9-4ee7-86be-676c5bd92994
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
+source-git-commit: 2ea5ddf33ae857dd9a5a764cac1fde8dcc4bc7d4
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
@@ -16,7 +16,6 @@ Se você não estiver familiarizado com Git ou GitHub, confira esses recursos.
 - [Conceitos básicos sobre o Git](https://git-scm.com/book/pt-br/v2/Getting-Started-Git-Basics): visão geral dos conceitos básicos sobre o Git.
 - [Saiba mais sobre Git e GitHub](https://docs.github.com/pt/github/getting-started-with-github/git-and-github-learning-resources)
 - [Manual interativo](https://try.github.io/): este é um tutorial online do Git. Ele mostra os conceitos básicos do Git.
-- [Serviços de treinamento do GitHub](https://services.github.com/training/): uma lista de tutoriais e ofertas de treinamento do GitHub.
 - E-book do Git Pro na [web](https://git-scm.com/book/pt-br/v2) ou em [PDF](https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf): veja isso na referência do Git no formato HTML ou PDF.
 - [Guias do GitHub](https://guides.github.com/): a página inicial da documentação do GitHub.
 - [Glossário](https://docs.github.com/pt/github/getting-started-with-github/github-glossary): um glossário prático de termos do GitHub.

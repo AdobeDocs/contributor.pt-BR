@@ -5,10 +5,10 @@ cloud: Experience Cloud
 user-guide-title: Guia do colaborador
 user-guide-description: Instruções para colaboradores da documentação da Adobe
 index: true
-source-git-commit: 38494017a88a638b8bf7b5033993c2647cfb09c6
+source-git-commit: 5412da76ebf2e8f67c35b09940b6a3d5cf442691
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 86%
+source-wordcount: '83'
+ht-degree: 77%
 
 ---
 
@@ -29,6 +29,9 @@ ht-degree: 86%
 + Feedback de tradução {#localization}
    + [Suporte de idioma para a documentação do produto Adobe Experience Cloud](localization/machine-translation.md)
 + [Recursos de aprendizado de Git e GitHub](resources.md)
-+ Conduta e contribuições {#conduct-contributions}
++  Conduta e contribuições {#conduct-contributions}
    + [Código de conduta](conduct/code-of-conduct.md)
    + [Visão geral das contribuições](conduct/contributing.md)
++ Teste ignorado {#testing}
+   + [Analytics com id](https://experienceleague.adobe.com/en/docs/analytics/implementation/id/overview)
+   + [Guia de autenticação](https://experienceleague.adobe.com/en/docs/authoring-guide/using/release-notes)

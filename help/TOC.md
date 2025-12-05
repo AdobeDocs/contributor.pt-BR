@@ -29,7 +29,7 @@ ht-degree: 77%
 + Feedback de tradução {#localization}
    + [Suporte de idioma para a documentação do produto Adobe Experience Cloud](localization/machine-translation.md)
 + [Recursos de aprendizado de Git e GitHub](resources.md)
-+  Conduta e contribuições {#conduct-contributions}
++ Conduta e contribuições {#conduct-contributions}
    + [Código de conduta](conduct/code-of-conduct.md)
    + [Visão geral das contribuições](conduct/contributing.md)
 + Teste ignorado {#testing}

@@ -2,9 +2,9 @@
 title: Como usar o Markdown para escrever a documentação
 description: Saiba mais sobre as noções básicas de criação no Markdown. Encontre informações de referência para a linguagem do Markdown usada para escrever artigos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: fff920c9e98ca821a4180157174c2a2ee1b84cb8
+source-git-commit: 7a14bde440f011f94b9eded63512362146336a9d
 workflow-type: tm+mt
-source-wordcount: '1340'
+source-wordcount: '1333'
 ht-degree: 100%
 
 ---
@@ -146,7 +146,6 @@ Tabelas simples funcionam adequadamente no Markdown. No entanto, as tabelas que 
 Para obter mais informações sobre como criar tabelas, consulte:
 
 * [Como organizar informações com tabelas do](https://docs.github.com/pt/github/writing-on-github/organizing-information-with-tables) GitHub
-* O aplicativo web [Gerador de tabelas para Markdown](https://www.tablesgenerator.com/markdown_tables)
 * [Converter tabelas HTML para Markdown](https://jmalarcon.github.io/markdowntables/)
 
 ### Links

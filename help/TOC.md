@@ -5,7 +5,7 @@ cloud: Experience Cloud
 user-guide-title: Guia do colaborador
 user-guide-description: Instruções para colaboradores da documentação da Adobe
 index: true
-source-git-commit: 64268158ee78464e49ae3409255850015dd2b6e2
+source-git-commit: f0552fbba1aac1b8ffd4116bd66f6c06afab0d39
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 77%
@@ -15,7 +15,7 @@ ht-degree: 77%
 
 # Guia do colaborador para a documentação da Adobe{#contributor-guide}
 
-+ [Introdução](introduction.md)
++ [Introdução](/help/introduction.md)
 + Configurar com GitHub {#setup}
    + [Configurar a conta do GitHub](setup/github-signup.md)
    + [Instale as ferramentas de criação do Git e do Markdown](setup/install-tools.md)

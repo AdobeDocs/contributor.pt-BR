@@ -2,10 +2,10 @@
 title: Fluxo de trabalho de contribuição do GitHub para grandes alterações
 description: Saiba como fazer contribuições para a documentação da Adobe na Experience League.
 exl-id: ad467ad4-abd2-4166-8659-e29c48d268ec
-source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+source-git-commit: df75e37ceec55476cc8b558e3bcccb474d329586
 workflow-type: tm+mt
-source-wordcount: '941'
-ht-degree: 100%
+source-wordcount: '951'
+ht-degree: 96%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 >All repositories that publish to docs.adobe.com have adopted the [Adobe Open Source Code of Conduct](../../code-of-conduct.md) or the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). For more information, see the [Contributing](../../contributing.md) article.
 >
 > Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [Adobe Documentation Terms of Use](https://www.adobe.com/legal/terms.html). New or significant changes generate a comment in the pull request, asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Adobe. We need you to complete the online form before we can review or accept your pull request.
---->
+-->
 
 ## Visão geral
 
@@ -65,7 +65,7 @@ Antes da solicitação de pull ser mesclada à ramificação de destino, pode se
 
 ### Revisão e aprovação
 
-Após concluir todo o processamento da PR, você deve revisar os resultados (comentários da PR, URLs de visualização, etc.) para determinar se são necessárias alterações adicionais nos arquivos antes de aprovar a mesclagem. Se um revisor de PR tiver revisado sua solicitação de pull, ele também poderá fornecer feedback em comentários, se houver problemas/perguntas pendentes que precisam ser resolvidos antes da mesclagem.
+Depois que todo o processamento da PR for concluído, você deverá revisar os resultados (comentários da PR, URLs de visualização etc.) para determinar se são necessárias alterações adicionais nos arquivos antes de aprovar a mesclagem. Se um revisor de PR tiver revisado sua solicitação de pull, ele também poderá fornecer feedback em comentários, se houver problemas/perguntas pendentes que precisam ser resolvidos antes da mesclagem.
 
 Quando a solicitação de pull estiver livre de problemas e for aprovada, as alterações serão mescladas com a ramificação principal e a solicitação de pull será encerrada.
 

@@ -184,7 +184,7 @@ Exibido:
 
 O Markdown oferece suporte à adição em linha de blocos de código em uma sentença e como um bloco “cercado” separado entre sentenças. Para obter detalhes, consulte o [suporte nativo do Markdown para blocos de código](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Use acentos graves (`` ` ``) para criar estilos de código em linha em um parágrafo. Para criar um bloco de código de várias linhas específico, adicione três acentos graves (` ``` `) antes e depois do bloco de código (chamado de “bloco de código cercado” no Markdown e apenas componente de “bloco de código” no AEM). Para blocos de código cercados, adicione o texto do código depois do primeiro conjunto de acentos graves para que o Markdown aponte a sintaxe de código correta. Exemplo: ` ```javascript`
+Use acentos graves (`` ` ``) para criar estilos de código em linha em um parágrafo. Para criar um bloco de código de várias linhas específico, adicione três acentos graves (` ` `` `) antes e depois do bloco de código (chamado de “bloco de código cercado” no Markdown e apenas componente de “bloco de código” no AEM). Para blocos de código cercados, adicione o texto do código depois do primeiro conjunto de acentos graves para que o Markdown aponte a sintaxe de código correta. Exemplo: ` `` `javascript`
 
 Exemplos:
 
@@ -225,11 +225,11 @@ Alguns elementos comuns do Markdown, como cabeçalhos e blocos de código, inclu
 * `[!IMPORTANT]`
 * `[!CAUTION]`
 * `[!WARNING]`
-* `[!ADMINISTRATION]`
+* `[ !ADMINISTRATION]`
 * `[!AVAILABILITY]`
 * `[!PREREQUISITES]`
 * `[!ERROR]`
-* `[!ADMINISTRATION]`
+* `[ !ADMINISTRATION]`
 * `[!INFO]`
 * `[!SUCCESS]`
 
@@ -287,9 +287,9 @@ Exibido:
 
 Todo o conteúdo de ajuda do Markdown é localizado usando a tradução automática inicialmente. Se a ajuda nunca foi localizada, mantemos a tradução automática. No entanto, se o conteúdo da ajuda tiver sido localizado no passado, o conteúdo traduzido por máquina atuará como um espaço reservado, enquanto o conteúdo estiver passando por tradução humana.
 
-**``**
+**&grave;&grave;**
 
-Durante a tradução automática, os itens marcados com `` são verificados em relação a um banco de dados de localização para que seja obtida a tradução apropriada. Caso a interface não esteja localizada, essa tag permitirá que o sistema deixe a referência da interface em inglês para esse idioma específico (ou seja, referências do Analytics em italiano).
+Durante a tradução automática, os itens marcados com &grave;&grave; são verificados em relação a um banco de dados de localização para que seja obtida a tradução apropriada. Caso a interface não esteja localizada, essa tag permitirá que o sistema deixe a referência da interface em inglês para esse idioma específico (ou seja, referências do Analytics em italiano).
 
 **Exemplo de conteúdo de origem:**
 
@@ -309,7 +309,7 @@ Durante a tradução automática, os itens marcados com `` são verificados em
 >Of the two tagging options, this is the most crucial to deliver high quality and is mandatory.
 -->
 
-**`[!DNL]`**
+**``**
 
 Como regra, usamos uma lista “Não traduzir” para informar aos mecanismos de tradução automática o que manter em inglês. Os itens mais comuns são os nomes longos de solução, como “Adobe Analytics”, “Adobe Campaign” e “Adobe Target”. No entanto, pode haver casos em que tenhamos de forçar o mecanismo a utilizar o inglês porque o termo em questão pode ser usado de forma específica ou geral. O caso mais óbvio seriam os nomes curtos de soluções, como &quot;Analytics&quot;, &quot;Campaign&quot;, &quot;Target&quot; etc. Seria difícil para uma máquina entender que esses são nomes de solução, não termos gerais. A tag também pode ser usada para nomes/recursos de terceiros que sempre permanecem em inglês ou para seções mais curtas de texto, como uma frase ou sentença que deve permanecer em inglês.
 

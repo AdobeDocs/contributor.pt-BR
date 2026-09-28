@@ -287,9 +287,9 @@ Exibido:
 
 Todo o conteúdo de ajuda do Markdown é localizado usando a tradução automática inicialmente. Se a ajuda nunca foi localizada, mantemos a tradução automática. No entanto, se o conteúdo da ajuda tiver sido localizado no passado, o conteúdo traduzido por máquina atuará como um espaço reservado, enquanto o conteúdo estiver passando por tradução humana.
 
-**``**
+**&grave;&grave;**
 
-Durante a tradução automática, os itens marcados com `` são verificados em relação a um banco de dados de localização para que seja obtida a tradução apropriada. Caso a interface não esteja localizada, essa tag permitirá que o sistema deixe a referência da interface em inglês para esse idioma específico (ou seja, referências do Analytics em italiano).
+Durante a tradução automática, os itens marcados com &grave;&grave; são verificados em relação a um banco de dados de localização para que seja obtida a tradução apropriada. Caso a interface não esteja localizada, essa tag permitirá que o sistema deixe a referência da interface em inglês para esse idioma específico (ou seja, referências do Analytics em italiano).
 
 **Exemplo de conteúdo de origem:**
 

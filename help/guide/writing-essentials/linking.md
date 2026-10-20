@@ -27,7 +27,7 @@ As palavras que você incluir no texto do link devem ser o título da página qu
 
 - `For more information, see the [overview article](https://github.com/AdobeDocs/target.pt-BR/help/overview.md).`
 
-- `For more details, see [Adobe Legal Concerns](https://www.adobe.com/legal).`
+- `For more details, see [Adobe Legal Concerns](https://www.adobe.com/br/legal).`
 
 ## Link de um artigo para outro
 

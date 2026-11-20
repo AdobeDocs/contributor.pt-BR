@@ -2,13 +2,11 @@
 title: Etapas de configuração de conta do GitHub
 description: Siga o processo de configuração de contas para o GitHub, necessário para contribuir com o conteúdo na documentação da Adobe.
 exl-id: 62be9e5a-bbbc-4a78-82e9-24cf658e6d35
-source-git-commit: 6510db0d89ac9224df8a73ab50776e65068b7e08
+source-git-commit: a1466cb4bcbef51689c659e25d56d5cb0d4843a6
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 100%
-
+source-wordcount: '215'
+ht-degree: 85%
 ---
-
 # Configuração de conta do GitHub
 
 ## Configurar uma conta do GitHub
@@ -33,6 +31,6 @@ como parte do projeto.
 
 >[!NOTE]
 >
->Se você for um funcionário da Adobe, recomendamos acessar `https://git.corp.adobe.com/adobedocs`, fazer logon usando sua conta LDAP e localizar o conteúdo que deseja editar.
+>Se você for um funcionário da Adobe, recomendamos acessar `https://github.com/Adobe-Enterprise-Docs`, entrar usando sua conta LDAP Corporativa (não sua conta pública Github.com) e localizar o conteúdo que deseja editar.
 >
 >Em seguida, você poderá usar a abordagem secundária (no navegador) ou principal (bifurcação e clonagem local) para editar artigos e enviar solicitações de pull.

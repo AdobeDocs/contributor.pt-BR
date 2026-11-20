@@ -2,13 +2,11 @@
 title: Fluxo de trabalho de contribuição do GitHub para grandes alterações
 description: Saiba como fazer contribuições para a documentação da Adobe na Experience League.
 exl-id: ad467ad4-abd2-4166-8659-e29c48d268ec
-source-git-commit: 6510db0d89ac9224df8a73ab50776e65068b7e08
+source-git-commit: a1466cb4bcbef51689c659e25d56d5cb0d4843a6
 workflow-type: tm+mt
-source-wordcount: '951'
+source-wordcount: '860'
 ht-degree: 96%
-
 ---
-
 # Fluxo de trabalho de contribuição do GitHub para grandes alterações
 
 <!--
@@ -49,9 +47,11 @@ Lembre-se que os [fundamentos do Git e GitHub](git-fundamentals.md) informam que
 
 Ao isolar as alterações relacionadas em uma ramificação específica, é possível controlar e introduzir as alterações de maneira independente, direcionando-as para um momento de lançamento específico no ciclo de publicação. Na verdade, dependendo do tipo de trabalho, você pode ter várias ramificações funcionais no seu repositório. Não é incomum trabalhar em várias ramificações ao mesmo tempo, cada uma representando um projeto diferente.
 
+<!--
 >[!NOTE]
 >
->Fazer as alterações diretamente na ramificação principal *não é uma prática recomendada*. Imagine que você use a ramificação principal para inserir um conjunto de alterações em uma versão de recurso programada. Você conclui as alterações e aguarda a liberação delas. Logo em seguida, você recebe uma solicitação urgente para corrigir algo; então, você faz a alteração em um arquivo na ramificação principal e a publica. Neste exemplo, você publica inadvertidamente a correção *e* as alterações que estavam aguardando liberação em uma data específica.
+>Making your changes in the main branch *is not a good practice*. Imagine that you use the main branch to introduce a set of changes for a timed feature release. You finish the changes and are waiting to release them. Then in the interim, you have an urgent request to fix something, so you make the change to a file in the main branch and then publish the change. In this example, you inadvertently publish both the fix *and* the changes that you were holding for release on a specific date.
+-->
 
 A próxima etapa é criar uma nova ramificação de trabalho no repositório local para capturar as alterações propostas. Cada cliente Git é diferente. Consulte a ajuda do seu cliente preferido. Você pode ver uma visão geral do processo no Guia do GitHub no [fluxo do GitHub](https://guides.github.com/introduction/flow/).
 
